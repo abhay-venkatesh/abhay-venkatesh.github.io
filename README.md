@@ -1,5 +1,5 @@
 ## Profile
-I a software engineer who is broadly interested in restarting the project of technological innovation that ended in the 1960s. 
+I am broadly interested in restarting the project of technological innovation that ended in the 1960s. 
 
 ### Internships
 Summer 2018
