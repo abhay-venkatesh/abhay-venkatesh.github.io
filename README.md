@@ -27,6 +27,7 @@ Summer 2017
 * [Music](https://www.last.fm/user/abhayvenkatesh)
 
 ### Other Interests
+* Machine Learning
 * Political philosophy
 * Culture and society
 * Economics
