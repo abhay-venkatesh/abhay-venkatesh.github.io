@@ -1,4 +1,5 @@
 ## Profile
+I a software engineer who is broadly interested in restarting the project of technological innovation that ended in the 1960s. 
 
 ### Internships
 Summer 2018
@@ -12,3 +13,10 @@ Summer 2017
 * [LinkedIn](https://linkedin.com/in/abhayvenkatesh)
 * [GitHub](https://github.com/abhay-venkatesh)
 * [Books](https://bookshelf.website/abhay/mixes/ul2b5/General-and-Surprising)
+* [Music](https://www.last.fm/user/abhayvenkatesh)
+
+### Interests
+* Political philosophy
+* Machine learning
+* Politically decentralized software systems
+* Software engineering
