@@ -1,5 +1,15 @@
 ## Profile
 I am broadly interested in restarting the project of technological innovation that ended in the 1960s. 
+To that end, I look forward to working in a broad swath of technological domains:
+* Cryptocurrencies
+* Decentralized and Distributed Systems
+* Artificial Intelligence
+* Nuclear Energy
+* The Longevity Project
+* Space Exploration
+* Virtual Reality
+* Advanced Transportation
+* Food Engineering
 
 ### Internships
 Summer 2018
@@ -18,4 +28,4 @@ Summer 2017
 ### Specific Interests
 * Political philosophy
 * Machine learning
-* Software systems design and engineering
+* Systems design and engineering
