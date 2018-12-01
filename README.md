@@ -24,3 +24,8 @@ Summer 2017
 * [GitHub](https://github.com/abhay-venkatesh)
 * [Books](https://bookshelf.website/abhay/mixes/ul2b5/General-and-Surprising)
 * [Music](https://www.last.fm/user/abhayvenkatesh)
+
+### Other Interests
+* Political Philosophy
+* Culture and Society
+* Economics
