@@ -29,7 +29,7 @@ Summer 2017
 ### Other Interests
 * Machine Learning
 * Systems design and engineering
-* Political philosophy
+* Political Philosophy
 * Culture and society
 * Economics
 * The question of the unidentifiable human "X"
