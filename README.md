@@ -1,6 +1,6 @@
 ## Profile
 I am broadly interested in restarting the project of technological innovation that ended in the late 1960s. 
-There are many radically underexplored areas of technology that I look forward to working in:
+There are many radically underexplored areas of technology that I look forward to working on:
 * The New Defense
 * The Decentralized Internet
 * Nuclear Energy
