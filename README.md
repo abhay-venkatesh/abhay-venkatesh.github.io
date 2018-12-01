@@ -33,3 +33,10 @@ Summer 2017
 * Culture and society
 * Economics
 * The question of the unidentifiable human "X"
+
+### Skillset
+* Advanced leadership experience
+* Design 
+* Computer science
+* Mathematics
+* Software Engineering
