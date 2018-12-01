@@ -28,6 +28,7 @@ Summer 2017
 
 ### Other Interests
 * Machine Learning
+* Systems design and engineering
 * Political philosophy
 * Culture and society
 * Economics
