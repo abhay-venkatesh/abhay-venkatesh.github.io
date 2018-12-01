@@ -9,6 +9,7 @@ There are many radically underexplored areas of technology that I look forward t
 * Virtual Reality
 * Advanced Transportation
 * Food Engineering
+* Political Technology 
 
 ### Internships
 Summer 2018
