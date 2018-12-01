@@ -24,8 +24,3 @@ Summer 2017
 * [GitHub](https://github.com/abhay-venkatesh)
 * [Books](https://bookshelf.website/abhay/mixes/ul2b5/General-and-Surprising)
 * [Music](https://www.last.fm/user/abhayvenkatesh)
-
-### Specific Interests
-* Political philosophy
-* Machine learning
-* Systems design and engineering
