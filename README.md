@@ -1,4 +1,5 @@
 ## Profile
+I am a Computer Science and Mathematics student who does Machine Learning research on the side. 
 I am broadly interested in restarting the project of technological innovation that ended in the late 1960s. 
 There are many radically underexplored areas of technology that I look forward to working on:
 * The New Defense
