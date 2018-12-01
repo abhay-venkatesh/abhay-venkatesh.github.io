@@ -18,5 +18,4 @@ Summer 2017
 ### Interests
 * Political philosophy
 * Machine learning
-* Politically decentralized software systems
-* Software engineering
+* Software systems design and engineering
