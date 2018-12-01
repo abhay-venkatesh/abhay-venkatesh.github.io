@@ -1,17 +1,5 @@
 ## Profile
 I am a Computer Science and Mathematics student who does Machine Learning research on the side. 
-I am broadly interested in restarting the project of technological innovation that ended in the late 1960s. 
-There are many radically underexplored areas of technology that I look forward to working on:
-* The New Defense
-* The Decentralized Internet
-* Nuclear Energy
-* The Longevity Project and Biotechnology
-* Space Exploration
-* Virtual Reality
-* Advanced Transportation
-* Food Engineering
-* Political Technology 
-* Advanced Materials, Manufacturing, and Construction
 
 ### Internships
 Summer 2018
@@ -27,10 +15,13 @@ Summer 2017
 * [Books](https://bookshelf.website/abhay/mixes/ul2b5/General-and-Surprising)
 * [Music](https://www.last.fm/user/abhayvenkatesh)
 
-### Other Interests
-* Machine learning
+### Interests
+I am broadly interested in restarting the project of technological innovation that ended in the late 1960s. 
 * Systems design and engineering
 * Political philosophy
 * Culture and society
 * Economics
 * The question of the unidentifiable human "X"
+* The Decentralized Internet
+* The New Defense
+* Political Technology
