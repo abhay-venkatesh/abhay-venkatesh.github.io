@@ -1,8 +1,7 @@
 ## Profile
 I am broadly interested in restarting the project of technological innovation that ended in the 1960s. 
-To that end, I look forward to working in a broad swath of technological domains:
-* Decentralized and Distributed Systems
-* Artificial Intelligence
+There are many radically underexplored areas of technology that I look forward to working in:
+* The Decentralized Internet
 * Nuclear Energy
 * The Longevity Project
 * Space Exploration
