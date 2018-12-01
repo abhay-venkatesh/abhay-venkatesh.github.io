@@ -27,9 +27,9 @@ Summer 2017
 * [Music](https://www.last.fm/user/abhayvenkatesh)
 
 ### Other Interests
-* Machine Learning
+* Machine learning
 * Systems design and engineering
-* Political Philosophy
+* Political philosophy
 * Culture and society
 * Economics
 * The question of the unidentifiable human "X"
