@@ -1,9 +1,10 @@
 ## Profile
 I am broadly interested in restarting the project of technological innovation that ended in the 1960s. 
 There are many radically underexplored areas of technology that I look forward to working in:
+* The New Defense
 * The Decentralized Internet
 * Nuclear Energy
-* The Longevity Project
+* The Longevity Project and Biotechnology
 * Space Exploration
 * Virtual Reality
 * Advanced Transportation
@@ -24,6 +25,7 @@ Summer 2017
 * [Music](https://www.last.fm/user/abhayvenkatesh)
 
 ### Other Interests
-* Political Philosophy
-* Culture and Society
+* Political philosophy
+* Culture and society
 * Economics
+* The question of the unidentifiable human "X"
