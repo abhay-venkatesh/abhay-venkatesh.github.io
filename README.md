@@ -26,7 +26,6 @@ Things that are radically underrated (and hence interest me):
 * The question of the unidentifiable human "X"
 * The Decentralized Internet
 * The New Defense
-* Political Technology
 * Free-market healthcare
 * The Longevity Project
 * Nuclear Energy
