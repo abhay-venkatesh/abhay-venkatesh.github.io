@@ -30,3 +30,4 @@ Things that are radically underrated (and hence interest me):
 * The Longevity Project
 * Nuclear Energy
 * Space Exploration
+* Macro opportunities in the age of bubbles
