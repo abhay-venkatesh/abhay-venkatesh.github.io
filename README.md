@@ -34,3 +34,6 @@ Things that are radically underrated (and hence interest me):
 * Robotics
 * Human-computer symbiosis
 * Skin-in-the-game for industries without skin-in-the-game (e.g. higher ed., unelected government agencies)
+
+## Important Graphs
+![Energy Costs](http://www.unesco.org/new/fileadmin/MULTIMEDIA/HQ/SC/images/img_wwap_wwdr3_fig_2.2_energycost.jpg)
