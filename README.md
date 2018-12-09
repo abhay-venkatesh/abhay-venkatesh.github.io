@@ -32,3 +32,5 @@ Things that are radically underrated (and hence interest me):
 * Space Exploration
 * Macro opportunities in the age of bubbles
 * Food engineering
+* Robotics
+* Human-computer symbiosis
