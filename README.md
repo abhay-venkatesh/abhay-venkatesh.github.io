@@ -37,4 +37,6 @@ Things that are radically underrated (and hence interest me):
 
 ## Important Graphs
 ![Energy Costs](http://www.unesco.org/new/fileadmin/MULTIMEDIA/HQ/SC/images/img_wwap_wwdr3_fig_2.2_energycost.jpg)
-<img src="https://cdn-images-1.medium.com/max/1587/1*pbkL27n7Ee0LLr65tIdZJw.png" alt="drawing" width="500"/>
+![College Tuition](https://cdn-images-1.medium.com/max/1587/1*pbkL27n7Ee0LLr65tIdZJw.png)
+![Food Consumption](http://world-ostrich.org/wp-content/uploads/2013/06/86-foodconsum-developing.jpg)
+
