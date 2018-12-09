@@ -37,7 +37,7 @@ Things that are radically underrated (and hence interest me):
 
 ## Important Graphs
 ![Energy Costs](http://www.unesco.org/new/fileadmin/MULTIMEDIA/HQ/SC/images/img_wwap_wwdr3_fig_2.2_energycost.jpg)
-![College Tuition](https://cdn-images-1.medium.com/max/1587/1*pbkL27n7Ee0LLr65tIdZJw.png)
+![College Mania](https://img.washingtonpost.com/blogs/wonkblog/files/2013/12/Screen-Shot-2013-12-30-at-9.31.48-PM.png)
 ![Food Consumption](http://world-ostrich.org/wp-content/uploads/2013/06/86-foodconsum-developing.jpg)
 ![Drug Approval](https://3ijp5i2qkzo4hq4yrxfteqh-wpengine.netdna-ssl.com/wp-content/uploads/2017/01/DiMasi20Drug20Development20Costs.jpeg)
 
