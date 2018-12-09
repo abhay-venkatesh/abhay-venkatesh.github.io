@@ -22,8 +22,7 @@ Things that are radically underrated (and hence interest me):
 * Engineering
 * Systems design
 * Political philosophy
-* The truth about culture and society
-* The question of the unidentifiable human "X"
+* The truth about culture, society, and the unidentifiable human "X"
 * The Decentralized Internet
 * The New Defense
 * Free-market healthcare and advanced biotechnology
