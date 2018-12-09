@@ -40,4 +40,4 @@ Things that are radically underrated (and hence interest me):
 ![College Mania](https://img.washingtonpost.com/blogs/wonkblog/files/2013/12/Screen-Shot-2013-12-30-at-9.31.48-PM.png)
 ![Food Consumption](http://world-ostrich.org/wp-content/uploads/2013/06/86-foodconsum-developing.jpg)
 ![Drug Approval](https://3ijp5i2qkzo4hq4yrxfteqh-wpengine.netdna-ssl.com/wp-content/uploads/2017/01/DiMasi20Drug20Development20Costs.jpeg)
-
+![Regulatory Load](https://www.uschamber.com/sites/default/files/pages_in_cfr.jpg)
