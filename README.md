@@ -34,3 +34,4 @@ Things that are radically underrated (and hence interest me):
 * Food engineering
 * Robotics
 * Human-computer symbiosis
+* Skin-in-the-game for industries without skin-in-the-game (e.g. higher ed., unelected government agencies)
