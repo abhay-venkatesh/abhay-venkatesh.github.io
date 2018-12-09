@@ -21,7 +21,7 @@ I am broadly interested in restarting the project of technological innovation th
 Things that are radically underrated (and hence interest me):
 * Engineering
 * Systems design
-* Political philosophy
+* Political philosophy and government reform
 * The truth about culture, society, and the unidentifiable human "X"
 * The Decentralized Internet
 * The New Defense
