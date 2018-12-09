@@ -35,7 +35,7 @@ Things that are radically underrated (and hence interest me):
 * Human-computer symbiosis
 * Skin-in-the-game for industries without skin-in-the-game (e.g. higher ed., unelected government agencies)
 
-## Important Graphs
+## Graphs
 ![Energy Costs](http://www.unesco.org/new/fileadmin/MULTIMEDIA/HQ/SC/images/img_wwap_wwdr3_fig_2.2_energycost.jpg)
 ![College Mania](https://img.washingtonpost.com/blogs/wonkblog/files/2013/12/Screen-Shot-2013-12-30-at-9.31.48-PM.png)
 ![Food Consumption](http://world-ostrich.org/wp-content/uploads/2013/06/86-foodconsum-developing.jpg)
