@@ -1,5 +1,5 @@
 # Profile
-I am a computer sceience and mathematics student who does machine learning research on the side. 
+I am a computer science and mathematics student who does machine learning research on the side. 
 
 ## Experience
 Summer 2018
