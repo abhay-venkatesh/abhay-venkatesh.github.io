@@ -20,7 +20,7 @@ Technical expertise in software systems design and engineering, machine learning
 * [Music](https://www.last.fm/user/abhayvenkatesh)
 
 ## Interests
-I am broadly interested in restarting the project of technological innovation that ended in the late 1960s. There is no good future, for reasons that are not terse, in which we do not have a lot more technological progress relative to today. 
+I am broadly interested in restarting the project of technological innovation that ended in the late 1960s. There is no good future, for reasons that cannot be tersely elaborated on, in which we do not have a lot more technological progress relative to today. 
 
 Things that are radically underrated (and hence interest me):
 * Engineering
