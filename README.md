@@ -32,6 +32,7 @@ Things that are radically underrated (and hence interest me):
 * Free-market healthcare and advanced biotechnology
 * The Longevity Project
 * Nuclear Energy
+* Technologies pertaining to resource constraint challenges in the long run
 * Space Exploration
 * Macro opportunities in the age of bubbles
 * Food engineering
