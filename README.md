@@ -13,6 +13,7 @@ I am a computer science and mathematics student, and a machine learning research
 * Hilldale Undergraduate Research Scholarship
 * Cornell, Maryland, and Max Planck Institute Pre-Doctoral Research Fellowship
 * John W. Jung Memorial Scholarship
+* Award-Winning Exhibit at Engineering Expo for Computer Vision Project
 * Unilever Bright Future Grant
 * Dean's Award of Excellence
 * Best Overall Student (High School)
