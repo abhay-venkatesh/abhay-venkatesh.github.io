@@ -8,3 +8,11 @@ I am a computer science and mathematics student, and a machine learning research
 ## Projects
 * [OneAccess: Data Access Layer for Machine Learning](https://github.com/abhay-venkatesh/one_access/blob/master/one_access.pdf)
 * [Learning View-Invariant Semantic Segmentation from UAV Sequences](https://github.com/abhay-venkatesh/invariant-net/blob/master/learning-view-invariant.pdf)
+
+## Awards
+* Hilldale Undergraduate Research Scholarship
+* Cornell, Maryland, and Max Planck Institute Pre-Doctoral Research Fellowship
+* John W. Jung Memorial Scholarship
+* Unilever Bright Future Grant
+* Dean's Award of Excellence
+* Best Overall Student (High School)
