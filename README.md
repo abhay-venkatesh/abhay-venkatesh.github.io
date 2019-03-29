@@ -11,6 +11,6 @@ I am a computer science and mathematics student, and a machine learning research
 * [Diabetic Retinopathy Detection](https://github.com/abhay-venkatesh/diabetic-retinopathy-detection/blob/master/760-project-report.pdf)
 
 ## Invaluable
-The following links provide invaluable information for our time:
+The following links provide invaluable advice for everyone living in our time:
 * [Sam Altman: How to be Successful](https://blog.samaltman.com/how-to-be-successful)
 * [Joe Lonsdale: Lessons from Peter Thiel](https://medium.com/8vc-news/lessons-from-peter-thiel-b4fb0851f64e)
