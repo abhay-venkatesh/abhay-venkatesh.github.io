@@ -20,3 +20,5 @@ I am a computer science and mathematics student, and a machine learning research
 The following links provide invaluable advice for everyone living in our time:
 * [Sam Altman: How to be Successful](https://blog.samaltman.com/how-to-be-successful)
 * [Joe Lonsdale: Lessons from Peter Thiel](https://medium.com/8vc-news/lessons-from-peter-thiel-b4fb0851f64e)
+* [Peter Thiel: CS183 Startup](http://blakemasters.com/peter-thiels-cs183-startup)
+* [Paul Graham: Essays](http://paulgraham.com/articles.html)
