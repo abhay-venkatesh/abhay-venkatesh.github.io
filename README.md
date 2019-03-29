@@ -23,3 +23,4 @@ I am a computer science and mathematics student, and a machine learning research
 * [Paul Graham: Essays](http://paulgraham.com/articles.html)
 * [Laura Deming: Longevity FAQ](https://www.ldeming.com/longevityfaq)
 * [Patrick Collison](https://patrickcollison.com/about)
+* [Founders Fund: What Happened to the Future?](https://foundersfund.com/the-future/)
