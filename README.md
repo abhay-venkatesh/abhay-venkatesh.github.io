@@ -16,9 +16,10 @@ I am a computer science and mathematics student, and a machine learning research
 * [Learning View-Invariant Semantic Segmentation from UAV Sequences](https://github.com/abhay-venkatesh/invariant-net/blob/master/learning-view-invariant.pdf)
 * [Diabetic Retinopathy Detection](https://github.com/abhay-venkatesh/diabetic-retinopathy-detection/blob/master/760-project-report.pdf)
 
-## Invaluable
+## Invaluable Information
 * [Sam Altman: How to be Successful](https://blog.samaltman.com/how-to-be-successful)
 * [Joe Lonsdale: Lessons from Peter Thiel](https://medium.com/8vc-news/lessons-from-peter-thiel-b4fb0851f64e)
 * [Peter Thiel: CS183 Startup](http://blakemasters.com/peter-thiels-cs183-startup)
 * [Paul Graham: Essays](http://paulgraham.com/articles.html)
 * [Laura Deming: Longevity FAQ](https://www.ldeming.com/longevityfaq)
+* [Patrick Collison](https://patrickcollison.com/about)
