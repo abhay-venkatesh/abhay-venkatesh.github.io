@@ -5,6 +5,7 @@ I am a computer science and mathematics student, and a machine learning research
 * [LinkedIn](https://linkedin.com/in/abhayvenkatesh)
 * [GitHub](https://github.com/abhay-venkatesh)
 * [Books](https://bookshelf.website/abhay/mixes/dvadl/Book-Recs)
+* [Music](https://www.last.fm/user/abhayvenkatesh)
 
 ## Projects
 * [OneAccess: Data Access Layer for Machine Learning](https://github.com/abhay-venkatesh/one_access/blob/master/one_access.pdf)
