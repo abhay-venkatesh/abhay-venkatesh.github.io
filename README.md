@@ -1,7 +1,7 @@
 # Profile
 I am a computer science and mathematics student, and a machine learning research assistant. 
 
-## Links
+## More about me
 * [LinkedIn](https://linkedin.com/in/abhayvenkatesh)
 * [GitHub](https://github.com/abhay-venkatesh)
 * [Books](https://bookshelf.website/abhay/mixes/dvadl/Book-Recs)
@@ -16,7 +16,7 @@ I am a computer science and mathematics student, and a machine learning research
 * [Learning View-Invariant Semantic Segmentation from UAV Sequences](https://github.com/abhay-venkatesh/invariant-net/blob/master/learning-view-invariant.pdf)
 * [Diabetic Retinopathy Detection](https://github.com/abhay-venkatesh/diabetic-retinopathy-detection/blob/master/760-project-report.pdf)
 
-## Invaluable Information
+## Links
 * [Sam Altman: How to be Successful](https://blog.samaltman.com/how-to-be-successful)
 * [Joe Lonsdale: Lessons from Peter Thiel](https://medium.com/8vc-news/lessons-from-peter-thiel-b4fb0851f64e)
 * [Peter Thiel: CS183 Startup](http://blakemasters.com/peter-thiels-cs183-startup)
@@ -24,3 +24,5 @@ I am a computer science and mathematics student, and a machine learning research
 * [Laura Deming: Longevity FAQ](https://www.ldeming.com/longevityfaq)
 * [Patrick Collison](https://patrickcollison.com/about)
 * [Founders Fund: What Happened to the Future?](https://foundersfund.com/the-future/)
+* [The Crypto-Anarchist Manifesto](https://www.activism.net/cypherpunk/crypto-anarchy.html)
+* [The Optimistic Thought Experiment](https://www.hoover.org/research/optimistic-thought-experiment)
