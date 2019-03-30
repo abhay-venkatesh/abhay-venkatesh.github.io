@@ -9,7 +9,7 @@ I am a computer science and mathematics student, and a machine learning research
 
 ## Projects
 * Size Normalization Matters for Semantic Segmentation
-* Hermite Polynomials: ML Activations with Faster Convergence
+* A New Type of Activation Function for ML
 * The Case for Unifying Data Loading in Machine Learning Clusters
 * Extending Drone Vision Systems Using Synthetic Data
 * [OneAccess: Data Access Layer for Machine Learning](https://github.com/abhay-venkatesh/one_access/blob/master/one_access.pdf)
