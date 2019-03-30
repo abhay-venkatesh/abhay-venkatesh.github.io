@@ -8,7 +8,7 @@ I am a computer science and mathematics student, and a machine learning research
 * [Music](https://www.last.fm/user/abhayvenkatesh)
 
 ## Projects
-* Size Normalization Matters for Semantic Segmentation
+* Optimizing Global Objectives in Computer Vision
 * A New Type of Activation Function for ML
 * The Case for Unifying Data Loading in Machine Learning Clusters
 * Extending Drone Vision Systems Using Synthetic Data
