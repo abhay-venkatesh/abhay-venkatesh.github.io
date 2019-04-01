@@ -27,3 +27,4 @@ I am a computer science and mathematics student, and a machine learning research
 * [The Crypto-Anarchist Manifesto](https://www.activism.net/cypherpunk/crypto-anarchy.html)
 * [The Optimistic Thought Experiment](https://www.hoover.org/research/optimistic-thought-experiment)
 * [Unenumerated](https://unenumerated.blogspot.com/)
+* [Michael Nielsen](http://michaelnielsen.org/)
