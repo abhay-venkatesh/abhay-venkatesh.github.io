@@ -28,3 +28,4 @@ I am a computer science and mathematics student, and a machine learning research
 * [The Optimistic Thought Experiment](https://www.hoover.org/research/optimistic-thought-experiment)
 * [Unenumerated](https://unenumerated.blogspot.com/)
 * [Michael Nielsen](http://michaelnielsen.org/)
+* [Inference](https://inference-review.com/)
