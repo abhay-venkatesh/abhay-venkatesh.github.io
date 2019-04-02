@@ -29,3 +29,4 @@ I am a computer science and mathematics student, and a machine learning research
 * [Unenumerated](https://unenumerated.blogspot.com/)
 * [Michael Nielsen](http://michaelnielsen.org/)
 * [Inference](https://inference-review.com/)
+* [Imitatio](http://www.imitatio.org/)
