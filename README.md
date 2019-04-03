@@ -19,7 +19,7 @@ I am a computer science and mathematics student, and a machine learning research
 ## Links
 * [Sam Altman: How to be Successful](https://blog.samaltman.com/how-to-be-successful)
 * [Joe Lonsdale: Lessons from Peter Thiel](https://medium.com/8vc-news/lessons-from-peter-thiel-b4fb0851f64e)
-* [Peter Thiel: CS183 Startup](http://blakemasters.com/peter-thiels-cs183-startup)
+* [Stanford CS183: Startup](http://blakemasters.com/peter-thiels-cs183-startup)
 * [Paul Graham: Essays](http://paulgraham.com/articles.html)
 * [Laura Deming: Longevity FAQ](https://www.ldeming.com/longevityfaq)
 * [Patrick Collison](https://patrickcollison.com/about)
@@ -30,4 +30,4 @@ I am a computer science and mathematics student, and a machine learning research
 * [Michael Nielsen](http://michaelnielsen.org/)
 * [Inference](https://inference-review.com/)
 * [Imitatio](http://www.imitatio.org/)
-* [German 270: Sovereignty and the Limits of Globalization and Technology](https://www.documentcloud.org/documents/5677718-Thiel-German-270-Syllabus.html)
+* [Stanford German 270: Sovereignty and the Limits of Globalization and Technology](https://www.documentcloud.org/documents/5677718-Thiel-German-270-Syllabus.html)
