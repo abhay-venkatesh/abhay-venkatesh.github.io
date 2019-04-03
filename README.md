@@ -30,3 +30,4 @@ I am a computer science and mathematics student, and a machine learning research
 * [Michael Nielsen](http://michaelnielsen.org/)
 * [Inference](https://inference-review.com/)
 * [Imitatio](http://www.imitatio.org/)
+* [John Horgan: Why I Think Science is Ending](https://www.edge.org/conversation/john_horgan-why-i-think-science-is-ending)
