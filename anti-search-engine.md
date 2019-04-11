@@ -1,6 +1,8 @@
 # The Anti-Search Engine
 Search engines produce answers based on consensus, i.e. what is the most likely truth given all the data? However, the most important questions have answers that are not based on consensus. Every undiscovered truth is predicated on such questions, but you can't plug these questions into a search engine. Hence, I define the "Anti-Search Engine" as a link repository that might lead one to questions that do not have consensus-based answers. 
 
+Unlike search engines like Google, there are no shortcuts in the Anti-Search Engine. One must dig deep on one's own time, and through one's own perseverance shall one find the answer. 
+
 * [Bookshelf](https://bookshelf.website/abhay/mixes/dvadl/Book-Recs)
 * [Sam Altman: How to be Successful](https://blog.samaltman.com/how-to-be-successful)
 * [Stanford CS183: Startup](http://blakemasters.com/peter-thiels-cs183-startup)
@@ -19,3 +21,4 @@ Search engines produce answers based on consensus, i.e. what is the most likely 
 * [Nintil](https://nintil.com/)
 * [Harold Bloom: Western Canon](http://sonic.net/~rteeter/grtbloom.html)
 * [8VC Blog](https://medium.com/@8VC)
+* [Marginal Revolution](https://marginalrevolution.com/)
