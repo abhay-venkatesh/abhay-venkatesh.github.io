@@ -33,3 +33,4 @@ I am a computer science and mathematics student, and a machine learning research
 * [Stanford German 270: Sovereignty and the Limits of Globalization and Technology](https://www.documentcloud.org/documents/5677718-Thiel-German-270-Syllabus.html)
 * [Edge](https://www.edge.org/)
 * [Nintil](https://nintil.com/)
+* [Harold Bloom: Western Canon](http://sonic.net/~rteeter/grtbloom.html)
