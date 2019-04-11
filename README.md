@@ -6,6 +6,7 @@ I am a computer science and mathematics student, and a machine learning research
 * [GitHub](https://github.com/abhay-venkatesh)
 * [Books](https://bookshelf.website/abhay/mixes/dvadl/Book-Recs)
 * [Music](https://www.last.fm/user/abhayvenkatesh)
+* [Anti-Search Engine](./anti-search-engine.md)
 
 ## Projects
 * Optimizing Global Objectives in Computer Vision
