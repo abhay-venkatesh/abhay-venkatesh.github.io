@@ -18,7 +18,6 @@ I am a computer science and mathematics student, and a machine learning research
 
 ## Links
 * [Sam Altman: How to be Successful](https://blog.samaltman.com/how-to-be-successful)
-* [Joe Lonsdale: Lessons from Peter Thiel](https://medium.com/8vc-news/lessons-from-peter-thiel-b4fb0851f64e)
 * [Stanford CS183: Startup](http://blakemasters.com/peter-thiels-cs183-startup)
 * [Paul Graham: Essays](http://paulgraham.com/articles.html)
 * [Laura Deming: Longevity FAQ](https://www.ldeming.com/longevityfaq)
@@ -34,3 +33,4 @@ I am a computer science and mathematics student, and a machine learning research
 * [Edge](https://www.edge.org/)
 * [Nintil](https://nintil.com/)
 * [Harold Bloom: Western Canon](http://sonic.net/~rteeter/grtbloom.html)
+* [8VC Blog](https://medium.com/@8VC)
