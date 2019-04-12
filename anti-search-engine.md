@@ -22,5 +22,6 @@ Unlike search engines like Google, there are no shortcuts in the Anti-Search Eng
 * [Harold Bloom: Western Canon](http://sonic.net/~rteeter/grtbloom.html)
 * [8VC Blog](https://medium.com/@8VC)
 * [Marginal Revolution](https://marginalrevolution.com/)
+* [Dan Wang](https://danwang.co/)
 
 Let me know your thoughts, or send me link suggestions!
