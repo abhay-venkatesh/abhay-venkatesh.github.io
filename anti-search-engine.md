@@ -24,4 +24,4 @@ Unlike search engines like Google, there are no shortcuts in the Anti-Search Eng
 * [Marginal Revolution](https://marginalrevolution.com/)
 * [Dan Wang](https://danwang.co/)
 
-Let me know your thoughts, or send me link suggestions!
+Let me know your thoughts, and/or send me link suggestions!
