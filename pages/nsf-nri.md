@@ -2,7 +2,3 @@
 
 ![Environment](../img/nri-site.jpg)
 Built an [interface](https://github.com/abhay-venkatesh/NRI-authoring-UI) for creating robot tasks under [Dr. Bilge Mutlu](http://bilgemutlu.com/) in collaboration with the [MIT Interactive Robotics Group](https://interactive.mit.edu/). We define "therbligs" as the atomic task units, and then compose them to create various actions. 
-
-{% raw %}
-  $$a^2 + b^2 = c^2$$ --> note that all equations between these tags will not need escaping! 
-{% endraw %}
