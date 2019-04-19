@@ -15,7 +15,9 @@
     <div class="wrapper">
       <header>
         
-        <img src="./img/abhay.jpg" alt="Logo" />
+        {% if site.logo %}
+          <img src="{{site.logo | relative_url}}" alt="Logo" />
+        {% endif %}
 
       </header>
       <section>
