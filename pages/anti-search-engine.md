@@ -3,7 +3,6 @@ Search engines produce answers based on consensus, i.e. what is the most likely 
 
 Unlike search engines like Google, there are no shortcuts in the Anti-Search Engine. One must dig deep on one's own time, and through one's own perseverance shall one find the answer. 
 
-* [Bookshelf](https://bookshelf.website/abhay/mixes/dvadl/Book-Recs)
 * [Sam Altman: How to be Successful](https://blog.samaltman.com/how-to-be-successful)
 * [Stanford CS183: Startup](http://blakemasters.com/peter-thiels-cs183-startup)
 * [Paul Graham: Essays](http://paulgraham.com/articles.html)
