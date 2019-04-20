@@ -17,4 +17,5 @@ I am a computer science and mathematics student, and a machine learning research
 * [LinkedIn](https://linkedin.com/in/abhayvenkatesh)
 * [GitHub](https://github.com/abhay-venkatesh)
 * [Music](https://www.last.fm/user/abhayvenkatesh)
+* [Bookshelf](https://bookshelf.website/abhay/mixes/dvadl/Book-Recs)
 * [The Anti-Search Engine](./pages/anti-search-engine.md)
