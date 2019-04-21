@@ -22,5 +22,6 @@ Unlike search engines like Google, there are no shortcuts in the Anti-Search Eng
 * [8VC Blog](https://medium.com/@8VC)
 * [Marginal Revolution](https://marginalrevolution.com/)
 * [Dan Wang](https://danwang.co/)
+* [The Education of a Libertarian](https://www.cato-unbound.org/2009/04/13/peter-thiel/education-libertarian)
 
 Let me know your thoughts, and/or send me link suggestions!
