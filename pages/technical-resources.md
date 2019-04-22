@@ -4,6 +4,7 @@
 
 - [Understanding Convolutions](https://colah.github.io/posts/2014-07-Understanding-Convolutions/)
 - [Back-propagation](http://www.offconvex.org/2016/12/20/backprop/)
+- [Distill](https://distill.pub/)
 
 ## Software Systems
 
