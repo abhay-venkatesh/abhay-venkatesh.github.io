@@ -7,7 +7,7 @@
 - [Offconvex](http://www.offconvex.org/)
 - [Distill](https://distill.pub/)
 - [Differentiable Neural Computers](https://deepmind.com/blog/differentiable-neural-computers/)
-- [The Unreasonable Effectiveness of RNNs](https://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+- [Andrej Karpathy](https://karpathy.github.io/)
 
 ### Practice
 - [Network Dissection](http://netdissect.csail.mit.edu/)
