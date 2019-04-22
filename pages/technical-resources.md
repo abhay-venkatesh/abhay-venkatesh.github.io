@@ -8,6 +8,7 @@
 - [Distill](https://distill.pub/)
 - [DeepMind](https://deepmind.com/blog/)
 - [Andrej Karpathy](https://karpathy.github.io/)
+- [R2RT](https://r2rt.com/)
 
 ### Practice
 - [Network Dissection](http://netdissect.csail.mit.edu/)
