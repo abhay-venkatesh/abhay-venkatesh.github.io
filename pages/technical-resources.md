@@ -2,10 +2,14 @@
 
 ## Machine Learning
 
+### Theory
 - [Understanding Convolutions](https://colah.github.io/posts/2014-07-Understanding-Convolutions/)
 - [Offconvex](http://www.offconvex.org/)
 - [Distill](https://distill.pub/)
+
+### Practice
 - [Network Dissection](http://netdissect.csail.mit.edu/)
+- [WaveNet](https://deepmind.com/blog/wavenet-generative-model-raw-audio/)
 
 ## Software Systems
 
