@@ -10,6 +10,7 @@
 ### Practice
 - [Network Dissection](http://netdissect.csail.mit.edu/)
 - [WaveNet](https://deepmind.com/blog/wavenet-generative-model-raw-audio/)
+- [Differentiable Neural Computers](https://deepmind.com/blog/differentiable-neural-computers/)
 
 ## Software Systems
 
