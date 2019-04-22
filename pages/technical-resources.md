@@ -3,7 +3,7 @@
 ## Machine Learning
 
 - [Understanding Convolutions](https://colah.github.io/posts/2014-07-Understanding-Convolutions/)
-- [Back-propagation](http://www.offconvex.org/2016/12/20/backprop/)
+- [Offconvex](http://www.offconvex.org/)
 - [Distill](https://distill.pub/)
 
 ## Software Systems
