@@ -13,6 +13,7 @@
 
 ### Practice
 - [Network Dissection](http://netdissect.csail.mit.edu/)
+- [A Tour Through a CNN](http://balaton.graphics.cs.cmu.edu/dfouhey/16825/layer1/index.html)
 
 ## Software Systems
 
