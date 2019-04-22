@@ -9,6 +9,7 @@
 - [DeepMind](https://deepmind.com/blog/)
 - [Andrej Karpathy](https://karpathy.github.io/)
 - [R2RT](https://r2rt.com/)
+- [WildML](http://www.wildml.com/)
 
 ### Practice
 - [Network Dissection](http://netdissect.csail.mit.edu/)
