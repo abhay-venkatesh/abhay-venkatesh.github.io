@@ -6,11 +6,12 @@
 - [Understanding Convolutions](https://colah.github.io/posts/2014-07-Understanding-Convolutions/)
 - [Offconvex](http://www.offconvex.org/)
 - [Distill](https://distill.pub/)
+- [Differentiable Neural Computers](https://deepmind.com/blog/differentiable-neural-computers/)
+- [The Unreasonable Effectiveness of RNNs](https://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 
 ### Practice
 - [Network Dissection](http://netdissect.csail.mit.edu/)
 - [WaveNet](https://deepmind.com/blog/wavenet-generative-model-raw-audio/)
-- [Differentiable Neural Computers](https://deepmind.com/blog/differentiable-neural-computers/)
 
 ## Software Systems
 
