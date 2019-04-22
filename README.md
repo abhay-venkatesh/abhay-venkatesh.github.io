@@ -19,4 +19,4 @@ I am a computer science and mathematics student, and a machine learning research
 * [Music](https://www.last.fm/user/abhayvenkatesh)
 * [Bookshelf](https://bookshelf.website/abhay/mixes/dvadl/Book-Recs)
 * [The Anti-Search Engine](./pages/anti-search-engine.md)
-* [High quality Math and CS Resources](./pages/math-cs-resources.md)
+* [High-Quality Technical Resources](./pages/technical-resources.md)
