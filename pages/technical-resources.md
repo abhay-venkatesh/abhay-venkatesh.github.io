@@ -3,7 +3,7 @@
 ## Machine Learning
 
 ### Blogs
-- [Colah](https://colah.github.io/)
+- [Christopher Olah](https://colah.github.io/)
 - [Offconvex](http://www.offconvex.org/)
 - [Distill](https://distill.pub/)
 - [DeepMind](https://deepmind.com/blog/)
