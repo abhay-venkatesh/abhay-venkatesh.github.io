@@ -2,6 +2,9 @@
 
 ## Machine Learning
 
+### Techniques
+- [PCA](https://stats.stackexchange.com/questions/2691/making-sense-of-principal-component-analysis-eigenvectors-eigenvalues)
+
 ### Blogs
 - [Christopher Olah](https://colah.github.io/)
 - [Offconvex](http://www.offconvex.org/)
