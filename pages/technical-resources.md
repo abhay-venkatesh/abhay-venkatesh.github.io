@@ -1,5 +1,4 @@
-# Mathematics and Computer Science Resources
-A collection of high-quality learning resources for Mathematics and Computer Science. 
+# Technical Resources
 
 ## Machine Learning
 
