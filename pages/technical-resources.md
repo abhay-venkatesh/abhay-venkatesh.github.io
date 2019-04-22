@@ -2,7 +2,7 @@
 
 ## Machine Learning
 
-### Techniques
+### Methods
 - [PCA](https://stats.stackexchange.com/questions/2691/making-sense-of-principal-component-analysis-eigenvectors-eigenvalues)
 
 ### Blogs
