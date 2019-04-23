@@ -1,4 +1,4 @@
-# Technical Resources
+# High Quality Technical Resources
 
 ## Machine Learning
 
