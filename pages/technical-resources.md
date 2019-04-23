@@ -14,9 +14,11 @@
 - [R2RT](https://r2rt.com/)
 - [WildML](http://www.wildml.com/)
 
+### Theory
+- [A Tour Through a CNN](http://balaton.graphics.cs.cmu.edu/dfouhey/16825/layer1/index.html)
+
 ### Practice
 - [Network Dissection](http://netdissect.csail.mit.edu/)
-- [A Tour Through a CNN](http://balaton.graphics.cs.cmu.edu/dfouhey/16825/layer1/index.html)
 - [Tensorflow Playground](https://playground.tensorflow.org)
 
 ## Software Systems
