@@ -22,7 +22,7 @@
 - [Tensorflow Playground](https://playground.tensorflow.org)
 
 ### Courses
-- [CS224d: Deep Learning for Natural Language Processing](https://cs224d.stanford.edu/)
+- [CS 224d: Deep Learning for Natural Language Processing](https://cs224d.stanford.edu/)
 - [CS 294-112 at UC Berkeley: Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/)
 - [CS 229: Machine Learning](http://cs229.stanford.edu/)
 - [CS 229a: Applied Machine Learning](https://web.stanford.edu/class/cs229a/)
