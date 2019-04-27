@@ -9,7 +9,7 @@ I am a computer science and mathematics student, and a machine learning research
 * The Case for Unifying Data Loading in Machine Learning Clusters (Accepted to [HotCloud19](https://www.usenix.org/conference/hotcloud19))
 * Extending Drone Vision Systems Using Synthetic Data and Conditional GANs
 * [OneAccess: Data Access Layer for Machine Learning](./assets/one_access.pdf)
-* [Learning View-Invariant Semantic Segmentation from UAV Sequences (SDM18)](https://github.com/abhay-venkatesh/invariant-net/blob/master/learning-view-invariant.pdf)
+* [Learning View-Invariant Semantic Segmentation from UAV Sequences](https://github.com/abhay-venkatesh/invariant-net/blob/master/learning-view-invariant.pdf)(Accepted to [SDM2018](https://archive.siam.org/meetings/sdm18/))
 * [NSF NRI Robot Task Authoring Environment](./pages/nsf-nri.md)
 
 ## More
