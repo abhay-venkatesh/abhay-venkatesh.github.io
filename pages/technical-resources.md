@@ -40,3 +40,7 @@
 ### Courses
 - [EPFL CS 438: Decentralized Systems Engineering](https://edu.epfl.ch/coursebook/en/decentralized-systems-engineering-CS-438)
 - [MIT Course 6.824: Distributed Systems](https://pdos.csail.mit.edu/6.824/)
+
+### Labs
+- [EPFL DEDIS](https://dedis.epfl.ch/)
+- [UIUC Decentralied Systems Lab](https://decentralize.ece.illinois.edu/)
