@@ -44,4 +44,4 @@
 
 ### Labs
 - [EPFL DEDIS](https://dedis.epfl.ch/)
-- [UIUC Decentralied Systems Lab](https://decentralize.ece.illinois.edu/)
+- [UIUC Decentralized Systems Lab](https://decentralize.ece.illinois.edu/)
