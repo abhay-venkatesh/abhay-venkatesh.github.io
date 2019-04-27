@@ -8,7 +8,7 @@ I am a computer science and mathematics student, and a machine learning research
 * A New Type of Activation Function for ML
 * The Case for Unifying Data Loading in Machine Learning Clusters (Accepted to [HotCloud19](https://www.usenix.org/conference/hotcloud19))
 * Extending Drone Vision Systems Using Synthetic Data and Conditional GANs
-* [OneAccess: Data Access Layer for Machine Learning](https://github.com/abhay-venkatesh/one_access/blob/master/one_access.pdf)
+* [OneAccess: Data Access Layer for Machine Learning](./assets/one_access.pdf)
 * [Learning View-Invariant Semantic Segmentation from UAV Sequences (SDM18)](https://github.com/abhay-venkatesh/invariant-net/blob/master/learning-view-invariant.pdf)
 * [NSF NRI Robot Task Authoring Environment](./pages/nsf-nri.md)
 
