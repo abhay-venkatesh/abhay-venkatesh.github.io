@@ -25,5 +25,6 @@ Unlike in search engines such as Google, there are no shortcuts in the Anti-Sear
 * [The Education of a Libertarian](https://www.cato-unbound.org/2009/04/13/peter-thiel/education-libertarian)
 * [Vitalik Buterin](https://vitalik.ca/)
 * [Great Books Lists](http://www.interleaves.org/~rteeter/greatbks.html)
+* [Balaji Srinivasan: Voice vs. Exit](https://www.youtube.com/watch?v=cOubCHLXT6A)
 
 Let me know your thoughts, and/or send me link suggestions!
