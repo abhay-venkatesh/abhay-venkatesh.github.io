@@ -1,6 +1,6 @@
 # Profile
 
-I am a computer science and mathematics student, and a machine learning research assistant. 
+I am a computer science and mathematics student, and a computer vision research assistant. I am primarily interested in the most important _and_ ignored questions of our time. 
 
 ## Projects
 
