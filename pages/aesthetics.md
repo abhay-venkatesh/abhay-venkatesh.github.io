@@ -1,3 +1,5 @@
 # Aesthetics
 
-- [Algorithmic: Sage Jenson](https://sagejenson.com/)
+## [Algorithmic: Sage Jenson](https://sagejenson.com/)
+![Environment](./aesthetics/hive.jpg)
+
