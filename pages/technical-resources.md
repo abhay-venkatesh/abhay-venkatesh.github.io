@@ -29,7 +29,8 @@
 - [CS 229t: Statistical Learning Theory](https://web.stanford.edu/class/cs229t/)
 - [CS 230: Deep Learning](https://cs230.stanford.edu/)
 
-
+## Mathematics
+- [On Means](https://stats.stackexchange.com/questions/23117/which-mean-to-use-and-when)
 
 ## Software Systems
 
