@@ -21,3 +21,4 @@ I am a computer science and mathematics student, and a computer vision research 
 * [The Anti-Search Engine](./pages/anti-search-engine.md)
 * [High-Quality Technical Resources](./pages/technical-resources.md)
 * [Aesthetics](./pages/aesthetics.md)
+* [The New Atlantis](./pages/the-new-atlantis.md)
