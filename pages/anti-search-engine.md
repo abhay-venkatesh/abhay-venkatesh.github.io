@@ -19,7 +19,7 @@ Unlike in search engines such as Google, there are no shortcuts in the Anti-Sear
 * [Edge](https://www.edge.org/)
 * [Nintil](https://nintil.com/)
 * [Harold Bloom: Western Canon](http://sonic.net/~rteeter/grtbloom.html)
-* [8VC Blog](https://medium.com/@8VC)
+* [8VC Resources](https://8vc.com/resources-overview/)
 * [Marginal Revolution](https://marginalrevolution.com/)
 * [Dan Wang](https://danwang.co/)
 * [The Education of a Libertarian](https://www.cato-unbound.org/2009/04/13/peter-thiel/education-libertarian)
