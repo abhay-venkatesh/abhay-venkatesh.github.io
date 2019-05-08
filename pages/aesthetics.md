@@ -7,3 +7,4 @@
 ![Space Ship Interior](./aesthetics/archillect.jpg)
 
 ## [Wrath of Gnon](https://twitter.com/wrathofgnon/media)
+![Localism](./aesthetics/gnon.jpg)
