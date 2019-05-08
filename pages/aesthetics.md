@@ -1,6 +1,6 @@
 # Aesthetics
 
-## [Algorithmic: Sage Jenson](https://sagejenson.com/)
+## [Sage Jenson](https://sagejenson.com/)
 ![Hive](./aesthetics/hive.jpg)
 
 ## [Archillect](http://archillect.com/)
