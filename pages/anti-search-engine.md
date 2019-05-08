@@ -29,5 +29,6 @@ Unlike in search engines such as Google, there are no shortcuts in the Anti-Sear
 * [You are not a Lottery Ticket](https://www.youtube.com/watch?v=iZM_JmZdqCw&t=1086s)
 * [Jordan Greenhall](https://medium.com/@jordangreenhall)
 * [A Critical Lexicon of Political Concepts](http://www.politicalconcepts.org/)
+* [The Theologico-Political Problem](https://isi.org/intercollegiate-review/leo-strauss-and-the-recovery-of-the-theologico-political-problem/)
 
 Let me know your thoughts, and/or send me link suggestions!
