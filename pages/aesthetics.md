@@ -1,5 +1,7 @@
 # Aesthetics
 
 ## [Algorithmic: Sage Jenson](https://sagejenson.com/)
-![Environment](./aesthetics/hive.jpg)
+![Hive](./aesthetics/hive.jpg)
 
+## [Archillect]
+![Space Ship Interior](./aesthetics/archillect.jpg)
