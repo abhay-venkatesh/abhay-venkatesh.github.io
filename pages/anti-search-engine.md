@@ -30,5 +30,6 @@ Unlike in search engines such as Google, there are no shortcuts in the Anti-Sear
 * [Jordan Greenhall](https://medium.com/@jordangreenhall)
 * [A Critical Lexicon of Political Concepts](http://www.politicalconcepts.org/)
 * [The Theologico-Political Problem](https://isi.org/intercollegiate-review/leo-strauss-and-the-recovery-of-the-theologico-political-problem/)
+* [The Tyranny of Ideas](https://nadiaeghbal.com/ideas)
 
 Let me know your thoughts, and/or send me link suggestions!
