@@ -22,4 +22,3 @@ I am a computer science and mathematics student, and a computer vision research 
 * [High-Quality Technical Resources](./pages/technical-resources.md)
 * [Aesthetics](./pages/aesthetics.md)
 * [The New Atlantis](./pages/the-new-atlantis.md)
-* [Red Pill](./pages/red-pill.md)
