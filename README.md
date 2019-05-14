@@ -1,6 +1,6 @@
 # Profile
 
-I am a computer science and mathematics student, and a computer vision research assistant. 
+I am a computer vision/machine learning research assistant. 
 
 ## Projects
 
