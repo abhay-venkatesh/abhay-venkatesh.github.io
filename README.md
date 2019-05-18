@@ -4,7 +4,7 @@ I am a computer vision/machine learning research assistant.
 
 ## Projects
 
-* Optimizing Global Objectives in Computer Vision
+* [F1 Regularization in Computer Vision](./assets/cs838.pdf)
 * A New Type of Activation Function for ML
 * [The Case for Unifying Data Loading in Machine Learning Clusters](./assets/hotcloud19.pdf) (Accepted to [HotCloud19](https://www.usenix.org/conference/hotcloud19))
 * [Extending Drone Vision Systems Using Synthetic Data and Conditional GANs](https://abhayvenkatesh.com/conditional-drones)
