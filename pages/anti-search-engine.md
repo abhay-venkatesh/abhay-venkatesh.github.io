@@ -33,5 +33,6 @@ Unlike in search engines such as Google, there are no shortcuts in the Anti-Sear
 * [The Tyranny of Ideas](https://nadiaeghbal.com/ideas)
 * [Slate Star Codex](https://slatestarcodex.com/)
 * [Our World in Data](https://ourworldindata.org/)
+* [Noam Chomsky: Government in the Future](https://chomsky.info/government-in-the-future/)
 
 Let me know your thoughts, and/or send me link suggestions!
