@@ -1,6 +1,6 @@
 # Profile
 
-I am a computer vision/machine learning research assistant. 
+I am a Software Engineer at [Anduril](https://www.anduril.com/).
 
 ## Projects
 
