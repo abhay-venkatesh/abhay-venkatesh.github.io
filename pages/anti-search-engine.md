@@ -6,7 +6,6 @@ Unlike in search engines such as Google, there are no shortcuts in the Anti-Sear
 * [Sam Altman: How to be Successful](https://blog.samaltman.com/how-to-be-successful)
 * [Stanford CS183: Startup](http://blakemasters.com/peter-thiels-cs183-startup)
 * [Paul Graham: Essays](http://paulgraham.com/articles.html)
-* [Laura Deming: Longevity FAQ](https://www.ldeming.com/longevityfaq)
 * [Patrick Collison](https://patrickcollison.com/about)
 * [Founders Fund: What Happened to the Future?](https://foundersfund.com/the-future/)
 * [The Crypto-Anarchist Manifesto](https://www.activism.net/cypherpunk/crypto-anarchy.html)
