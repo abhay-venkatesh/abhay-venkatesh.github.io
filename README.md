@@ -1,11 +1,11 @@
 # Profile
 
-I am a computer vision/machine learning research assistant. 
+I am a software engineer at [Anduril](https://www.anduril.com/).
 
 ## Projects
 
-* F1 Regularization in Computer Vision
-* A New Type of Activation Function for ML
+* F1 Regularization in Computer Vision (SOTA results in semantic segmentation)
+* A New Type of Activation Function for ML (Accepted to [MMLS19](http://mmls.cc/))
 * [The Case for Unifying Data Loading in Machine Learning Clusters](./assets/hotcloud19.pdf) (Accepted to [HotCloud19](https://www.usenix.org/conference/hotcloud19))
 * [Extending Drone Vision Systems Using Synthetic Data and Conditional GANs](https://abhayvenkatesh.com/conditional-drones)
 * [OneAccess: Data Access Layer for Machine Learning](./assets/one_access.pdf)
@@ -17,7 +17,7 @@ I am a computer vision/machine learning research assistant.
 * [LinkedIn](https://linkedin.com/in/abhayvenkatesh)
 * [GitHub](https://github.com/abhay-venkatesh)
 * [Music](https://www.last.fm/user/abhayvenkatesh)
-* [Bookshelf](https://bookshelf.website/abhay/mixes/dvadl/Book-Recs)
+* [Bookshelf](https://bookshelf.website/abhay/mixes/dvadl/Bookshelf)
 * [The Anti-Search Engine](./pages/anti-search-engine.md)
 * [High-Quality Technical Resources](./pages/technical-resources.md)
 * [Aesthetics](./pages/aesthetics.md)
