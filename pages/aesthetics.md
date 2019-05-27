@@ -8,3 +8,6 @@
 
 ## [Wrath of Gnon](https://twitter.com/wrathofgnon/media)
 ![Localism](./aesthetics/gnon.jpg)
+
+## [Voxel Art by Sir Carma](https://www.saymygame.com/)
+![Voxel](./aesthetics/voxel.jpg)
