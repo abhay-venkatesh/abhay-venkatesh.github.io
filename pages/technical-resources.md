@@ -46,3 +46,7 @@
 ### Labs
 - [EPFL DEDIS](https://dedis.epfl.ch/)
 - [UIUC Decentralized Systems Lab](https://decentralize.ece.illinois.edu/)
+
+## Legal, Financial, and Business
+
+- [Holloway](https://www.holloway.com)
