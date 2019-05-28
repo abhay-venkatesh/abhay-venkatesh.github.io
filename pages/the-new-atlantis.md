@@ -4,3 +4,4 @@
 * [The story of real science](https://thestoryofscience.blogspot.com/)
 * [Nicky Case: Network Science on Crowds](https://ncase.me/crowds/)
 * [Laura Deming: Longevity FAQ](https://www.ldeming.com/longevityfaq)
+* [E.W. Dijkstra: On the nature of Computer Science](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD08xx/EWD896.html)
