@@ -20,6 +20,7 @@
 ### Practice
 - [Network Dissection](http://netdissect.csail.mit.edu/)
 - [Tensorflow Playground](https://playground.tensorflow.org)
+- [Google Seedbank](https://research.google.com/seedbank/)
 
 ### Courses
 - [CS 224d: Deep Learning for Natural Language Processing](https://cs224d.stanford.edu/)
