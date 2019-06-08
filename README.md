@@ -1,6 +1,6 @@
 # Profile
 
-I am a software engineer at [Anduril](https://www.anduril.com/).
+I am a computer vision engineer at [Anduril](https://www.anduril.com/).
 
 ## Projects
 
