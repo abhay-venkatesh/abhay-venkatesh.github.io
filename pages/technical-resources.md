@@ -32,6 +32,7 @@
 
 ## Mathematics
 - [On Means](https://stats.stackexchange.com/questions/23117/which-mean-to-use-and-when)
+- [Online Texts](http://people.math.gatech.edu/~cain/textbooks/onlinebooks.html)
 
 ## Software Systems
 
