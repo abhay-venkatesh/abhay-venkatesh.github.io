@@ -7,3 +7,4 @@ Science [has come to an end](https://www.edge.org/conversation/john_horgan-why-i
 * [Nicky Case: Network Science on Crowds](https://ncase.me/crowds/)
 * [Laura Deming: Longevity FAQ](https://www.ldeming.com/longevityfaq)
 * [E.W. Dijkstra: On the nature of Computer Science](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD08xx/EWD896.html)
+* [Nick Bostrom: Future Progress in AI](https://nickbostrom.com/papers/survey.pdf)
