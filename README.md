@@ -4,7 +4,7 @@ I am a computer vision engineer at [Anduril](https://www.anduril.com/).
 
 ## Projects
 
-* F1 Regularization in Computer Vision (SOTA results in semantic segmentation)
+* F1 Regularization in Computer Vision (Outperforms top method on MS COCO Stuff Segmentation Leaderboard)
 * A New Type of Activation Function for ML (Best Student Paper Award at [MMLS19](http://mmls.cc/))
 * [The Case for Unifying Data Loading in Machine Learning Clusters](./assets/hotcloud19.pdf) (Accepted to [HotCloud19](https://www.usenix.org/conference/hotcloud19))
 * [Extending Drone Vision Systems Using Synthetic Data and Conditional GANs](https://abhayvenkatesh.com/conditional-drones)
