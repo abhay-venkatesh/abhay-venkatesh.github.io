@@ -13,6 +13,7 @@
 - [Andrej Karpathy](https://karpathy.github.io/)
 - [R2RT](https://r2rt.com/)
 - [WildML](http://www.wildml.com/)
+- [Adam Kosiorek](http://akosiorek.github.io/)
 
 ### Theory
 - [A Tour Through a CNN](http://balaton.graphics.cs.cmu.edu/dfouhey/16825/layer1/index.html)
