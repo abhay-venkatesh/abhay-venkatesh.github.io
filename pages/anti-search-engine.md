@@ -33,5 +33,6 @@ Unlike in search engines such as Google, there are no shortcuts in the Anti-Sear
 * [Slate Star Codex](https://slatestarcodex.com/)
 * [Our World in Data](https://ourworldindata.org/)
 * [Kevil Simler: Going Critical](https://meltingasphalt.com/interactive/going-critical/)
+* [Friesian](http://www.friesian.com/poly-1b.htm)
 
 Let me know your thoughts, and/or send me link suggestions!
