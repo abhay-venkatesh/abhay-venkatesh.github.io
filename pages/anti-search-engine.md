@@ -34,5 +34,6 @@ Unlike in search engines such as Google, there are no shortcuts in the Anti-Sear
 * [Our World in Data](https://ourworldindata.org/)
 * [Kevil Simler: Going Critical](https://meltingasphalt.com/interactive/going-critical/)
 * [Friesian: The Fallacies of Moralism and Moral Aestheticism](http://www.friesian.com/poly-1b.htm)
+* [Universa](https://www.universa.net/riskmitigation.html)
 
 Let me know your thoughts, and/or send me link suggestions!
