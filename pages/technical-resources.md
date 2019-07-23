@@ -55,3 +55,7 @@
 
 - [Holloway](https://www.holloway.com)
 - [The Immigration Interview](https://www.theimmigrationinterview.com/)
+
+## Computer Science
+
+- [Basics of the Unix Philosophy](http://www.faqs.org/docs/artu/ch01s06.html)
