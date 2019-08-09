@@ -1,9 +1,5 @@
 # Profile
 
-I am a computer vision engineer at [Anduril](https://www.anduril.com/).
-
-## More
-
 * [LinkedIn](https://linkedin.com/in/abhayvenkatesh)
 * [GitHub](https://github.com/abhay-venkatesh)
 * [Music](https://www.last.fm/user/abhayvenkatesh)
