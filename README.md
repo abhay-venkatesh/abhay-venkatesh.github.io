@@ -1,5 +1,6 @@
 # Profile
 
+* [Twitter](https://twitter.com/AbhayVenkatesh1)
 * [LinkedIn](https://linkedin.com/in/abhayvenkatesh)
 * [GitHub](https://github.com/abhay-venkatesh)
 * [Music](https://www.last.fm/user/abhayvenkatesh)
