@@ -34,6 +34,7 @@
 ## Mathematics
 - [On Means](https://stats.stackexchange.com/questions/23117/which-mean-to-use-and-when)
 - [Online Texts](http://people.math.gatech.edu/~cain/textbooks/onlinebooks.html)
+- [How a Kalman Filter Works](https://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)
 
 ## Software Systems
 
