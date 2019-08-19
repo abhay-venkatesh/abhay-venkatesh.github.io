@@ -2,6 +2,7 @@
 
 * [Twitter](https://twitter.com/AbhayVenkatesh1)
 * [LinkedIn](https://linkedin.com/in/abhayvenkatesh)
+* [Projects](./pages/projects.md)
 * [GitHub](https://github.com/abhay-venkatesh)
 * [Music](https://www.last.fm/user/abhayvenkatesh)
 * [Bookshelf](https://bookshelf.website/abhay/mixes/dvadl/Bookshelf)
