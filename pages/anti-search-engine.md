@@ -36,5 +36,6 @@ Unlike in search engines such as Google, there are no shortcuts in the Anti-Sear
 * [Friesian: The Fallacies of Moralism and Moral Aestheticism](http://www.friesian.com/poly-1b.htm)
 * [Universa](https://www.universa.net/riskmitigation.html)
 * [The Long Now Foundation: What if the Singularity Does NOT Happen?](http://longnow.org/seminars/02007/feb/15/what-if-the-singularity-does-not-happen/)
+* [Arnold King](http://www.arnoldkling.com/blog/)
 
 Let me know your thoughts, and/or send me link suggestions!
