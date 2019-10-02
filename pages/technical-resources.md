@@ -42,6 +42,7 @@
 - [Distributed systems theory for the distributed systems engineer](https://www.the-paper-trail.org/post/2014-08-09-distributed-systems-theory-for-the-distributed-systems-engineer/)
 - [The Google Technology Stack](http://michaelnielsen.org/blog/lecture-course-the-google-technology-stack/)
 - [Distributed Systems Reading List](https://dancres.github.io/Pages/)
+- [Mixu: Distributed Systems](http://book.mixu.net/distsys/index.html)
 
 ### Courses
 - [EPFL CS 438: Decentralized Systems Engineering](https://edu.epfl.ch/coursebook/en/decentralized-systems-engineering-CS-438)
