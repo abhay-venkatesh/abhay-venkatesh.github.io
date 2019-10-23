@@ -46,6 +46,7 @@
 - [Notes on Distributed Systems for Young Bloods](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
 - [Werner Vogels: All Things Distributed](https://www.allthingsdistributed.com/)
 - [Martin Fowler](https://martinfowler.com/)
+- [Alvaro Videla](http://alvaro-videla.com/2013/12/failure-modes-in-distributed-systems.html)
 
 ### Courses
 - [EPFL CS 438: Decentralized Systems Engineering](https://edu.epfl.ch/coursebook/en/decentralized-systems-engineering-CS-438)
