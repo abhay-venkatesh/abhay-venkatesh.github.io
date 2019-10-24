@@ -47,7 +47,7 @@
 - [Werner Vogels: All Things Distributed](https://www.allthingsdistributed.com/)
 - [Martin Fowler](https://martinfowler.com/)
 - [Alvaro Videla](http://alvaro-videla.com/2013/12/failure-modes-in-distributed-systems.html)
-- [Matthew Whittaker](https://mwhittaker.github.io/blog/
+- [Matthew Whittaker](https://mwhittaker.github.io/blog/)
 
 ### Courses
 - [EPFL CS 438: Decentralized Systems Engineering](https://edu.epfl.ch/coursebook/en/decentralized-systems-engineering-CS-438)
