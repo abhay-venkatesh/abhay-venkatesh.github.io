@@ -58,6 +58,10 @@
 - [EPFL DEDIS](https://dedis.epfl.ch/)
 - [UIUC Decentralized Systems Lab](https://decentralize.ece.illinois.edu/)
 
+## Software Engineering
+
+- [Misko Hevery](http://misko.hevery.com/)
+
 ## Legal, Financial, and Business
 
 - [Holloway](https://www.holloway.com)
