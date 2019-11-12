@@ -30,7 +30,6 @@ Unlike in search engines such as Google, there are no shortcuts in the Anti-Sear
 * [How to Think About Secularism](firstthings.com/article/1996/06/002-how-to-think-about-secularism)
 * [A Critical Lexicon of Political Concepts](http://www.politicalconcepts.org/)
 * [The Theologico-Political Problem](https://isi.org/intercollegiate-review/leo-strauss-and-the-recovery-of-the-theologico-political-problem/)
-* [The Tyranny of Ideas](https://nadiaeghbal.com/ideas)
 * [Slate Star Codex](https://slatestarcodex.com/)
 * [Our World in Data](https://ourworldindata.org/)
 * [Kevil Simler: Going Critical](https://meltingasphalt.com/interactive/going-critical/)
