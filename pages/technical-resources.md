@@ -57,6 +57,7 @@
 ### Labs
 - [EPFL DEDIS](https://dedis.epfl.ch/)
 - [UIUC Decentralized Systems Lab](https://decentralize.ece.illinois.edu/)
+- [InfoLab InfoQual](http://infolab.stanford.edu/db_pages/infoqual.html)
 
 ## Software Engineering
 
