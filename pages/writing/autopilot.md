@@ -1,4 +1,4 @@
-# Against Autopilot World Draft 4
+# Against Autopilot World
 
 ![](https://paper-attachments.dropbox.com/s_ED75E6BE572EA5B91E8083747BE02FCB1E48EDC11F6A00C377ADC28F205C1473_1574716156374_image.png)
 
