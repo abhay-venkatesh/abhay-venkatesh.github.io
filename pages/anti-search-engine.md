@@ -39,4 +39,4 @@ Unlike in search engines such as Google, there are no shortcuts in the Anti-Sear
 * [Arnold King](http://www.arnoldkling.com/blog/)
 * [Jeff Lonsdale](http://unpleasantfacts.com)
 
-Let me know your thoughts, and/or send me link suggestions!
+Let me know your thoughts, and/or send [me](https://twitter.com/AbhayVenkatesh1) link suggestions!
