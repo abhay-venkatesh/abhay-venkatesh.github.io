@@ -48,6 +48,7 @@
 - [Martin Fowler](https://martinfowler.com/)
 - [Alvaro Videla](http://alvaro-videla.com/2013/12/failure-modes-in-distributed-systems.html)
 - [Matthew Whittaker](https://mwhittaker.github.io/blog/)
+- [The Amazon Builders' Library](https://aws.amazon.com/builders-library/?cards-body.sort-by=item.additionalFields.customSort&cards-body.sort-order=asc)
 
 ### Courses
 - [EPFL CS 438: Decentralized Systems Engineering](https://edu.epfl.ch/coursebook/en/decentralized-systems-engineering-CS-438)
