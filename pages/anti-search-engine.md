@@ -27,7 +27,7 @@ Unlike in search engines such as Google, there are no shortcuts in the Anti-Sear
 * [Balaji Srinivasan: Voice vs. Exit](https://www.youtube.com/watch?v=cOubCHLXT6A)
 * [You are not a Lottery Ticket](https://www.youtube.com/watch?v=iZM_JmZdqCw&t=1086s)
 * [Jordan Greenhall](https://medium.com/@jordangreenhall)
-* [How to Think About Secularism](firstthings.com/article/1996/06/002-how-to-think-about-secularism)
+* [How to Think About Secularism](https://firstthings.com/article/1996/06/002-how-to-think-about-secularism)
 * [A Critical Lexicon of Political Concepts](http://www.politicalconcepts.org/)
 * [The Theologico-Political Problem](https://isi.org/intercollegiate-review/leo-strauss-and-the-recovery-of-the-theologico-political-problem/)
 * [Slate Star Codex](https://slatestarcodex.com/)
