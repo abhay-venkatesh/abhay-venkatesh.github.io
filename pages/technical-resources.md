@@ -71,4 +71,4 @@
 
 ## Computer Science
 
-- [Basics of the Unix Philosophy](http://www.faqs.org/docs/artu/ch01s06.html)
+- [Basics of the Unix Philosophy](https://homepage.cs.uri.edu/~thenry/resources/unix_art/ch01s06.html)
