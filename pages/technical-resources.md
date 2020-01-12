@@ -63,12 +63,11 @@
 ## Software Engineering
 
 - [Misko Hevery](http://misko.hevery.com/)
+- [Basics of the Unix Philosophy](https://homepage.cs.uri.edu/~thenry/resources/unix_art/ch01s06.html)
 
 ## Legal, Financial, and Business
 
 - [Holloway](https://www.holloway.com)
 - [The Immigration Interview](https://www.theimmigrationinterview.com/)
 
-## Computer Science
 
-- [Basics of the Unix Philosophy](https://homepage.cs.uri.edu/~thenry/resources/unix_art/ch01s06.html)
