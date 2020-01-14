@@ -38,5 +38,6 @@ Unlike in search engines such as Google, there are no shortcuts in the Anti-Sear
 * [The Long Now Foundation: What if the Singularity Does NOT Happen?](http://longnow.org/seminars/02007/feb/15/what-if-the-singularity-does-not-happen/)
 * [Arnold King](http://www.arnoldkling.com/blog/)
 * [Jeff Lonsdale](http://unpleasantfacts.com)
+* [Joe Lonsdale on Dialectics](https://www.quora.com/Joe-Lonsdale-what-are-dialectics-and-why-are-they-important-useful)
 
 Let me know your thoughts, and/or send [me](https://twitter.com/AbhayVenkatesh1) link suggestions!
