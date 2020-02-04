@@ -62,6 +62,12 @@
 
 - [Misko Hevery](http://misko.hevery.com/)
 - [Basics of the Unix Philosophy](https://homepage.cs.uri.edu/~thenry/resources/unix_art/ch01s06.html)
+- [Teach Yourself CS](https://teachyourselfcs.com/)
+
+## On Thinking Clearly
+
+- [Separation of Concerns](https://en.wikipedia.org/wiki/Separation_of_concerns)
+- [Joe Lonsdale on Dialectical Thinking](https://www.quora.com/Joe-Lonsdale-what-are-dialectics-and-why-are-they-important-useful)
 
 ## Legal, Financial, and Business
 
