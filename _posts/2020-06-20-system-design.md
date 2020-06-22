@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "On Software Systems Design"
+title: "On System Design"
 categories: misc
 ---
 
@@ -63,7 +63,7 @@ A good conclusion here is that the system can only get worse, because you can wr
 
 #### The Design and Iteration Dialectic
 
-If you spend all your time on design, or all your time on iteration, then you are doing the wrong thing. The correct solution is a dialectical resolution between the needs of design and iteration (https://www.quora.com/Joe-Lonsdale-what-are-dialectics-and-why-are-they-important-useful). That is, we need to do both, a very high standard of design, and simultaneously a very strong discipline of moving fast and getting things done. 
+If you spend all your time on design, or all your time on iteration, then you are doing the wrong thing. The correct solution is a [dialectical resolution](https://www.quora.com/Joe-Lonsdale-what-are-dialectics-and-why-are-they-important-useful) between the needs of design and iteration. That is, we need to have both, a very high standard of design, and simultaneously a very strong discipline of moving fast and getting things done. 
 
 [Patrick Collison notes that many great things were built very fast](https://patrickcollison.com/fast). There is something about momentum that is very important to building systems. The opposite of momentum is maybe something like total friction, and it is naturally a bad outcome for any system if it gets burnt out by friction before it even hits production. 
 
