@@ -13,7 +13,7 @@ My main interests right now are:
     - AI Systems
 - Theology (Augustine, Aquinas, Girard)
 - Economics (Hayek, George, Rothbard, Marx)
-- Political Philosophy and Governance Futurisma (Plato, Strauss, Schmitt)
+- Political Philosophy and Governance Futurism (Plato, Strauss, Schmitt)
 - Generative Anthropology
 
 Please visit my [Bookshelf](https://bookshelf.website/abhay/mixes/dvadl/Bookshelf) for more.
