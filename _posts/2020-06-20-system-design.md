@@ -14,9 +14,15 @@ To get the details, one simply must read excellent resources such as [System Des
 
 But my focus in this article is on the big picture. For whatever reason, it seems like we refrain from general and aggrandizing theorization, and accordingly, we do not make general theories about software systems design. My goal here is to get at a basic starting point for a general software systems design theory. Perhaps the theory would apply to the design of all systems really, so I use the terms "software systems" and "systems" interchangeably throughout this piece.
 
+#### Aesthetics vs. Philosophy
+
 It is fair to say that the design of systems is not a purely technical endeavor. Many get to this conclusion, but then they seem to make the jump to the other conclusion that the design of systems is some sort of purely aesthetic and creative endeavor. They are, to some extent, aesthetic. But I wonder if they are at least as philosophic, in the sense that there is a truth about the design of systems. The idea is that there are some general and universally applicable principles that are always true about designing systems, and that we do not need to concede arguments about the design of systems on purely aesthetic or creative grounds.
 
-There has been some work on getting at these general principles about software design such as [Clean Architecture, Martin B.](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164), but people critique this book as [too opinionated](https://twitter.com/etscrivner/status/1260584368407445504?s=20), a critique which I sympathize with. In any case, Bob Martin makes a lot of progress with respect to general theorization, for example with the [Single-Responsibiltiy Principle](https://en.wikipedia.org/wiki/Single-responsibility_principle), which I do admire and adhere to.
+#### Existing Work
+
+There has been some work on getting at these general principles about software design such as [Clean Architecture, Martin B.](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164), but people critique this book as [too opinionated](https://twitter.com/etscrivner/status/1260584368407445504?s=20), a critique which I sympathize with, at least with respect to the [specific design] Uncle Bob touts. In any case, Bob Martin makes a lot of progress with respect to general theorization, and provides an excellent listing of principles that seem to have become fairly canonical and undisputed.
+
+There are more technical treatments on this problem with respect to scalability and performance. A good resource for that is [Designing Data-Intensive Applications, Kleppmann, M.](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321). The text comes up with solutions to the fact that modern applications are data-constrainted and not-compute constrained, and comes up with a listing of ideas around how to make applications scale with respect to data.
 
 #### System Design and People
 
@@ -24,17 +30,21 @@ I want to take a different cut at this problem. I want to look at system design 
 
 I have not fully developed a coherent reason for why listing things are nefarious, e.g. 5 ways to get rich, 7 ways to lose fat, 10 ways to get great ay systems design, but such listings have gained a well-earned notoriety. Hence, I take a different approach to get at understanding how software must be designed by understanding people. There will still be an implicit listing, but I will try to develop a story or a larger theme that make them work together. 
 
-#### A Listing Anyway
-- API Design
-- Minimalism
-- Pessimism
-- Principles
-    - Law of Demeter
-    - Single-Responsibility Principle
-    - Open-Closed Principle
-- Descriptors
-    - Coupling
-    - Cohesion
+#### Boundaries due to Differences
+
+Since everyone at your company is unlikely to be great at the same things, in fact they should not be since you want to hire people who are uniquely good at what they do as much as possible, one of the important considerations when building software systems is accounting for these differences in skillsets.
+
+A classic divide I have encountered is the engineer vs. mathematician dichotomy. Engineers are good at writing elegant APIs, maintainable code, and high-performance systems, and bad at solving hard math problems and tend to have somewhat quixotic preferences for tools and practices. Mathematicians are good at solving hard math problems, but have little patience about building software systems.
+
+The conclusion here is basically that one of the most important aspects of system design is the skill of drawing boundaries. A separation of mathematical from engineering concerns is critical for organizations with mathematical and engineering problems. If people strong at X thing spend a lot of time doing Y thing that they are not good at, then it is natural that you could expect suboptimal outcomes. 
+
+Furthermore, you can extend this argument not just to different people but to the same person. The same person changes over time, and your thoughts one day might not be the same the other. If you expose your entire system to all your thoughts all the time, then you will naturally end up with a bad system design. For that reason, a good design requires excellent and well-thought boundaries.
+
+#### Pessimism due to Entropy
+
+A general principle about organizations (or systems) is that there is this notion of entropy. Sans a regulating function, things tend to disorder. This applies both to software engineering organizations, and codebases. The conclusion here is that one needs to be extremely pessimistic about the future of any system you are building. You can come up with an excellent design on day one, but as time passes, the system can only get worse. 
+
+A good conclusion here is that the system can only get worse, because you can write a system from scratch only once, but you will have to extend it indefinitely. Hence, APIs must be extremely-well thought of, and the initial architecture must be as good as possible. There are of course resource constraints that define how you can manage this, maybe you need to just prove something out and get it to work. That might be a fine investment choice, but it does not break the principle. Great systems designs require great starting points.
 
 #### References
 - [1] Natural Right and History, 1965, Strauss L.
