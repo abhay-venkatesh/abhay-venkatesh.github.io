@@ -32,6 +32,9 @@ I have not fully developed a coherent reason for why listing things are nefariou
     - Law of Demeter
     - Single-Responsibility Principle
     - Open-Closed Principle
+- Descriptors
+    - Coupling
+    - Cohesion
 
 #### References
 - [1] Natural Right and History, 1965, Strauss L.
