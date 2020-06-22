@@ -1,5 +1,18 @@
-theme: jekyll-theme-minimal
-repository: abhay-venkatesh/abhay-venkatesh.github.io
-# logo: img/abhay.jpg
 title: Abhay Venkatesh
-google_analytics: UA-153796177-1
+author:
+  name: Abhay Venkatesh
+  email: abhay.venkatesh@gmail.com
+
+show_excerpts: true
+
+minima:
+  date_format: "%b %-d, %Y"
+  social_links:
+    twitter: abhayvenkatesh1
+    github:  abhay-venkatesh
+    linkedin: abhayvenkatesh
+theme: minima
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
