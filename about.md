@@ -8,8 +8,6 @@ Software engineer at [Anduril Industries](http://anduril.com/). Previously spent
 
 My main interests right now are:
 - Software Systems Engineering
-    - Big Data/AI Systems
-    - Decentralized Systems
 - AI Research
 - Theology (Augustine, Aquinas, Girard)
 - Economics (Hayek, George, Rothbard, Marx)
