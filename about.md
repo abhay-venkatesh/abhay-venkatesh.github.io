@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Software engineer at [Anduril Industries](http://anduril.com/). Previously spent some time at [Facebook, Inc.](https://www.facebook.com/) and [Stanford University](http://stanford.com/).
+Software engineer at [Anduril Industries](http://anduril.com/) focused on building a multi-domain multi-asset command-and-control system.  Previously spent some time at [Facebook, Inc.](https://www.facebook.com/) and [Stanford University](http://stanford.com/).
 
 My main interests right now are:
 - Software Systems Engineering
