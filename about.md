@@ -10,7 +10,8 @@ My main interests right now are:
 - Software Systems Engineering
 - AI Research
 - Theology (e.g. Augustine, Aquinas, Girard)
-- Economics (e.g. Hayek, George, Rothbard, Marx)
+- Political Economy (e.g. Hayek, George, Rothbard, Marx)
+- Macroeconomic Thought (e.g. Thiel, Dalio)
 - Political Philosophy and Governance Futurism (e.g. Plato, Strauss, Schmitt)
 - Generative Anthropology
 
