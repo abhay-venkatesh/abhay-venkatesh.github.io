@@ -14,9 +14,9 @@ There are two pieces to thinking about systems:
 - details
 - the big picture
 
-To get the details, one simply must consume a lot of discrete systems design knowledge such as the classic Google systems research papers or resources like the [System Design Primer by Donne Martin](https://github.com/donnemartin/system-design-primer). Part of becoming a good system designer is just to get experience with a good selection of system design problems and background knowledge. I suspect there is no way to circumvent that.
+To get the details, one simply must consume a lot of [discrete systems design knowledge](#specific-systems-knowledge) such as the classic Google systems research papers or resources like the [System Design Primer by Donne Martin](https://github.com/donnemartin/system-design-primer). Part of becoming a good system designer is just to get experience with a good selection of system design problems and background knowledge. I suspect there is no way to circumvent that.
 
-However, my focus in this article is to try to get at the problem of system design from a more big picture perspective. While there has been a lot of work with respect to finding lists of general system design principles, such as [Clean Architecture by Bob Martin](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164) or [Documenting Software Architectures: Views and Beyond](https://www.oreilly.com/library/view/documenting-software-architectures/9780132488617/), I wonder if there is something more fundamental that can be said about systems. Typically, systems thinking is posed in opposition to pure technicality as a more aesthetic endeavor, but my claim is that it at least as philosophic, in the sense that there is a fundamental truth about systems thinking, and that debates about systems thinking do not have to be conceded on aesthetic grounds. 
+However, my focus in this article is to try to get at the problem of system design from a more big picture perspective. While there has been a lot of work with respect to finding [lists of general system design principles](#listings-of-architectural-principles), I wonder if there is something more fundamental that can be said about systems. Typically, systems thinking is posed in opposition to pure technicality as a more aesthetic endeavor, but my claim is that it at least as philosophic, in the sense that there is a fundamental truth about systems thinking, and that debates about systems thinking do not have to be conceded on aesthetic grounds. 
 
 
 > Software engineering is what happens to programming when you add time and other programmers. — Russ Cox 
@@ -89,4 +89,4 @@ Thanks to [Eric Scrivner](https://twitter.com/etscrivner), [Jared Newman](https:
     - a good sociological treatment on why system design knowledge is being lost
 - Software Engineering for the Apollo Space Program
 - Thinking in Systems: A Primer by Donella Meadows
-
+- [Pilot Projects](http://pilot-projects.org/blog/entry/communities-of-practice-using-systems-thinking-to-co-create-a-better-world) for the cover photo
