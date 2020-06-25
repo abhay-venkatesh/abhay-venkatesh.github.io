@@ -19,7 +19,9 @@ To get the details, one simply must consume a lot of discrete systems design kno
 However, my focus in this article is to try to get at the problem of system design from a more big picture perspective. While there has been a lot of work with respect to finding lists of general system design principles, such as [Clean Architecture by Bob Martin](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164) or [Documenting Software Architectures: Views and Beyond](https://www.oreilly.com/library/view/documenting-software-architectures/9780132488617/), I wonder if there is something more fundamental that can be said about systems. Can one can dramatically improve one’s system design ability through simply a shift in first principles? Typically, systems thinking is posed in opposition to pure technicality as a more aesthetic endeavor, but my claim is that it at least as philosophic, in the sense that there is a fundamental truth about systems thinking, and that debates about systems thinking do not have to be conceded on aesthetic grounds. 
 
 
-> Software engineering is what happens to programming when you add time and other programmers. — Russ Cox (and perhaps its just about time, you are a different person depending on the time)
+> Software engineering is what happens to programming when you add time and other programmers. — Russ Cox 
+
+> ...and perhaps its just about time, you are a different person depending on the time.
 
 In addition to thinking about systems from a general, first principles and philosophic perspective, it is worthwhile to approach systems thinking as not merely a problem about systems *tout court* but as a problem of people interacting with systems. System complexity would be irrelevant if people could instantly understand any arbitrarily complex system. The problem is that complex systems without good design are hard to understand, and therefore we need to impose discipline onto systems. Therefore, a shift in first principles about people can powerfully inform the way we approach the construction of systems.
 
@@ -31,7 +33,9 @@ For example, a classic divide is the engineer vs. mathematician dichotomy. Engin
 
 The conclusion here is basically that one of the most important aspects of system design is the skill of drawing boundaries. A separation of mathematical from engineering concerns is critical for organizations that have both mathematical and engineering problems. If people strong at X thing spend a lot of time doing Y thing that they are not good at, then it is natural that you could expect suboptimal outcomes. For that reason, good system design requires excellent and well-thought boundaries. Applied to engineering organizations, this leads to [Conway's Law](https://en.wikipedia.org/wiki/Conway%27s_law), which also suggests a way in which boundaries feed back into themselves, reflecting the outcomes they produce.
 
-Issues due to differences are not limited to differences in engineer skills. Differences can also emanate in a variety of situations, such as the communication requirements with customers, or within a system and its various parts (which leads to the [Law of Demeter](https://en.wikipedia.org/wiki/Law_of_Demeter)). The solution is always defining boundaries since boundaries help regulate these differences through well-defined contracts. 
+> Any organization that designs a system (defined broadly) will produce a design whose structure is a copy of the organization's communication structure. — Melvin E. Conway
+
+Issues due to differences are not limited to differences in engineer skills. Differences can also emanate in a variety of situations, such as the communication requirements with customers, or within a technical system and its various parts (which leads to rules such as [Law of Demeter](https://en.wikipedia.org/wiki/Law_of_Demeter), [Single-Responsibility Principle](https://en.wikipedia.org/wiki/Single-responsibility_principle), or [Principle of Least Privilege](https://en.wikipedia.org/wiki/Principle_of_least_privilege)). The solution is always defining boundaries since boundaries help regulate these differences through well-defined contracts. 
 
 ### Pessimism due to Entropy
 
@@ -41,11 +45,11 @@ Hence, boundaries must be extremely-well thought of, and the initial architectur
 
 Pessimism is in a way minimalism since doing anything more than necessary is just a seed for some sort of disaster or bad decision in the future. Fewer opportunities for entropic disorder is always desirable. 
 
-### Responsibility as an Alternative to Process
+### People over Process
 
-Absolving decision making to process is a huge mistake. Building systems should be a people responsibility not a process responsibility. While there might not be a total absolution of all process, that would be impossible, there is a sense in which coming up with the right processes to your organization is key. 
+Building systems should be a people responsibility not a process responsibility. While there might not be a total absolution of all process, coming up with the right processes to your organization is key. Blind application of process will not lead to greatness because processes have little value outside of the appropriate context. And the choice of context must be made by individuals. Hence, it is far more important to focus on getting the kind of people who are able to [develop the minimally necessary processes from first principles](https://ericscrivner.me/2017/06/software-process-first-principles/). 
 
-However, if you find that your team has totally absolved itself to a pre-existing process, it might be a sign that things have gone totally wrong. Blind application of process will not lead to greatness because processes have little value outside of the appropriate context. And the choice of context must be made by individuals. Hence, it is far more important to focus on getting the kind of people who are able to [develop the minimally necessary processes from first principles](https://ericscrivner.me/2017/06/software-process-first-principles/). Always rely on decision makers rather than processes.
+In addition to the problem of defining process context, there is a non-linearity in decision making that is difficult to capture in any given process. Some decisions matter much more than others, and in fact, these non-linear decisions might ultimately be the only decisions that matter. For example, the decision to include a critical system feature that might change the course of a company dramatically can only be made by individuals. This is why you cannot replace Founders with a career CEO or worse, a committee. This ultimately leads to a rejection of thinking in decision-making mechanisms, and an acceptance of putting talented people in charge. 
 
 ### The Design and Iteration Dialectic
 
