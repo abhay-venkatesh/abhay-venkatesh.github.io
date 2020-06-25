@@ -9,25 +9,25 @@ categories: misc
 ### Introduction
 > We are then in the position of beings who are sane and sober when engaged in trivial business and who gamble like madmen when confronted with serious issues—retail sanity and wholesale madness [(Strauss, 1965)](https://contemporarythinkers.org/leo-strauss/book/natural-right-and-history/)
 
-There are two pieces to designing systems:
+There are two pieces to thinking about systems:
 
 - details
 - the big picture
 
-To get the details, one simply must consume a lot of discrete systems design knowledge, research papers like those on the classic Google systems or resources like the [System Design Primer by Donne Martin](https://github.com/donnemartin/system-design-primer). Part of becoming a good system designer is just to have experience with a good selection of system design problems. I suspect there is no way to circumvent that.
+To get the details, one simply must consume a lot of discrete systems design knowledge such as the classic Google systems research papers or resources like the [System Design Primer by Donne Martin](https://github.com/donnemartin/system-design-primer). Part of becoming a good system designer is just to get experience with a good selection of system design problems and background knowledge. I suspect there is no way to circumvent that.
 
-But my focus in this article is to try to get at this problem of system design from a more general, big picture perspective. While there has been a lot of work with respect to finding lists of general principles, such as [Clean Architecture by Bob Martin](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164) or [Documenting Software Architectures: Views and Beyond](https://www.oreilly.com/library/view/documenting-software-architectures/9780132488617/), perhaps there is something more fundamental missing. One can dramatically improve one’s system design ability through simply a shift in first principles. Typically, systems thinking is posed in opposition to pure technicality as a more aesthetic endeavor, but my claim is that it at least as philosophic, in the sense that there is a general truth about systems thinking, and that debates about systems thinking do not have to be conceded on aesthetic grounds. 
+However, my focus in this article is to try to get at the problem of system design from a more big picture perspective. While there has been a lot of work with respect to finding lists of general system design principles, such as [Clean Architecture by Bob Martin](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164) or [Documenting Software Architectures: Views and Beyond](https://www.oreilly.com/library/view/documenting-software-architectures/9780132488617/), I wonder if there is something more fundamental that can be said about systems. Can one can dramatically improve one’s system design ability through simply a shift in first principles? Typically, systems thinking is posed in opposition to pure technicality as a more aesthetic endeavor, but my claim is that it at least as philosophic, in the sense that there is a fundamental truth about systems thinking, and that debates about systems thinking do not have to be conceded on aesthetic grounds. 
 
 
 > Software engineering is what happens to programming when you add time and other programmers. — Russ Cox (and perhaps its just about time, you are a different person depending on the time)
 
-In addition to thinking about systems from a general, first principles and philosophic perspective, I wish to suggest that we approach systems thinking as not merely a problem about systems *tout court* but as a problem of people interacting with systems. System complexity would be irrelevant if people could instantly understand any arbitrarily complex system. The problem is that complex systems without good design are hard to understand, and therefore we need to impose discipline onto systems. Therefore, a shift in first principles about people can powerfully inform the way we approach the construction of systems.
+In addition to thinking about systems from a general, first principles and philosophic perspective, it is worthwhile to approach systems thinking as not merely a problem about systems *tout court* but as a problem of people interacting with systems. System complexity would be irrelevant if people could instantly understand any arbitrarily complex system. The problem is that complex systems without good design are hard to understand, and therefore we need to impose discipline onto systems. Therefore, a shift in first principles about people can powerfully inform the way we approach the construction of systems.
 
 ### Boundaries due to Differences
 
 Since everyone at your company is unlikely to be great at exactly the same things, in fact they should not be since you want to hire people who are uniquely good at what they do as much as possible, one of the important considerations when building software systems is accounting for these differences.
 
-For example, a classic divide is the engineer vs. mathematician dichotomy. Engineers are good at writing elegant APIs, maintainable code, and high-performance systems, but bad at solving hard math problems and tend to have somewhat quixotic preferences for tools and practices. Mathematicians are good at solving hard math problems, while having little patience about building and maintaining software systems.
+For example, a classic divide is the engineer vs. mathematician dichotomy. Engineers are good at writing elegant APIs, maintainable code, and high-performance systems, but bad at solving hard math problems and tend to have somewhat quixotic preferences for tools and practices. Mathematicians are good at solving hard math problems while having little patience about building and maintaining software systems.
 
 The conclusion here is basically that one of the most important aspects of system design is the skill of drawing boundaries. A separation of mathematical from engineering concerns is critical for organizations that have both mathematical and engineering problems. If people strong at X thing spend a lot of time doing Y thing that they are not good at, then it is natural that you could expect suboptimal outcomes. For that reason, good system design requires excellent and well-thought boundaries. Applied to engineering organizations, this leads to [Conway's Law](https://en.wikipedia.org/wiki/Conway%27s_law), which also suggests a way in which boundaries feed back into themselves, reflecting the outcomes they produce.
 
@@ -57,9 +57,7 @@ The goal is to break the false dichotomy of design and iteration - you want both
 
 ### Conclusion
 
-The ideas I develop here are fairly generally applicable to systems (software or people or generally), and these ideas apply onto each other: design and iterate onto entropic pessimism and boundaries, or boundaries on entropic pessimism, and design and iteration. This illustrates the power of these few concepts since they can be applied at a higher order. Having these models in your brain while solving any sort of systems problem, whether it be organizational or technical, can be very valuable. 
-
-I suspect there might be more ideas like these that would be useful to develop. Curious to hear what you think, or have any ideas about furthering some of the thought here. Please let me know! 
+The ideas I develop here are fairly generally applicable to systems (software or people or generally). These ideas also apply onto each other in a higher order fashion. For example, you might want to apply the design and iteration dialectic onto the defining of boundaries. Or might want to have someone take responsibility of the design and iteration process rather than resorting to some off-the-shelf method like agile. I suspect there might be more ideas like these that would be useful to develop. Curious to hear what you think, or have any ideas about furthering some of the thought here. Please let me know! 
 
 Thanks to [Eric Scrivner](https://twitter.com/etscrivner), [Jared Newman](https://www.linkedin.com/in/jared-newman-54a57b50/), and [Stephen Pimentel](https://twitter.com/StephenPiment) for their feedback. 
 
