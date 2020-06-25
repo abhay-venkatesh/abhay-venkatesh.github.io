@@ -4,9 +4,9 @@ title: "On Systems Thinking"
 categories: misc
 ---
 
-![](systems-thinking.jpg)
+![](http://pilot-projects.org/images/banner/CofP_sketch_banner2.jpg)
 
-## Introduction
+### Introduction
 > We are then in the position of beings who are sane and sober when engaged in trivial business and who gamble like madmen when confronted with serious issues—retail sanity and wholesale madness [(Strauss, 1965)](https://contemporarythinkers.org/leo-strauss/book/natural-right-and-history/)
 
 There are two pieces to designing systems:
@@ -23,7 +23,7 @@ But my focus in this article is to try to get at this problem of system design f
 
 In addition to thinking about systems from a general, first principles and philosophic perspective, I wish to suggest that we approach systems thinking as not merely a problem about systems *tout court* but as a problem of people interacting with systems. System complexity would be irrelevant if people could instantly understand any arbitrarily complex system. The problem is that complex systems without good design are hard to understand, and therefore we need to impose discipline onto systems. Therefore, a shift in first principles about people can powerfully inform the way we approach the construction of systems.
 
-## Boundaries due to Differences
+### Boundaries due to Differences
 
 Since everyone at your company is unlikely to be great at exactly the same things, in fact they should not be since you want to hire people who are uniquely good at what they do as much as possible, one of the important considerations when building software systems is accounting for these differences.
 
@@ -33,7 +33,7 @@ The conclusion here is basically that one of the most important aspects of syste
 
 Issues due to differences are not limited to differences in engineer skills. Differences can also emanate in a variety of situations, such as the communication requirements with customers, or within a system and its various parts (which leads to the [Law of Demeter](https://en.wikipedia.org/wiki/Law_of_Demeter)). The solution is always defining boundaries since boundaries help regulate these differences through well-defined contracts. 
 
-## Pessimism due to Entropy
+### Pessimism due to Entropy
 
 Systems are entropic, and sans a regulating function, systems tend to disorder. In the people domain, this is because people make mistakes, and people loose discipline. Thus, you need to be extremely pessimistic about the future of any system one you are building. You can come up with an excellent design on day one, but as time passes, the system can only get worse because you can write a system from scratch only once, but you will have to extend it indefinitely. 
 
@@ -41,13 +41,13 @@ Hence, boundaries must be extremely-well thought of, and the initial architectur
 
 Pessimism is in a way minimalism since doing anything more than necessary is just a seed for some sort of disaster or bad decision in the future. Fewer opportunities for entropic disorder is always desirable. 
 
-## Responsibility as an Alternative to Process
+### Responsibility as an Alternative to Process
 
 Absolving decision making to process is a huge mistake. Building systems should be a people responsibility not a process responsibility. While there might not be a total absolution of all process, that would be impossible, there is a sense in which coming up with the right processes to your organization is key. 
 
 However, if you find that your team has totally absolved itself to a pre-existing process, it might be a sign that things have gone totally wrong. Blind application of process will not lead to greatness because processes have little value outside of the appropriate context. And the choice of context must be made by individuals. Hence, it is far more important to focus on getting the kind of people who are able to [develop the minimally necessary processes from first principles](https://ericscrivner.me/2017/06/software-process-first-principles/). Always rely on decision makers rather than processes.
 
-## The Design and Iteration Dialectic
+### The Design and Iteration Dialectic
 
 If you spend all your time on design, or all your time on iteration, then you are doing the wrong thing. The correct solution is a [dialectical resolution](https://www.quora.com/Joe-Lonsdale-what-are-dialectics-and-why-are-they-important-useful) between the needs of design and iteration. That is, we need to have both, a very high standard of design, and simultaneously a very strong discipline of moving fast and getting things done.
 
@@ -55,7 +55,7 @@ If you spend all your time on design, or all your time on iteration, then you ar
 
 The goal is to break the false dichotomy of design and iteration - you want both in extremes. Of course at first sight this is fairly contradictory, but there are ways to resolve it. One is the 80/20 rule: you can get 80 percent of the benefits of design (or iteration) by doing it 20 percent of the time. So there is a Pareto efficiency curve that applies. Furthermore, you can break the dichotomy by hiring talented engineers who can both produce top notch designs and iterate fast. Differences in engineering talent is well-documented, and to get more of design and iteration simultaneously, focus on hiring only the very best.
 
-## Conclusion
+### Conclusion
 
 The ideas I develop here are fairly generally applicable to systems (software or people or generally), and these ideas apply onto each other: design and iterate onto entropic pessimism and boundaries, or boundaries on entropic pessimism, and design and iteration. This illustrates the power of these few concepts since they can be applied at a higher order. Having these models in your brain while solving any sort of systems problem, whether it be organizational or technical, can be very valuable. 
 
@@ -63,16 +63,16 @@ I suspect there might be more ideas like these that would be useful to develop. 
 
 Thanks to [Eric Scrivner](https://twitter.com/etscrivner), [Jared Newman](https://www.linkedin.com/in/jared-newman-54a57b50/), and [Stephen Pimentel](https://twitter.com/StephenPiment) for their feedback. 
 
-## Related Work
+### Related Work
 
-**Specific Systems Knowledge**
+#### Specific Systems Knowledge
 
 - [Designing Data-Intensive Applications by Martin Kleppmann](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
 - [Jeff Dean Numbers](http://brenocon.com/dean_perf.html)
 - [System Design Primer by Donne Martin](https://github.com/donnemartin/system-design-primer)
 - [The Google Technology Stack by Michael Nielsen](http://michaelnielsen.org/blog/lecture-course-the-google-technology-stack/)
 
-**Listings of Architectural Principles**
+#### Listings of Architectural Principles
 
 - [Documenting Software Architectures: Views and Beyond](https://www.oreilly.com/library/view/documenting-software-architectures/9780132488617/)
 - [Software Architecture in Practice](https://www.amazon.com/Software-Architecture-Practice-3rd-Engineering/dp/0321815734)
@@ -81,7 +81,7 @@ Thanks to [Eric Scrivner](https://twitter.com/etscrivner), [Jared Newman](https:
 - [Object-Oriented Software Engineering by Jacobson](https://www.amazon.com/Object-Oriented-Software-Engineering-Approach/dp/0201544350)
 - [Clean Architecture, Martin B.](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)
 
-**Miscellaneous**
+#### Miscellaneous
 
 - [On System Design, Waldo J.](https://scholar.harvard.edu/files/waldo/files/ps-2006-6.pdf)
     - a good sociological treatment on why system design knowledge is being lost
