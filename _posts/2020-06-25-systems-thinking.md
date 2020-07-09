@@ -82,7 +82,7 @@ Thanks to [Eric Scrivner](https://twitter.com/etscrivner), [Jared Newman](https:
 - [Watts Humphrey's work at the SEI](https://resources.sei.cmu.edu/news-events/events/watts/watts.cfm) (namely on the PSP and TSP)
 - [Object-Oriented Software Engineering by Jacobson](https://www.amazon.com/Object-Oriented-Software-Engineering-Approach/dp/0201544350)
 - [Clean Architecture, Martin B.](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)
-- [END-TO-END ARGUMENTS IN SYSTEM DESIGN](https://web.mit.edu/Saltzer/www/publications/endtoend/endtoend.pdf) 
+- [End-To-End Arguments in System Design](https://web.mit.edu/Saltzer/www/publications/endtoend/endtoend.pdf) 
 
 #### Miscellaneous
 
