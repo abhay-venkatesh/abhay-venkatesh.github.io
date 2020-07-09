@@ -82,6 +82,7 @@ Thanks to [Eric Scrivner](https://twitter.com/etscrivner), [Jared Newman](https:
 - [Watts Humphrey's work at the SEI](https://resources.sei.cmu.edu/news-events/events/watts/watts.cfm) (namely on the PSP and TSP)
 - [Object-Oriented Software Engineering by Jacobson](https://www.amazon.com/Object-Oriented-Software-Engineering-Approach/dp/0201544350)
 - [Clean Architecture, Martin B.](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)
+- [END-TO-END ARGUMENTS IN SYSTEM DESIGN](https://web.mit.edu/Saltzer/www/publications/endtoend/endtoend.pdf) 
 
 #### Miscellaneous
 
@@ -90,3 +91,4 @@ Thanks to [Eric Scrivner](https://twitter.com/etscrivner), [Jared Newman](https:
 - Software Engineering for the Apollo Space Program
 - Thinking in Systems: A Primer by Donella Meadows
 - [Pilot Projects](http://pilot-projects.org/blog/entry/communities-of-practice-using-systems-thinking-to-co-create-a-better-world) for the cover photo
+
