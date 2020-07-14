@@ -8,9 +8,9 @@ Software engineer at [Anduril Industries](http://anduril.com/).  Previously spen
 
 My main interests right now are:
 - Software Systems Engineering
+- Theology (e.g. Augustine, Aquinas, Girard)
 - AI Research
 - Decentralized Systems
-- Theology (e.g. Augustine, Aquinas, Girard)
 - Political Economy (e.g. Hayek, George, Rothbard, Marx)
 - Macroeconomic Thought (e.g. Thiel, Dalio)
 - Political Philosophy and Governance Futurism (e.g. Plato, Strauss, Schmitt)
