@@ -24,5 +24,6 @@ In past life as a non-adult:
 - high school valedictorian
 - lead guitarist
 - movie producer
-- quizmaster
+- quizmaster and quizzing champion
 - executive of a non-profit
+- president and founder of AI club
