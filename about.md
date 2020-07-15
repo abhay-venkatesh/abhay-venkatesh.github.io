@@ -10,12 +10,12 @@ My main interests right now are:
 - Software Systems Engineering
   - AI systems 
   - Data systems 
-- Philosophy (e.g. Aristotle, Augustine, Aquinas)
-- Decentralized Systems (e.g. Bitcoin, Ethereum, Urbit, Dfinity)
-- Political Economy (e.g. Hayek, George, Rothbard, Marx)
-- Macroeconomic Thought (e.g. Thiel, Dalio)
-- Political Philosophy and Governance Futurism (e.g. Plato, Strauss, Schmitt)
 - Generative Anthropology and Mimetic Theory (e.g. Gans, Girard)
+- Political Philosophy and Governance Futurism (e.g. Plato, Strauss, Schmitt)
+- Philosophy (e.g. Aristotle, Augustine, Aquinas)
+- Macroeconomic Thought (e.g. Thiel, Dalio)
+- Political Economy (e.g. Hayek, George, Rothbard, Marx)
+- Decentralized Systems (e.g. Bitcoin, Ethereum, Urbit, Dfinity)
 
 Please visit my [Bookshelf](https://bookshelf.website/abhay/mixes/dvadl/Bookshelf) for more.
 
