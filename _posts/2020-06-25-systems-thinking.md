@@ -83,6 +83,7 @@ Thanks to [Eric Scrivner](https://twitter.com/etscrivner), [Jared Newman](https:
 - [Object-Oriented Software Engineering by Jacobson](https://www.amazon.com/Object-Oriented-Software-Engineering-Approach/dp/0201544350)
 - [Clean Architecture, Martin B.](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)
 - [End-To-End Arguments in System Design](https://web.mit.edu/Saltzer/www/publications/endtoend/endtoend.pdf) 
+- [Principles of Computer System Design: An Introduction](https://www.amazon.com/Principles-Computer-System-Design-Introduction/dp/0123749573)
 
 #### Miscellaneous
 
