@@ -11,7 +11,7 @@ minima:
     twitter: abhayvenkatesh1
     github:  abhay-venkatesh
     linkedin: abhayvenkatesh
-theme: minima
+theme: jekyll-theme-minimal
 
 plugins:
  - jekyll-feed
