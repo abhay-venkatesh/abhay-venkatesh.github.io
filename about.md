@@ -15,6 +15,7 @@ My main interests right now are:
 - Philosophy (e.g. Aristotle, Augustine, Aquinas)
 - Macroeconomic Thought (e.g. Thiel, Dalio)
 - Political Economy (e.g. Hayek, George, Rothbard, Marx)
+- Top Contemporary Intellectuals (e.g. Fukuyama, Krein, Cowen)
 - Decentralized Systems (e.g. Bitcoin, Ethereum, Urbit, Dfinity)
 
 Please visit my [Bookshelf](https://bookshelf.website/abhay/mixes/dvadl/Bookshelf) for more.
