@@ -55,5 +55,8 @@ New Atlantis / New Scientific Project
 * [E.W. Dijkstra: On the nature of Computer Science](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD08xx/EWD896.html)
 * [Nick Bostrom: Future Progress in AI](https://nickbostrom.com/papers/survey.pdf)
 
+Great Ideas
+* [Man-Computer Symbiosis by J. C. R. Licklider](https://groups.csail.mit.edu/medg/people/psz/Licklider.html)
+
 
 Let me know your thoughts, and/or send [me](https://twitter.com/AbhayVenkatesh1) link suggestions!
