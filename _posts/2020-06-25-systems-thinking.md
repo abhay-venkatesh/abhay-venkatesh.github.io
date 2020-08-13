@@ -9,29 +9,28 @@ categories: misc
 ### Introduction
 > We are then in the position of beings who are sane and sober when engaged in trivial business and who gamble like madmen when confronted with serious issues—retail sanity and wholesale madness [(Strauss, 1965)](https://contemporarythinkers.org/leo-strauss/book/natural-right-and-history/)
 
-There are two pieces to thinking about systems:
+There are broadly two pieces to thinking about systems:
 
 - details
 - the big picture
 
-To get the details, one simply must consume a lot of [discrete systems design knowledge](#specific-systems-knowledge) such as the classic Google systems research papers or resources like the [System Design Primer by Donne Martin](https://github.com/donnemartin/system-design-primer). Part of becoming a good system designer is just to get experience with a good selection of system design problems and background knowledge. I suspect there is no way to circumvent that.
+To get the details, one must simply consume a lot of [discrete systems design knowledge](#specific-systems-knowledge), such as the classic Google systems research papers or resources like the [System Design Primer by Donne Martin](https://github.com/donnemartin/system-design-primer). Part of becoming a good system designer is just to get experience with a good selection of system design problems and knowledge. I suspect there is no way to circumvent that.
 
 However, my focus in this article is to try to get at the problem of system design from a more big picture perspective. While there has been a lot of work with respect to finding [lists of general system design principles](#listings-of-architectural-principles), I wonder if there is something more fundamental that can be said about systems. Typically, systems thinking is posed in opposition to pure technicality as a more aesthetic endeavor, but my claim is that it at least as philosophic, in the sense that there is a fundamental truth about systems thinking, and that debates about systems thinking do not have to be conceded on aesthetic grounds. 
 
-
 > Software engineering is what happens to programming when you add time and other programmers. — Russ Cox 
 
-> ...and perhaps its just about time, you are a different person depending on the time.
+> ...and perhaps its just about time, you are a different person depending on the time. - Abhay Venkatesh
 
-Additionally, it is worthwhile to approach systems thinking as not merely a problem about systems *tout court* but as a problem of people interacting with systems. System complexity would be irrelevant if people could instantly understand any arbitrarily complex system. The problem is that complex systems without good design are hard to understand, and therefore we need to impose discipline onto systems. Therefore, **a shift in first principles about people can powerfully inform the way we approach the construction of systems.**
+Additionally, it is worthwhile to approach systems thinking as not merely a problem about systems *tout court* but as a problem of people interacting with systems. System complexity would be immaterial if people could instantly understand any arbitrarily complex system. The problem is that complex systems without good design are hard to understand, and therefore we need to impose discipline onto systems. Therefore, **a shift in first principles about our view on people can powerfully inform the way we approach the construction of systems.**
 
 ### Boundaries due to Differences
 
-Since everyone at your company is unlikely to be great at exactly the same things, in fact they should not be since you want to hire people who are uniquely good at what they do as much as possible, one of the important considerations when building software systems is accounting for these differences.
+Since everyone at your company is unlikely to be great at exactly the same thing, in fact they should not be since you want to hire people who are uniquely good at what they do as much as possible, one of the important considerations when building software systems is accounting for these differences.
 
-For example, a classic divide is the engineer vs. mathematician dichotomy. Engineers are good at writing elegant APIs, maintainable code, and high-performance systems, but bad at solving hard math problems and tend to have somewhat quixotic preferences for tools and practices. Mathematicians are good at solving hard math problems while having little patience about building and maintaining software systems.
+For example, a classic divide is the engineer vs. mathematician dichotomy. Engineers are good at writing elegant APIs, maintainable code, and high-performance systems, but bad at solving hard math problems. Mathematicians are good at solving hard math problems but they have little patience for building and maintaining software systems. Furthermore, the skills that people have translate into their worldviews and opinions, which in practice means that even though while both engineers and mathematicians have a high aptitude for technical work in general, it makes it difficult for them to switch domains easily. 
 
-The conclusion here is basically that **one of the most important aspects of system design is the skill of drawing boundaries**. A separation of mathematical from engineering concerns is critical for organizations that have both mathematical and engineering problems. If people strong at X thing spend a lot of time doing Y thing that they are not good at, then it is natural that you could expect suboptimal outcomes. For that reason, good system design requires excellent and well-thought boundaries. 
+Therefore, **one of the most important aspects of system design is the skill of drawing boundaries**. A separation of mathematical from engineering concerns is critical for organizations that have both mathematical and engineering problems. If people strong at X thing spend a lot of time doing Y thing that they are not good at, then it is natural that you could expect suboptimal outcomes. For that reason, good system design requires excellent and well-thought boundaries. 
 
 > Any organization that designs a system (defined broadly) will produce a design whose structure is a copy of the organization's communication structure. — Melvin E. Conway
 
