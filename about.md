@@ -22,9 +22,11 @@ Please visit my [Bookshelf](https://bookshelf.website/abhay/mixes/dvadl/Bookshel
 
 In past life as a non-adult:
 - 5th grade schoolyard gang leader
-- high school valedictorian
-- lead guitarist
-- movie producer
-- quizmaster and quizzing champion
-- executive of a non-profit
-- president and founder of AI club
+- High school valedictorian
+- Lead guitarist
+- Movie producer
+- Quizmaster and quizzing champion
+- Executive of a non-profit
+- President and Founder of AI club
+- Music producer
+- Founder of a small business
