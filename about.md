@@ -6,10 +6,7 @@ permalink: /about/
 
 Software engineer at [Anduril Industries](http://anduril.com/).  Previously interned at [Facebook, Inc.](https://www.facebook.com/) and [Stanford University](http://stanford.com/). Also did [some machine learning research](https://scholar.google.com/citations?user=Inp7zBgAAAAJ&hl=en). 
 
-My main interests right now are:
-- Software Systems Engineering
-  - AI systems 
-  - Data systems 
+Some of my secondary interests are:
 - Generative Anthropology and Mimetic Theory (e.g. Gans, Girard)
 - Political Philosophy and Governance Futurism (e.g. Plato, Strauss, Schmitt)
 - Philosophy (e.g. Aristotle, Augustine, Aquinas)
