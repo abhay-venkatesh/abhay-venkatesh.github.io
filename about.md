@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Software engineer at [Anduril Industries](http://anduril.com/).  Previously interned at [Facebook, Inc.](https://www.facebook.com/) and [Stanford University](http://stanford.com/). Also did [some machine learning research](https://scholar.google.com/citations?user=Inp7zBgAAAAJ&hl=en). 
+Software engineer at [Anduril Industries](http://anduril.com/).  Previously interned at [Facebook, Inc.](https://www.facebook.com/) and [Stanford University](http://stanford.com/), and conducted [AI research](https://scholar.google.com/citations?user=Inp7zBgAAAAJ&hl=en). 
 
 Some of my secondary interests are:
 - Generative Anthropology and Mimetic Theory (e.g. Gans, Girard)
