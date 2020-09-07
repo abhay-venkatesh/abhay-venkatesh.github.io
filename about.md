@@ -13,7 +13,6 @@ Some of my secondary interests are:
 - Macroeconomic Thought (e.g. Thiel, Dalio)
 - Political Economy (e.g. Hayek, George, Rothbard, Marx)
 - Top Contemporary Intellectuals (e.g. Fukuyama, Krein, Cowen)
-- Decentralized Systems (e.g. Bitcoin, Ethereum, Urbit, Dfinity)
 
 Please visit my [bookshelf](https://bookshelf.website/abhay/mixes/dvadl/Bookshelf) for more.
 
