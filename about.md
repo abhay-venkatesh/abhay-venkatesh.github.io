@@ -8,7 +8,7 @@ Software engineer at [Anduril Industries](http://anduril.com/).  Previously inte
 
 Some of my secondary interests are:
 - Generative Anthropology and Mimetic Theory (e.g. Gans, Girard)
-- Political Philosophy and Governance Futurism (e.g. Plato, Strauss, Schmitt)
+- Political Philosophy (e.g. Plato, Strauss, Schmitt)
 - Philosophy (e.g. Aristotle, Augustine, Aquinas)
 - Macroeconomic Thought (e.g. Thiel, Dalio)
 - Political Economy (e.g. Hayek, George, Rothbard, Marx)
