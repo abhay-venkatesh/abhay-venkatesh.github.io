@@ -11,7 +11,7 @@ Some of my secondary interests are:
 - Political Philosophy (e.g. Plato, Strauss, Schmitt)
 - Philosophy (e.g. Aristotle, Augustine, Aquinas)
 - Macroeconomic Thought (e.g. Thiel, Dalio)
-- Political Economy (e.g. Hayek, George, Rothbard, Marx)
+- Political Economy (e.g. Hayek, George, Rothbard, Marx, Keynes)
 - Top Contemporary Intellectuals (e.g. Fukuyama, Krein, Cowen)
 
 Please visit my [bookshelf](https://bookshelf.website/abhay/mixes/dvadl/Bookshelf) for more.
