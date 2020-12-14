@@ -4,8 +4,6 @@ title: "Executing in Non-Linear Environments"
 categories: misc
 ---
 
-# Executing in Non-Linear Environments
-
 ![The Garden of Earthly Delights by Hieronymus Bosch](https://upload.wikimedia.org/wikipedia/commons/e/e5/The_Garden_of_Earthly_Delights_by_Hieronymus_Bosch.jpg)
 
 > For to every one who has will more be given, and he will have abundance; but from him who has not, even what he has will be taken away.
