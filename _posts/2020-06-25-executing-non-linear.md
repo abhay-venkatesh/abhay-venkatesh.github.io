@@ -6,7 +6,7 @@ categories: misc
 
 # Executing in Non-Linear Environments - II
 
-![The Garden of Earthly Delights by Hieronymus Bosch](https://paper-attachments.dropbox.com/s_DD6951D4F7D0621EF1289377BEB6532959A6E9C2CD9FD1F0C1F4820F3E64127D_1607885718687_image.png)
+![The Garden of Earthly Delights by Hieronymus Bosch](https://upload.wikimedia.org/wikipedia/commons/e/e5/The_Garden_of_Earthly_Delights_by_Hieronymus_Bosch.jpg)
 
 > For to every one who has will more be given, and he will have abundance; but from him who has not, even what he has will be taken away.
 > — [Matthew](https://en.wikipedia.org/wiki/Gospel_of_Matthew) 25:29, [RSV](https://en.wikipedia.org/wiki/Revised_Standard_Version).
