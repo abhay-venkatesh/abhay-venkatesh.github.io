@@ -55,7 +55,7 @@ In the Book of Genesis, there is a [prophecy about the tech industry](https://ww
 > six, turned again is seven and threepence, and so on, till it becomes a hundred pounds. The more there is of it, the more it produces every turning, so that
 > the profits rise quicker and quicker. He that kills a breeding-sow, destroys all her offspring to the thousandth generation. He that murders a crown, destroys all
 > that it might have produced, even scores of pounds. 
-> - Benjamin Franklin
+> — Benjamin Franklin
 
 In the [Protestant Ethic and the Spirit of Capitalism, Max Weber argues that](https://en.wikipedia.org/wiki/The_Protestant_Ethic_and_the_Spirit_of_Capitalism) it is this almost transcendental belief in the power of compounding or power laws that lead to the formation of capitalism. Today, Founders like Thiel, [Altman](https://blog.samaltman.com/how-to-be-successful), or Graham repeatedly remind us about the power law’s role in startups. Indeed, if one wishes to live most in congruence with the shape of our world, one must seek to be exponential. History is defined by those who are convex, and the courageous few who ride power laws will leave an imprint on the cosmos that will echo throughout eternity. 
 
