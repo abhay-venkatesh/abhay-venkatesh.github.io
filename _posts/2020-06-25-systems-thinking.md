@@ -62,7 +62,7 @@ The goal is to break the false dichotomy of design and iteration - you want both
 
 The ideas I develop here are fairly generally applicable to systems (software or people or generally). These ideas also apply onto each other in a higher order fashion. For example, you might want to apply the design and iteration dialectic onto the defining of boundaries. Or might want to have someone take responsibility of the design and iteration process rather than resorting to some off-the-shelf method like agile. I suspect there might be more ideas like these that would be useful to develop. Curious to hear what you think, or have any ideas about furthering some of the thought here. Please let me know! 
 
-Thanks to [Eric Scrivner](https://twitter.com/etscrivner), [Jared Newman](https://www.linkedin.com/in/jared-newman-54a57b50/), and [Stephen Pimentel](https://twitter.com/StephenPiment) for their feedback. 
+Thanks to [Eric Scrivner](https://twitter.com/etscrivner), and [Jared Newman](https://www.linkedin.com/in/jared-newman-54a57b50/) for their feedback. 
 
 ### Related Work
 
