@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Software engineer at [Anduril Industries](http://anduril.com/).  Previously interned at [Facebook, Inc.](https://www.facebook.com/) and [Stanford University](http://stanford.com/), and conducted [AI research](https://scholar.google.com/citations?user=Inp7zBgAAAAJ&hl=en). 
+Moved to [abhayvenkatesh.substack.com](https://abhayvenkatesh.substack.com/).
