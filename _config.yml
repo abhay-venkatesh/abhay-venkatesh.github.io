@@ -1,0 +1,17 @@
+title: Abhay Venkatesh
+description: Profile
+author: "Abhay Venkatesh"
+
+theme: minima
+
+header_pages:
+  - _pages/about.md
+
+include:
+    - _pages
+
+exclude: 
+    - .gitignore
+    - Gemfile
+    - Gemfile.lock
+    - LICENSE
