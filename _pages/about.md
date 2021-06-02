@@ -5,7 +5,7 @@ title: About
 ---
 
 Software Engineer at [Anduril Industries](https://anduril.com/) focusing on Platform.
-Previously, worked on [AI Research as an Undergraduate](https://scholar.google.com/citations?user=Inp7zBgAAAAJ&hl=en),
+Previously, worked on [AI and Systems Research as an Undergraduate](https://scholar.google.com/citations?user=Inp7zBgAAAAJ&hl=en),
 News Feed Integrity at [Facebook](https://engineering.fb.com/), and Robotics and Software Platforms at [Stanford](https://www.stanford.edu/).
 
 #### Interests
