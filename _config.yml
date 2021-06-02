@@ -1,14 +1,12 @@
-title: My blog
-description: My very nice blog
-author: "Jorge Sanz"
+title: Abhay Venkatesh
+description: Profile
+author: "Abhay Venkatesh"
 
 theme: minima
 
 # Minima social links
-twitter_username: xurxosanz
-github_username: jsanz
-linkedin_username: jsanz
-rss: rss
+twitter_username: abhayvenkatesh1
+linkedin_username: abhayvenkatesh
 
 # Minima: show excerpts in the frontpage
 show_excerpts: true
