@@ -2,7 +2,6 @@ title: My blog
 description: My very nice blog
 author: "Jorge Sanz"
 
-
 theme: minima
 
 # Minima social links
@@ -19,8 +18,8 @@ minima:
 
 # Minima: custom header links
 header_pages:
-  - _pages/frontpage.md
   - _pages/about.md
+  - _pages/frontpage.md
   - _pages/archive.md
 
 include:
