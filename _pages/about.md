@@ -23,7 +23,7 @@ philosophy, and startups. On the other hand, in [Applied Dialectics](https://app
 #### Work
 
 For a brief overview of Abhay's work, please check out his [LinkedIn](https://www.linkedin.com/in/abhayvenkatesh/). For his
-academic publications, please check out his [Google Scholar Profile](https://scholar.google.com/citations?user=Inp7zBgAAAAJ&hl=en). Abhay's sesume is
+academic publications, please check out his [Google Scholar Profile](https://scholar.google.com/citations?user=Inp7zBgAAAAJ&hl=en). Abhay's resume is
 available on request, as well as a full Curriculum Vitae, please reach out to him over [e-mail](mailto:abhay.venkatesh@gmail.com).
 
 #### Contact
