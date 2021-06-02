@@ -12,7 +12,7 @@ News Feed Integrity at [Facebook](https://engineering.fb.com/), and Robotics and
 
 #### Interests
 
-Abhay is primarily interested in next-generation Software Systems supporting AI and Internet applications. As his primary occcupation, he has successfully designed and built ground-breaking robotics platforms as well invented cutting-edge AI algorithms.
+Abhay is primarily interested in next-generation Software Systems supporting AI and Internet applications. In his primary occcupation, he has successfully designed and built ground-breaking robotics platforms as well invented cutting-edge AI algorithms.
 
 On the side, he enjoys philosophy, anthropology, and broadly the humanities. Abhay has an advanced understanding of the latest research in political philosophy and cultural anthropology, and has hosted seminars on bleeding-edge humanities on topics such as Mimetic Theory, Classical Political Rationalism, and Political Theology.
 
