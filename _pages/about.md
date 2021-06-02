@@ -4,15 +4,19 @@ layout: page
 title: About
 ---
 
-Abhay Venkatesh is a Software Engineer at [Anduril Industries](https://anduril.com/) focusing on Platform.
-Previously, Abhay worked on [AI Research as an Undergraduate](https://scholar.google.com/citations?user=Inp7zBgAAAAJ&hl=en),
+Software Engineer at [Anduril Industries](https://anduril.com/) focusing on Platform.
+Previously, worked on [AI Research as an Undergraduate](https://scholar.google.com/citations?user=Inp7zBgAAAAJ&hl=en),
 News Feed Integrity at [Facebook](https://engineering.fb.com/), and Robotics and Software Platforms at [Stanford](https://www.stanford.edu/).
+
+#### Interests
+
+Primarily interested in next-generation Software Systems supporting AI and Internet applications. On the side, enjoy
+Philosophy, Anthropology, and broadly the Humanities.
 
 #### Writing
 
-Check out [The Revelation](https://abhayvenkatesh.substack.com/), where I document my intellectual progress in 
-technology, philosophy, and startups, and [Applied Dialectics](https://applieddialectics.substack.com/) where I post
-about applying my intellectual progress in the real world.
+[The Revelation](https://abhayvenkatesh.substack.com/) focuses on intellectual ideas at the intersection of technology,
+philosophy, and startups. [Applied Dialectics](https://applieddialectics.substack.com/) focuses on applying these ideas in the real world.
 
 #### Contact
 
