@@ -22,7 +22,8 @@ philosophy, and startups. [Applied Dialectics](https://applieddialectics.substac
 
 #### Work
 
-For a brief overview of my work, please check out my [LinkedIn](https://www.linkedin.com/in/abhayvenkatesh/). Resume is
+For a brief overview of my work, please check out my [LinkedIn](https://www.linkedin.com/in/abhayvenkatesh/). For my
+academic publications, please check out my [Google Scholar Profile](https://scholar.google.com/citations?user=Inp7zBgAAAAJ&hl=en). Resume is
 available on request, as well as a full Curriculum Vitae, please reach out to me over [e-mail](mailto:abhay.venkatesh@gmail.com).
 
 #### Contact
