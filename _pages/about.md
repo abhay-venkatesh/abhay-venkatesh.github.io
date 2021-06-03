@@ -8,12 +8,15 @@ title: About
 
 Abhay Venkatesh is a Software Engineer at [Anduril Industries](https://anduril.com/) focusing on Platform.
 Previously, he worked on [AI and Systems Research](https://scholar.google.com/citations?user=Inp7zBgAAAAJ&hl=en) as an undergraduate,
-News Feed Integrity at [Facebook](https://engineering.fb.com/), and Robotics and Software Platforms at [Stanford](https://www.stanford.edu/).
+News Feed Integrity at [Facebook](https://engineering.fb.com/), and Robotics and Software Platforms at [Stanford](https://www.stanford.edu/). 
+
+Abhay was also the President and Co-Founder of the AI Club at his university, from where he graduated with a Bachelor of Science in Computer Sciences and Mathematics with Distinction and Departmental Honors.
 
 #### Interests
 
-Abhay is primarily interested in next-generation Software Systems supporting AI and Internet applications. On the side, he enjoys
-philosophy, anthropology, and broadly the humanities.
+Abhay is primarily interested in next-generation Software Systems supporting AI and Internet applications. He has successfully designed and built ground-breaking robotics platforms as well invented cutting-edge AI algorithms.
+
+On the side, he enjoys philosophy, anthropology, and broadly the humanities. Abhay has an advanced understanding of the latest research in political philosophy and cultural anthropology, and has hosted seminars on topics such as Mimetic Theory and Classical Political Rationalism which were attended by the some of the brightest in Silicon Valley.
 
 #### Writing
 
