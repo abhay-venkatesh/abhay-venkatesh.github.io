@@ -16,8 +16,6 @@ Abhay was also the President and Co-Founder of the AI Club at his university, fr
 
 Abhay is primarily interested in next-generation Software Systems supporting AI and Internet applications. He has successfully designed and built ground-breaking robotics platforms as well invented cutting-edge AI algorithms.
 
-On the side, he enjoys philosophy, anthropology, and broadly the humanities. Abhay has an advanced understanding of the latest research in political philosophy and cultural anthropology, and has hosted seminars on topics such as Mimetic Theory and Classical Political Rationalism which were attended by the some of the brightest in Silicon Valley.
-
 #### Writing
 
 In [The Revelation](https://abhayvenkatesh.substack.com/), Abhay focuses on intellectual ideas at the intersection of technology,
