@@ -14,7 +14,7 @@ Abhay was also the President and Co-Founder of the AI Club at his university, fr
 
 #### Interests
 
-Abhay is primarily interested in next-generation Software Systems supporting AI and Internet applications. He has successfully designed and built ground-breaking robotics platforms as well invented cutting-edge AI algorithms.
+Abhay is primarily interested in next-generation Software Systems. He has successfully designed and built ground-breaking robotics platforms as well invented cutting-edge AI algorithms.
 
 #### Writing
 
