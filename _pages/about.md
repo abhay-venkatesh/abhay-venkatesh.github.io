@@ -25,7 +25,7 @@ philosophy, and startups. On the other hand, in [Applied Dialectics](https://app
 
 For a brief overview of Abhay's work, please check out his [LinkedIn](https://www.linkedin.com/in/abhayvenkatesh/). For his
 academic publications, please check out his [Google Scholar Profile](https://scholar.google.com/citations?user=Inp7zBgAAAAJ&hl=en). 
-For a longer overview of Abhay's professional and academic work, take a look at his [Curriculum Vitae](./assets/files/Curriculum_Vitae___June_4__2021.pdf).
+For a longer overview of Abhay's professional and academic work, take a look at his [Curriculum Vitae](./assets/files/Curriculum_Vitae.pdf).
 
 #### Contact
 
