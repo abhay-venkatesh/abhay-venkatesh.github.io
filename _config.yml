@@ -6,6 +6,7 @@ theme: minima
 
 header_pages:
   - _pages/about.md
+  - _pages/posts.md
 
 include:
     - _pages
