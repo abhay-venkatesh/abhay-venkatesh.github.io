@@ -14,7 +14,7 @@ Abhay was also the President and Co-Founder of the AI Club at his university, fr
 
 #### Interests
 
-Abhay is primarily interested in next-generation Software Systems. He has successfully designed and built ground-breaking robotics platforms as well invented cutting-edge AI algorithms. Abhay believes the next-generation of Software Systems will be defined by Artificial General Intelligence (AGI) in the limit case, increasingly general learning systems in the short term on the Centralization side, and Privacy, Security and Crypto on the Decentralization side.
+Abhay is primarily interested in Software Systems and Software Platform Infrastructure. He has successfully designed and built ground-breaking robotics platforms as well invented cutting-edge AI algorithms. Abhay believes the current generation of Software Systems isnext-generation of Software Systems will be defined by Artificial General Intelligence (AGI) in the limit case, increasingly general learning systems in the short term on the Centralization side, and Privacy, Security and Crypto on the Decentralization side.
 
 In his free time, Abhay enjoys Philosophy, and the Humanities more generally. Abhay has hosted seminars on Philosophy attended by the brightest in Silicon Valley, and has developed a substantive understanding of some of the greatest thinkers of all time such as Plato, Xenophon, Aristotle, Augustine, Aquinas, Machiavelli, Hobbes, Bacon, Locke, Marx, Nietzsche, and Girard.
 
