@@ -6,7 +6,7 @@ title: About
 
 <img src="{% link /assets/imgs/avatar.png %}" width="40%">
 
-Abhay Venkatesh is a Software Engineer at [Anduril Industries](https://anduril.com/) focusing on Platform.
+Abhay Venkatesh is a Software Engineer at [Anduril Industries](https://anduril.com/) focusing on Platform Infrastructure Product and Software Architecture.
 Previously, he worked on [AI and Systems Research](https://scholar.google.com/citations?user=Inp7zBgAAAAJ&hl=en) as an undergraduate,
 News Feed Integrity at [Facebook](https://engineering.fb.com/), and Robotics and Software Platforms at [Stanford](https://www.stanford.edu/). 
 
