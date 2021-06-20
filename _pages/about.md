@@ -16,10 +16,6 @@ Abhay was also the President and Co-Founder of the AI Club at his university, fr
 
 Abhay is primarily interested in Software Systems and Software Platform Infrastructure. He has successfully designed and built ground-breaking robotics platforms, invented cutting-edge AI algorithms, and contributed to Software Platform Infrastructure at the world's best technology companies. 
 
-Abhay believes the next-generation of Software Systems will be defined by Artificial General Intelligence (AGI) in the limit case, increasingly general learning systems in the short term on the Centralization side, and Privacy, Security and Crypto on the Decentralization side.
-
-In his free time, Abhay enjoys Philosophy, and the Humanities more generally. Abhay has hosted seminars on Philosophy attended by the brightest in Silicon Valley, and has developed a substantive understanding of some of the greatest thinkers of all time such as Plato, Xenophon, Aristotle, Augustine, Aquinas, Machiavelli, Hobbes, Bacon, Locke, Marx, Nietzsche, and Girard.
-
 #### Writing
 
 In [The Revelation](https://abhayvenkatesh.substack.com/), Abhay focuses on intellectual ideas at the intersection of technology,
