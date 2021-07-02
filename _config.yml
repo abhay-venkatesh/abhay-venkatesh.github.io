@@ -9,7 +9,8 @@ header_pages:
 
 include:
     - _pages
-    - .well-known
+include: [".well-known"]
+
 
 
 exclude: 
