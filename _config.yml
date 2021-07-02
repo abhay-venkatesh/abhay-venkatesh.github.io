@@ -9,6 +9,8 @@ header_pages:
 
 include:
     - _pages
+    - .well-known
+
 
 exclude: 
     - .gitignore
