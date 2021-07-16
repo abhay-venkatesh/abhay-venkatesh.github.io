@@ -10,6 +10,8 @@ Abhay Venkatesh is Software Engineer at [Anduril Industries](https://anduril.com
 
 Previously, he was a founding engineer on Anduril's Autonomy Program, and also a founding engineer on one of Anduril's key unannounced BD initiatives. 
 
+#### Education
+
 In college, he worked on [AI Research](https://scholar.google.com/citations?user=Inp7zBgAAAAJ&hl=en) focusing on Machine Learning, Computer Vision, and Data Systems. He published 6 papers in 1 year and 9 months while taking a full course load in advanced computer science and mathematics.
 
 He was also an intern on News Feed Integrity at [Facebook](https://engineering.fb.com/), and a research intern in Robotics and Software Platforms at [Stanford](https://www.stanford.edu/). 
