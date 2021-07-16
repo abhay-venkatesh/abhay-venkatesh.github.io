@@ -18,7 +18,7 @@ Abhay was the President and Co-Founder of the AI Club at his university, from wh
 
 #### Interests
 
-Abhay is primarily interested in Software Systems and Software Platform Infrastructure. He has successfully designed and built ground-breaking robotics platforms, invented cutting-edge AI algorithms, and lead Software Platform Infrastructure development at one of the world's best technology companies. 
+Abhay is primarily interested in Computer Sciences with an emphasis on Advanced Software Systems. He has successfully designed and built ground-breaking robotics platforms, invented cutting-edge AI algorithms, and lead Software Platform Infrastructure development at one of the world's best technology companies. 
 
 #### Writing
 
