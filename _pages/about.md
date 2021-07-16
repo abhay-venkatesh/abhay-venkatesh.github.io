@@ -6,12 +6,15 @@ title: About
 
 <img src="{% link /assets/imgs/avatar.png %}" width="40%">
 
-Abhay Venkatesh is Software Engineer at [Anduril Industries](https://anduril.com/) (employee #47) focusing on Platform Infrastructure Product and Architecture.
+Abhay Venkatesh is Software Engineer at [Anduril Industries](https://anduril.com/) (employee #47) working on Platform Infrastructure Product and Architecture. He focuses on Lattice APIs, Deployment, and Simulation. 
 
-Previously, he was a founding engineer on Anduril's Autonomy Program, worked on [AI and Systems Research](https://scholar.google.com/citations?user=Inp7zBgAAAAJ&hl=en) as an undergraduate,
-News Feed Integrity at [Facebook](https://engineering.fb.com/), and Robotics and Software Platforms at [Stanford](https://www.stanford.edu/). 
+Previously, he was a founding engineer on Anduril's Autonomy Program, and also a founding engineer on one of Anduril's key unannounced BD initiatives. 
 
-Abhay was also the President and Co-Founder of the AI Club at his university, from where he graduated with a Bachelor of Science in Computer Sciences and Mathematics with Distinction, and Departmental Honors in Computer Sciences.
+In college, he worked on [AI Research](https://scholar.google.com/citations?user=Inp7zBgAAAAJ&hl=en) focusing on Machine Learning, Computer Vision, and Data Systems. He published 6 papers in 1 year and 9 months while taking a full course load in advanced computer science and mathematics.
+
+He was also an intern on News Feed Integrity at [Facebook](https://engineering.fb.com/), and a research intern in Robotics and Software Platforms at [Stanford](https://www.stanford.edu/). 
+
+Abhay was the President and Co-Founder of the AI Club at his university, from where he graduated with a Bachelor of Science in Computer Sciences and Mathematics with Distinction, and Departmental Honors in Computer Sciences.
 
 #### Interests
 
