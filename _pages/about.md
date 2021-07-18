@@ -8,7 +8,7 @@ title: About
 
 Abhay Venkatesh is Software Engineer at [Anduril Industries](https://anduril.com/) (employee #47) working on Platform Infrastructure Product and Architecture. He focuses on Lattice APIs, Deployment, and Simulation. 
 
-Previously, he was a founding engineer on Anduril's Autonomy Program, and also a founding engineer on one of Anduril's key unannounced BD initiatives. 
+Previously, he was a key engineer on Anduril's Autonomy Program, and also a key engineer on one of Anduril's key unannounced BD initiatives. 
 
 #### Education
 
