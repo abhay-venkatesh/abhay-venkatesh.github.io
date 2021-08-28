@@ -6,21 +6,21 @@ title: About
 
 <img src="{% link /assets/imgs/avatar.png %}" width="40%">
 
-Abhay Venkatesh is Software Engineer at [Anduril Industries](https://anduril.com/) (employee #47) working on Platform Infrastructure Product and Architecture. His focuses include (but are not limited to) Data Systems, Deployment, Simulation, APIs, Autonomy, and C++ Infrastructure.
+Abhay Venkatesh is _Software Engineer_ at **[Anduril Industries](https://anduril.com/)** (employee #47) working on _Platform Infrastructure_ product and prchitecture. His focuses include (but are not limited to) data systems, deployment, simulation, APIs, autonomy, and C++ infrastructure.
 
-Previously, he was a founding engineer on several of Anduril's key programs ranging from Autonomy to Space.
+Previously, he was a key engineer on several of Anduril's future programs ranging from _Autonomy_ to _Space_.
 
 #### Education
 
-In college, Abhay worked on [AI Research](https://scholar.google.com/citations?user=Inp7zBgAAAAJ&hl=en) focusing on Machine Learning, Computer Vision, and Data Systems. He published 6 papers in 1 year and 9 months while taking a full course load in advanced computer science and mathematics.
+In college, Abhay worked on [AI Research](https://scholar.google.com/citations?user=Inp7zBgAAAAJ&hl=en) focusing on machine learning, computer vision, and software systems. He published 6 papers in 1 year and 9 months while taking a full course load in advanced computer science and mathematics.
 
-He was also an intern on News Feed Integrity at [Facebook](https://engineering.fb.com/), and a research intern in Robotics and Software Platforms at [Stanford](https://www.stanford.edu/). 
+He was also _Software Engineer Intern_ on News Feed Integrity at **[Facebook](https://engineering.fb.com/)**, and _Research Intern_ in Robotics and Software Platforms at **[Stanford](https://www.stanford.edu/)**. 
 
-Abhay was the President and Co-Founder of *AI at UW* at the University of Wisconsin-Madison, from where he graduated with a Bachelor of Science in Computer Sciences and Mathematics with Distinction, and Departmental Honors in Computer Sciences.
+Abhay was the President and Co-Founder of _AI at UW_ at the **University of Wisconsin-Madison**, from where he graduated with a Bachelor of Science in computer sciences and mathematics with distinction, and departmental honors in computer sciences.
 
 #### Interests
 
-Abhay is primarily interested in Computer Sciences with an emphasis on Advanced Software Systems. He has successfully designed and built ground-breaking robotics platforms, invented cutting-edge AI algorithms, and lead Software Platform Infrastructure development at one of the world's best technology companies. 
+Abhay is primarily interested in computer science with an emphasis on advanced software systems. He has successfully designed and built ground-breaking robotics platforms, invented cutting-edge AI algorithms, and lead software infrastructure development at one of the world's best technology companies. 
 
 #### Writing
 
