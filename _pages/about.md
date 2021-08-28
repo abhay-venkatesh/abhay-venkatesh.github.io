@@ -12,11 +12,15 @@ Previously, he was a key engineer on several of Anduril's future programs rangin
 
 #### Education
 
-In college, Abhay worked on [AI Research](https://scholar.google.com/citations?user=Inp7zBgAAAAJ&hl=en) focusing on machine learning, computer vision, and software systems. He published 6 papers in 1 year and 9 months while taking a full course load in advanced computer science and mathematics.
+In college, Abhay worked on [AI Research](https://scholar.google.com/citations?user=Inp7zBgAAAAJ&hl=en) focusing on machine learning, computer vision, and software systems. He published 6 papers in 1 year and 9 months at prestigious conferences like [CVPR](http://cvpr2021.thecvf.com/), [AAAI](https://www.aaai.org/), and [HotCloud](https://www.usenix.org/conferences/byname/1) while taking a full course load in advanced computer science and mathematics.
 
 He was also _Software Engineer Intern_ on News Feed Integrity at **[Facebook](https://engineering.fb.com/)**, and _Research Intern_ in Robotics and Software Platforms at **[Stanford](https://www.stanford.edu/)**. 
 
 Abhay was the President and Co-Founder of _AI at UW_ at the **University of Wisconsin-Madison**, from where he graduated with a Bachelor of Science in computer sciences and mathematics with distinction, and departmental honors in computer sciences.
+
+#### Achievements
+
+Abhay was a recipient of the [Cornell, Maryland, Max Planck Pre-Doctoral Research Fellowship](https://cmmrs.mpi-sws.org/) awarded to outstanding pre-doctoral researchers from all around the world. He has received numerous awards for his leadership at the University of Wisconsin-Madison such as the John W. Jung Memorial Scholarship and the Dean's Award of Excellence. He has ranked #3 nationally in top technology quizzes with over 15,000 participants, and has received recognition and recommendation from senior leadership in state government for his non-profit work.
 
 #### Interests
 
@@ -27,7 +31,7 @@ Abhay is primarily interested in computer science with an emphasis on advanced s
 In [The Revelation](https://abhayvenkatesh.substack.com/), Abhay focuses on intellectual ideas at the intersection of technology,
 philosophy, and startups. On the other hand, in [Applied Dialectics](https://applieddialectics.substack.com/), Abhay writes on applying these ideas in the real world.
 
-#### Work
+#### More
 
 For a brief overview of Abhay's work, please check out his [LinkedIn](https://www.linkedin.com/in/abhayvenkatesh/) or his [Resume](./assets/files/Resume.pdf). For his
 academic publications, please check out his [Google Scholar Profile](https://scholar.google.com/citations?user=Inp7zBgAAAAJ&hl=en). 
