@@ -20,7 +20,7 @@ Abhay was the President and Co-Founder of _AI at UW_ at the **University of Wisc
 
 #### Achievements
 
-Abhay is an award-winning undergraduate researcher, having been a recipient of awards such as the [Cornell, Maryland, Max Planck Pre-Doctoral Research Fellowship](https://cmmrs.mpi-sws.org/) awarded to outstanding pre-doctoral researchers from all around the world. In addition to his excellence in undergraduate research, he is a proven leader, having received numerous awards for his leadership at the University of Wisconsin-Madison such as the John W. Jung Memorial Scholarship and the Dean's Award of Excellence. Finally, he has ranked #3 nationally in top technology quizzes with over 15,000 participants, and has received recognition and recommendation from senior leadership in state government for his non-profit work.
+Abhay is an award-winning undergraduate researcher, having been a recipient of awards such as the [Cornell, Maryland, Max Planck Pre-Doctoral Research Fellowship](https://cmmrs.mpi-sws.org/) awarded to outstanding pre-doctoral researchers from all around the world. In addition to his excellence in undergraduate research, he is a proven leader, having received numerous awards for his leadership at the University of Wisconsin-Madison such as the [John W. Jung Memorial Scholarship](http://www.allcampusparty.org/jwj) and the Dean's Award of Excellence. Finally, he has ranked #3 nationally in top technology quizzes with over 15,000 participants, and has received recognition and recommendation from senior leadership in state government for his non-profit work.
 
 #### Interests
 
