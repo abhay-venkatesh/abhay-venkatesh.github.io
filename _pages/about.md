@@ -24,7 +24,7 @@ Abhay is an award-winning undergraduate researcher, having been a recipient of a
 
 In addition to his excellence in undergraduate research, he is a proven leader, having received numerous awards for his leadership at the University of Wisconsin-Madison such as the [John W. Jung Memorial Scholarship](http://www.allcampusparty.org/jwj) and the Dean's Award of Excellence. 
 
-Finally, he has ranked #3 nationally in top technology quizzes with over 15,000 participants, and has received recognition and recommendation from senior leadership in state government for his non-profit work.
+Finally, he has ranked #3 nationally in prestigious technology quizzes with over 15,000 participants, and has received recognition and recommendation from senior leadership in state government for his non-profit work.
 
 #### Interests
 
