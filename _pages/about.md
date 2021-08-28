@@ -16,7 +16,7 @@ In college, Abhay worked on [AI Research](https://scholar.google.com/citations?u
 
 He was also an intern on News Feed Integrity at [Facebook](https://engineering.fb.com/), and a research intern in Robotics and Software Platforms at [Stanford](https://www.stanford.edu/). 
 
-Abhay was the President and Co-Founder of the AI Club at his university, from where he graduated with a Bachelor of Science in Computer Sciences and Mathematics with Distinction, and Departmental Honors in Computer Sciences.
+Abhay was the President and Co-Founder of the AI Club at the University of Wisconsin-Madison, from where he graduated with a Bachelor of Science in Computer Sciences and Mathematics with Distinction, and Departmental Honors in Computer Sciences.
 
 #### Interests
 
