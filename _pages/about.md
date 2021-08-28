@@ -20,16 +20,17 @@ Abhay was the President and Co-Founder of _AI at UW_ at the **University of Wisc
 
 #### Achievements
 
-Abhay is an award-winning undergraduate researcher, having been a recipient of awards such as the [Cornell, Maryland, Max Planck Pre-Doctoral Research Fellowship](https://cmmrs.mpi-sws.org/) awarded to outstanding pre-doctoral researchers from all around the world. In addition to his excellence in undergraduate research, he is a proven leader, having received numerous awards for his leadership at the University of Wisconsin-Madison such as the [John W. Jung Memorial Scholarship](http://www.allcampusparty.org/jwj) and the Dean's Award of Excellence. Finally, he has ranked #3 nationally in top technology quizzes with over 15,000 participants, and has received recognition and recommendation from senior leadership in state government for his non-profit work.
+Abhay is an award-winning undergraduate researcher, having been a recipient of awards such as the **[Cornell, Maryland, Max Planck Pre-Doctoral Research Fellowship](https://cmmrs.mpi-sws.org/)** awarded to outstanding pre-doctoral computer science researchers from all around the world. 
+
+In addition to his excellence in undergraduate research, he is a proven leader, having received numerous awards for his leadership at the University of Wisconsin-Madison such as the [John W. Jung Memorial Scholarship](http://www.allcampusparty.org/jwj) and the Dean's Award of Excellence. 
+
+Finally, he has ranked #3 nationally in top technology quizzes with over 15,000 participants, and has received recognition and recommendation from senior leadership in state government for his non-profit work.
 
 #### Interests
 
 Abhay is primarily interested in computer science with an emphasis on advanced software systems. He has successfully designed and built ground-breaking robotics platforms, invented cutting-edge AI algorithms, and lead software infrastructure development at one of the world's best technology companies. 
 
-#### Writing
-
-In [The Revelation](https://abhayvenkatesh.substack.com/), Abhay focuses on intellectual ideas at the intersection of technology,
-philosophy, and startups. On the other hand, in [Applied Dialectics](https://applieddialectics.substack.com/), Abhay writes on applying these ideas in the real world.
+Abhay also writes about his intellectual influences. In [The Revelation](https://abhayvenkatesh.substack.com/), Abhay focuses on intellectual ideas at the intersection of technology, philosophy, and startups. On the other hand, in [Applied Dialectics](https://applieddialectics.substack.com/), Abhay writes on applying these ideas in the real world.
 
 #### More
 
