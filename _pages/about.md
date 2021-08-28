@@ -6,7 +6,7 @@ title: About
 
 <img src="{% link /assets/imgs/avatar.png %}" width="40%">
 
-Abhay Venkatesh is _Software Engineer_ at **[Anduril Industries](https://anduril.com/)** (employee #47) working on _Platform Infrastructure_ product and prchitecture. His focuses include (but are not limited to) data systems, deployment, simulation, APIs, autonomy, and C++ infrastructure.
+Abhay Venkatesh is _Software Engineer_ at **[Anduril Industries](https://anduril.com/)** (employee #47) working on _Platform Infrastructure_ product and architecture. His focuses include (but are not limited to) data systems, deployment, simulation, APIs, autonomy, and C++ infrastructure.
 
 Previously, he was a key engineer on several of Anduril's future programs ranging from _Autonomy_ to _Space_.
 
