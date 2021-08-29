@@ -36,7 +36,6 @@ Abhay also writes about his intellectual influences. In [The Revelation](https:/
 
 For a brief overview of Abhay's work, please check out his [LinkedIn](https://www.linkedin.com/in/abhayvenkatesh/) or his [Resume](./assets/files/Resume.pdf). For his
 academic publications, please check out his [Google Scholar Profile](https://scholar.google.com/citations?user=Inp7zBgAAAAJ&hl=en). 
-For a longer overview of Abhay's professional and academic work, take a look at his [Curriculum Vitae](./assets/files/Curriculum_Vitae.pdf).
 
 Finally, connect with Abhay Venkatesh on [LinkedIn](https://www.linkedin.com/in/abhayvenkatesh/), follow him on [Twitter](https://twitter.com/AbhayVenkatesh1),
 or reach out to him over [e-mail](mailto:abhay.venkatesh@gmail.com).
