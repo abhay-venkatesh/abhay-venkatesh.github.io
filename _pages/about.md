@@ -16,7 +16,7 @@ In college, Abhay worked on [AI Research](https://scholar.google.com/citations?u
 
 He was also _Software Engineer Intern_ on News Feed Integrity at **[Facebook](https://engineering.fb.com/)**, and _Research Intern_ in Robotics and Software Platforms at **[Stanford](https://www.stanford.edu/)**. 
 
-Abhay was the President and Co-Founder of _AI at UW_ at the **University of Wisconsin-Madison**, from where he graduated with a Bachelor of Science in computer sciences and mathematics with distinction, and departmental honors in computer sciences.
+Abhay was the President and Co-Founder of _AI at UW_ at the University of Wisconsin-Madison, from where he graduated with a Bachelor of Science in computer sciences and mathematics with distinction, and departmental honors in computer sciences.
 
 #### Achievements
 
