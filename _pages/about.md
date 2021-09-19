@@ -26,9 +26,11 @@ In addition to his excellence in computer science research, he is a proven leade
 
 Finally, he has ranked **#3 nationally** in prestigious technology quizzes with over 15,000 participants, and has received recognition and recommendation from senior leadership in state government for his non-profit work.
 
-#### Writing
+#### Media
 
-In [The Revelation](https://abhayvenkatesh.substack.com/), Abhay focuses on intellectual ideas at the intersection of technology, philosophy, and startups. On the other hand, in [Applied Dialectics](https://applieddialectics.substack.com/), Abhay writes on applying these ideas in the real world.
+Abhay has written numerous articles on technology. In [The Revelation](https://abhayvenkatesh.substack.com/), Abhay focuses on intellectual ideas at the intersection of technology, philosophy, and startups. On the other hand, in [Applied Dialectics](https://applieddialectics.substack.com/), Abhay writes on applying these ideas in the real world.
+
+In addition, [Abhay has been interviewed by Jason Gauci of Facebook AI, and Patrick Wheeler of Apple for his work on Software Platforms for Robotics on the Programmign Throwdown Podcast](https://www.programmingthrowdown.com/2021/08/episode-118-building-robotics-software.html).
 
 #### More
 
