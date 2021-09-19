@@ -24,13 +24,11 @@ Abhay was an award-winning undergraduate researcher in computer science, having 
 
 In addition to his excellence in computer science research, he is a proven leader, having received numerous awards for his leadership at the University of Wisconsin-Madison such as the [John W. Jung Memorial Scholarship](http://www.allcampusparty.org/jwj) and the **Dean's Award of Excellence**. 
 
-Finally, he has ranked #3 nationally in prestigious technology quizzes with over 15,000 participants, and has received recognition and recommendation from senior leadership in state government for his non-profit work.
+Finally, he has ranked **#3 nationally** in prestigious technology quizzes with over 15,000 participants, and has received recognition and recommendation from senior leadership in state government for his non-profit work.
 
-#### Interests
+#### Writing
 
-Abhay is primarily interested in computer science with an emphasis on advanced software systems. He has successfully designed and built ground-breaking robotics platforms, invented cutting-edge AI algorithms, and lead software infrastructure development at one of the world's best technology companies. 
-
-Abhay also writes about his intellectual influences. In [The Revelation](https://abhayvenkatesh.substack.com/), Abhay focuses on intellectual ideas at the intersection of technology, philosophy, and startups. On the other hand, in [Applied Dialectics](https://applieddialectics.substack.com/), Abhay writes on applying these ideas in the real world.
+In [The Revelation](https://abhayvenkatesh.substack.com/), Abhay focuses on intellectual ideas at the intersection of technology, philosophy, and startups. On the other hand, in [Applied Dialectics](https://applieddialectics.substack.com/), Abhay writes on applying these ideas in the real world.
 
 #### More
 
