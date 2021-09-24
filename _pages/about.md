@@ -33,7 +33,7 @@ In addition, [Abhay has been interviewed by Jason Gauci of Facebook AI, and Patr
 #### More
 
 For a brief overview of Abhay's work, please check out his [LinkedIn](https://www.linkedin.com/in/abhayvenkatesh/) or his [resume](https://drive.google.com/file/d/1ehrK2DrlO35xQ7iKr0jPd4_4EgO5f46B/view?usp=sharing). For a longer overview, take a look at his [curriculum vitae](https://docs.google.com/document/d/1p9MDl0Oak5kGTCWW7I_WpRStbq96G1eCIqr4ctI3E_g/edit?usp=sharing). For his
-academic publications, please check out his [Google Scholar Profile](https://scholar.google.com/citations?user=Inp7zBgAAAAJ&hl=en). 
+scholarly work, please check out his [Scholarly Articles](./scholarly).
 
 Finally, connect with Abhay Venkatesh on [LinkedIn](https://www.linkedin.com/in/abhayvenkatesh/), follow him on [Twitter](https://twitter.com/AbhayVenkatesh1),
 or reach out to him over [e-mail](mailto:abhay.venkatesh@gmail.com).

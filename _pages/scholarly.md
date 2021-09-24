@@ -4,7 +4,7 @@ layout: page
 title: Scholarly Articles
 ---
 
-Please take a look at my [Google Scholar Page](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=Inp7zBgAAAAJ). This page includes further scholarly work. 
+Please take a look at my [Google Scholar page](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=Inp7zBgAAAAJ). This page includes further scholarly work not included on my Google Scholar profile.
 
 # Articles
 
