@@ -1,14 +1,16 @@
 ---
-permalink: /scholarly
+permalink: /projects
 layout: page
-title: Scholarly Articles
+title: Projects
 ---
+
+# Peer-Reviewed Publications
 
 Please take a look at my [Google Scholar page](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=Inp7zBgAAAAJ). This page includes further scholarly work not included on my Google Scholar profile.
 
-# Articles
-
 **[Learning View Invariant Semantic Segmentation for UAV Video Sequences](https://drive.google.com/file/d/1T9FuibdemrVm-ahP_rm3r5Ycg1M7Vn_b/view?usp=sharing)** <ins>Abhay Venkatesh</ins>, Glenn Fung, Vikas Singh, *SIAM Conference on Data Mining 2018*
+
+# Projects
 
 **[OneAccess: Concurrent Data Access Layer for Analytics](https://drive.google.com/file/d/1TL4Hq2vG7jXXdMSGRqPeegiF6insbEqy/view?usp=sharing)** Aarati Kakaraparthy, <ins>Abhay Venkatesh</ins>, Srujith Poondla, 2018
 

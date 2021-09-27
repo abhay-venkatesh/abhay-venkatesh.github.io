@@ -6,7 +6,7 @@ theme: minima
 
 header_pages:
   - _pages/about.md
-  - _pages/scholarly.md
+  - _pages/projects.md
 
 include:
     - _pages
