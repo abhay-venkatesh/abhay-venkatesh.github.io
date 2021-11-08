@@ -8,9 +8,9 @@ title: Projects
 
 Please take a look at my [Google Scholar page](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=Inp7zBgAAAAJ). This page includes further scholarly work not included on my Google Scholar profile.
 
-**Venkatesh, A.**, Fung, G. M., & Singh, V. [Learning View Invariant Semantic Segmentation for UAV Video Sequences](https://drive.google.com/file/d/1T9FuibdemrVm-ahP_rm3r5Ycg1M7Vn_b/view?usp=sharing). In SDM 18 Workshop on Artificial Intelligence in Insurance.
-
 Ravi, S. N., **Venkatesh, A.**, Fung, G. M., & Singh, V (2019). [Nondecomposable Data Dependent Regularizers offer Significant Performance Gains](https://drive.google.com/file/d/1ab8QXvKKh0SBNJCMKFW3Dh2v3yxjZ8mk/view?usp=sharing). In the Conference on the Mathematical Theory of Deep Neural Networks 2019 (DeepMath 2019).
+
+**Venkatesh, A.**, Fung, G. M., & Singh, V. [Learning View Invariant Semantic Segmentation for UAV Video Sequences](https://drive.google.com/file/d/1T9FuibdemrVm-ahP_rm3r5Ycg1M7Vn_b/view?usp=sharing). In SDM 18 Workshop on Artificial Intelligence in Insurance.
 
 # Projects
 
