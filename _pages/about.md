@@ -6,7 +6,7 @@ title: About
 
 <img src="{% link /assets/imgs/avatar.png %}" width="40%">
 
-Abhay Venkatesh is _Software Engineer_ at **[Anduril Industries](https://anduril.com/)** (employee #47) working on _Platform Infrastructure_ product and architecture. Previously, he was a founding engineer on several of Anduril's future programs ranging from _Autonomy_ to _Space_, pioneering first-of-its-kind mission autonomy systems for command-and-control of drone fleets.
+Abhay Venkatesh is _Software Engineer_ at **[Anduril Industries](https://anduril.com/)** working on software infrastructure architecture. Previously, he was a founding engineer on several of Anduril's future programs ranging from _Autonomy_ to _Space_, pioneering first-of-its-kind mission autonomy systems for command-and-control of drone fleets.
 
 #### Education
 
