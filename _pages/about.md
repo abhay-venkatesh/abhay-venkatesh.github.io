@@ -22,7 +22,7 @@ Abhay was an award-winning undergraduate researcher in computer science, having 
 
 In addition to his excellence in computer science research, he is a proven leader, having received numerous awards for his leadership at the University of Wisconsin-Madison such as the [John W. Jung Memorial Scholarship](http://www.allcampusparty.org/jwj) and the **Dean's Award of Excellence**. 
 
-Finally, he has ranked **#3 nationally out of 15,000** in prestigious technology quizzes, and has received recognition and recommendation from senior leadership in state government for his non-profit work.
+Finally, he has ranked **#3 nationally out of 15,000** in prestigious technology quizzes, received **99th percentile scores in competitive exams such as the GRE**, and received **recognition and recommendation from senior leadership in state government** for his non-profit work.
 
 #### Media
 
