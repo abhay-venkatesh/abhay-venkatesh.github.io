@@ -28,7 +28,7 @@ Finally, he has ranked **#3 nationally out of 15,000** in prestigious technology
 
 Abhay has written numerous articles on technology. In [The Revelation](https://abhayvenkatesh.substack.com/), Abhay focuses on philosophical ideas at the intersection of technology, philosophy, and startups. On the other hand, in [Applied Dialectics](https://applieddialectics.substack.com/), Abhay writes about applying these ideas in the real world.
 
-In addition, **Abhay has been interviewed several times**, including by [Jason Gauci of Facebook AI, and Patrick Wheeler of Apple](https://www.programmingthrowdown.com/2021/08/episode-118-building-robotics-software.html), and his work has been featured on **[Forbes](https://www.forbes.com/sites/davidhambling/2021/04/07/software-acquires-hardware-defense-ai-startup-anduril-buys-drone-maker/)** and **[TechCrunch](https://techcrunch.com/2020/09/24/anduril-air-force-abms-jadc2/)**. He has also been featured on local and state news in the past.
+In addition, **Abhay has been interviewed several times**, including by [Jason Gauci of Facebook AI and Patrick Wheeler of Apple](https://www.programmingthrowdown.com/2021/08/episode-118-building-robotics-software.html) and his work has been featured on **[Forbes](https://www.forbes.com/sites/davidhambling/2021/04/07/software-acquires-hardware-defense-ai-startup-anduril-buys-drone-maker/)** and **[TechCrunch](https://techcrunch.com/2020/09/24/anduril-air-force-abms-jadc2/)**. He has also been featured on local and state news in the past.
 
 #### More
 
