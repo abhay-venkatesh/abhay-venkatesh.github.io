@@ -18,17 +18,17 @@ Abhay was the President and Co-Founder of **[ai.cs.wisc.edu](ai.cs.wisc.edu)** a
 
 #### Achievements
 
-Abhay was an award-winning undergraduate researcher in computer science, having been a recipient of awards such as the **[Cornell, Maryland, Max Planck Pre-Doctoral Research Fellowship](https://cmmrs.mpi-sws.org/)** awarded to outstanding pre-doctoral computer science researchers from all around the world. 
+Abhay was an award-winning undergraduate researcher in computer science, having been a recipient of **international awards** such as the **[Cornell, Maryland, Max Planck Pre-Doctoral Research Fellowship](https://cmmrs.mpi-sws.org/)** awarded to **outstanding pre-doctoral computer science researchers from all around the world**. 
 
 In addition to his excellence in computer science research, he is a proven leader, having received numerous awards for his leadership at the University of Wisconsin-Madison such as the [John W. Jung Memorial Scholarship](http://www.allcampusparty.org/jwj) and the **Dean's Award of Excellence**. 
 
-Finally, he has ranked **#3 nationally** in prestigious technology quizzes with over 15,000 participants, and has received recognition and recommendation from senior leadership in state government for his non-profit work.
+Finally, he has ranked **#3 nationally out of 15,000** in prestigious technology quizzes, and has received recognition and recommendation from senior leadership in state government for his non-profit work.
 
 #### Media
 
 Abhay has written numerous articles on technology. In [The Revelation](https://abhayvenkatesh.substack.com/), Abhay focuses on intellectual ideas at the intersection of technology, philosophy, and startups. On the other hand, in [Applied Dialectics](https://applieddialectics.substack.com/), Abhay writes on applying these ideas in the real world.
 
-In addition, [Abhay has been interviewed by Jason Gauci of Facebook AI, and Patrick Wheeler of Apple](https://www.programmingthrowdown.com/2021/08/episode-118-building-robotics-software.html), and his work has been featured on [Forbes](https://www.forbes.com/sites/davidhambling/2021/04/07/software-acquires-hardware-defense-ai-startup-anduril-buys-drone-maker/) and [TechCrunch](https://techcrunch.com/2020/09/24/anduril-air-force-abms-jadc2/). He has also been featured on local and state news in the past.
+In addition, **[Abhay has been interviewed by Jason Gauci of Facebook AI, and Patrick Wheeler of Apple](https://www.programmingthrowdown.com/2021/08/episode-118-building-robotics-software.html)**, and his work has been featured on **[Forbes](https://www.forbes.com/sites/davidhambling/2021/04/07/software-acquires-hardware-defense-ai-startup-anduril-buys-drone-maker/)** and **[TechCrunch](https://techcrunch.com/2020/09/24/anduril-air-force-abms-jadc2/)**. He has also been featured on local and state news in the past.
 
 #### More
 
