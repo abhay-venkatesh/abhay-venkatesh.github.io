@@ -8,15 +8,13 @@ title: About
 
 Abhay Venkatesh is _Software Engineer_ at **[Anduril Industries](https://anduril.com/)**, where he works on software infrastructure in data and distributed systems. Previously, he was a founding engineer on Anduril's autonomy program, where he invented a **7 U.S. patent-pending** system for multi-drone autonomy that unlocked **millions of dollars of contract value** for Anduril.
 
-Abhay has also worked at or with institutions such as **[Facebook Engineering](https://engineering.fb.com/)**, **[Stanford Computer Science](https://cs.stanford.edu/)**, **[Microsoft Research](https://www.microsoft.com/en-us/research/)**, and **[MIT CSAIL](https://www.csail.mit.edu/)** in the past.
+Abhay has also worked at or with institutions such as **[Facebook Engineering](https://engineering.fb.com/)**, **[Stanford Computer Science](https://cs.stanford.edu/)**, **[Microsoft Research](https://www.microsoft.com/en-us/research/)**, and **[MIT CSAIL](https://www.csail.mit.edu/)**.
 
 #### Education
 
 In college, Abhay worked on [AI Research](https://scholar.google.com/citations?user=Inp7zBgAAAAJ&hl=en) focusing on machine learning, computer vision, and software systems. He published 6 papers in 1 year and 9 months at prestigious conferences like [CVPR](http://cvpr2021.thecvf.com/), [AAAI](https://www.aaai.org/), and [HotCloud](https://www.usenix.org/conferences/byname/1) while taking a full course load in advanced computer science and mathematics.
 
-He was also _Software Engineer Intern_ on News Feed Integrity at **[Facebook](https://engineering.fb.com/)**, and _Research Intern_ in Robotics and Software Platforms at **[Stanford](https://www.stanford.edu/)**. 
-
-Abhay was the President and Co-Founder of _AI at UW_ at the University of Wisconsin-Madison, from where he graduated with a Bachelor of Science in computer sciences and mathematics with distinction, and departmental honors in computer sciences.
+Abhay was the President and Co-Founder of **[AI at UW](ai.cs.wisc.edu)** at the University of Wisconsin-Madison, from where he graduated with a Bachelor of Science in _computer sciences and mathematics with distinction, and departmental honors in computer sciences_.
 
 #### Achievements
 
