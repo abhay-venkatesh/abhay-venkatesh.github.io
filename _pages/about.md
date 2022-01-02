@@ -20,7 +20,7 @@ Abhay was the President and Co-Founder of **[ai.cs.wisc.edu](ai.cs.wisc.edu)** a
 
 Abhay is an award-winning researcher in computer science, having been a recipient of **international awards** such as the **[Cornell, Maryland, Max Planck Pre-Doctoral Research Fellowship](https://cmmrs.mpi-sws.org/)** awarded to **outstanding pre-doctoral computer science researchers from all around the world**. 
 
-In addition to his excellence in computer science research, he is a proven leader, having received numerous awards for his leadership at the University of Wisconsin-Madison such as the [John W. Jung Memorial Scholarship](http://www.allcampusparty.org/jwj) and the **Dean's Award of Excellence**. 
+In addition to his excellence in computer science research, he is a proven leader, having received numerous awards for his leadership at the University of Wisconsin-Madison, such as the [John W. Jung Memorial Scholarship](http://www.allcampusparty.org/jwj) and the **Dean's Award of Excellence**. 
 
 Finally, he has ranked **#3 nationally out of 15,000** in prestigious technology quizzes, received **99th percentile scores in competitive exams such as the GRE**, and received **recognition and recommendation from senior leadership in state government** for his non-profit work.
 
