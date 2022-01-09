@@ -7,9 +7,12 @@ theme: minima
 header_pages:
   - _pages/about.md
   - _pages/posts.md
+  - _pages/projects.md
 
 include:
     - _pages
+    - .well-known
+
 
 exclude: 
     - .gitignore

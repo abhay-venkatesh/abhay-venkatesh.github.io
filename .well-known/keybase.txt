@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/abhayvenkatesh
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://abhayvenkatesh.com
+  * I am abhayvenkatesh (https://keybase.io/abhayvenkatesh) on keybase.
+  * I have a public key ASBNQ3wN77HcViT3_W5K7oelQ65pHdgBpXUGFkGi2n-Eswo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01204d437c0defb1dc5624f7fd6e4aee87a543ae691dd801a575061641a2da7f84b30a",
+      "host": "keybase.io",
+      "kid": "01204d437c0defb1dc5624f7fd6e4aee87a543ae691dd801a575061641a2da7f84b30a",
+      "uid": "fd95c0fd37e5a668a646a604f7e8b919",
+      "username": "abhayvenkatesh"
+    },
+    "merkle_root": {
+      "ctime": 1625244664,
+      "hash": "0690796f8323691eed3f01ea43448ccb3682956c63cda1f0c8ada2ea7eafdaebdacd46be90397518b2f2d16a134b39fb65d835772f4937726a1010dfa1308090",
+      "hash_meta": "c549aa709adfde374665e6e6118321aa1677628f08715e2d1d9259d272b3ffb1",
+      "seqno": 20301675
+    },
+    "service": {
+      "entropy": "NeMjQ4AdbrdyqLCp24rESYef",
+      "hostname": "abhayvenkatesh.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.7.0"
+  },
+  "ctime": 1625244672,
+  "expire_in": 504576000,
+  "prev": "82e883203226b01d85977180fda2090abc34bc5f0938e86fe558c9212071d853",
+  "seqno": 11,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgTUN8De+x3FYk9/1uSu6HpUOuaR3YAaV1BhZBotp/hLMKp3BheWxvYWTESpcCC8QgguiDIDImsB2Fl3GA/aIJCrw0vF8JOOhv5VjJISBx2FPEIGvty1JuatDXru6xvX2JQ9ENc9dMuJxUItUerkrgyBkUAgHCo3NpZ8RA4YuYrEdUo3agSP0/K0vZL10rsFIAjltE2GMZeKly7vbsPVj5ZaLSn5b3sD4Q0ILqO6/v181CmpNWxDnXLEmWAahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIKBMwUEsaHoJdGLZIW3IQoHK+31lq0btIUBlEIfXmuo0o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/abhayvenkatesh
+
+==================================================================
