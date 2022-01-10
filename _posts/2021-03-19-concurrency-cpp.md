@@ -45,7 +45,7 @@ An opinionated guide for how to do concurrency in C++ focusing on more robotics 
 
 ### Loops with Non-Blocking Work
 
-```
+```cpp
 class TaskInterface {
 public:
    virtual void start() = 0;
@@ -78,7 +78,7 @@ public:
 
 ### Loops with Blocking Work
 
-```
+```cpp
 class Task : public TaskInterface {
    std::atomic_bool mShutdown;
    std::thread mThread;
@@ -110,7 +110,7 @@ Prefer `while` to do `do-while` since the `while` applies the same invariant to 
 
 Use futures for an “interruptable wait” for fast shutdown (uses [CV internally](https://stackoverflow.com/questions/56490044/does-stdpromise-internally-use-stdcondition-variable-to-notify-the-associate/56491223#56491223)):
 
-```
+```cpp
 class Task : public TaskInterface {
    std::promise<void> mRequestShutdown;
    std::future<void> mShutdownReceived;
@@ -145,7 +145,7 @@ public:
 
 Use a blocking queue to solve producer-consumer:
 
-```
+```cpp
 class Consumer: public TaskInterface {
    SynchronousQueue<void> mReady;
    std::thread mThread;
@@ -205,7 +205,7 @@ A fundamental limitation of the thread-based concurrency model in C++/Java is th
 
 Instead, for simplicity and to only use the standard library, far better is to just avoid having to wait on multiple things. If you find yourself having to do so, then consider a refactor. For example, instead of having the following, where a thread is calling the receive:
 
-```
+```cpp
 template<typename T>
 class Subscription {
    ConcurrentQueue<T> mQ;
@@ -220,7 +220,7 @@ public:
 
 prefer instead to not have the thread calling the receive at all, and instead do:
 
-```
+```cpp
 template<typename T>
 class Subscription {
    std::mutex mMu;
