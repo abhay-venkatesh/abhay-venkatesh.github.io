@@ -8,6 +8,7 @@ header_pages:
   - _pages/about.md
   - _pages/posts.md
   - _pages/projects.md
+  - _pages/media.md
 
 include:
     - _pages
