@@ -14,7 +14,7 @@ Abhay has also worked at or with institutions such as **[Facebook Engineering](h
 
 Abhay worked on [AI research](https://scholar.google.com/citations?user=Inp7zBgAAAAJ&hl=en) in college, focusing on machine learning, computer vision, and software systems. He published **6 AI papers in 1 year and 9 months** at prestigious conferences like **[CVPR](http://cvpr2021.thecvf.com/)**, **[AAAI](https://www.aaai.org/)**, and **[HotCloud](https://www.usenix.org/conferences/byname/1)** while taking a full course load in advanced computer science and mathematics.
 
-Abhay was the President and Co-Founder of **[ai.cs.wisc.edu](ai.cs.wisc.edu)** at the University of Wisconsin-Madison, from where he graduated with a Bachelor of Science in computer sciences and mathematics with **distinction and departmental honors in computer sciences**.
+Abhay was the President and Co-Founder of **[ai.cs.wisc.edu](ai.cs.wisc.edu)** at the University of Wisconsin-Madison, from where he graduated with a Bachelor of Science in computer sciences and mathematics with **distinction and departmental honors** in computer sciences.
 
 #### Achievements
 
