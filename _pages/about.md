@@ -6,7 +6,7 @@ title: About
 
 <img src="{% link /assets/imgs/avatar.png %}" width="40%">
 
-Abhay Venkatesh is _Software Engineer_ at **[Anduril Industries](https://anduril.com/)**, where he works on AI Infrastructure. Previously, he was a founding engineer on Anduril's autonomy, space, and C++ infrastructure programs, and he invented a **7 U.S. patent-pending** system for multi-drone autonomy that unlocked **millions of dollars of contract value** for Anduril.
+Abhay Venkatesh is _Software Engineer_ at **[Anduril Industries](https://anduril.com/)**, where he works on Software Infrastructure. Previously, he was a founding engineer on Anduril's autonomy, space, and C++ infrastructure programs, and he invented a **7 U.S. patent-pending** system for multi-drone autonomy that unlocked **millions of dollars of contract value** for Anduril.
 
 Abhay has also worked at or with institutions such as **[Facebook Engineering](https://engineering.fb.com/)**, **[Stanford Computer Science](https://cs.stanford.edu/)**, **[Microsoft Research](https://www.microsoft.com/en-us/research/)**, and **[MIT CSAIL](https://www.csail.mit.edu/)**.
 
