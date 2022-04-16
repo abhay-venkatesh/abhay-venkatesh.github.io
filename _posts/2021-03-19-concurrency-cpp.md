@@ -163,7 +163,7 @@ public:
    }
    
    void shutdown() {
-        mReady.`clearAndShutdown`();
+        mReady.clearAndShutdown();
         if(mThread.joinable()) {
             mThread.join();
         }
