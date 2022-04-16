@@ -1,6 +1,6 @@
 # abhay-venkatesh.github.io
 
-## Build and run locally
+## Build and run
 
 ```bash
 bundle exec jekyll serve
