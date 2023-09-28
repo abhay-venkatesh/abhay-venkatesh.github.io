@@ -6,4 +6,4 @@ title: About
 
 <img src="{% link /assets/imgs/avatar.png %}" width="40%">
 
-Abhay Venkatesh is Early Software Engineer at [Anduril Industries](https://anduril.com/), hired directly under the CEO. He currently works on the [Lattice OS](https://anduril.com/lattice). Connect with Abhay on [LinkedIn](https://www.linkedin.com/in/abhayvenkatesh/), follow him on [Twitter](https://twitter.com/AbhayVenkatesh1), or reach out to him over [e-mail](mailto:abhay.venkatesh@gmail.com).
+Connect with Abhay on [LinkedIn](https://www.linkedin.com/in/abhayvenkatesh/), follow him on [Twitter](https://twitter.com/AbhayVenkatesh1), or reach out to him over [e-mail](mailto:abhay.venkatesh@gmail.com).
