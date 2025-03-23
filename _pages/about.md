@@ -6,7 +6,7 @@ title: About
 
 Abhay is building Frontier AI at [Anduril](http://anduril.com/) and [investing in startups](https://docs.google.com/document/d/1sEgQPZT6IGMXAwd67eccIpC0DQq7rMoy5_nj43-9p6E/edit?usp=sharing) that have raised follow-on financing from funds like **Founders Fund**, **Sequoia** and **Benchmark**.
 
-Previously, he joined Anduril as one of the first AI hires under CEO [Brian Schimpf]([url](https://www.linkedin.com/in/bschimpf/)), with whom he [invented](https://patents.google.com/patent/US20230089776A1/en) [Lattice for Mission Autonomy](https://www.anduril.com/mission-autonomy/). 
+Previously, he joined Anduril as one of the first AI hires under CEO [Brian Schimpf](https://www.linkedin.com/in/bschimpf/), with whom he [invented](https://patents.google.com/patent/US20230089776A1/en) [Lattice for Mission Autonomy](https://www.anduril.com/mission-autonomy/). 
 
 He saw Anduril from <50 employees to more than 5000, from $250M valuation to $28B in valuation and growing. 
 
