@@ -4,7 +4,7 @@ layout: page
 title: About
 ---
 
-Abhay is building [Frontier AI](https://www.anduril.com/article/anduril-partners-with-openai-to-advance-u-s-artificial-intelligence-leadership-and-protect-u-s/) at [**Anduril**](http://anduril.com/) and investing in startups, many of which have raised follow-on financing from funds like **[Founders Fund](https://foundersfund.com/)**, **[Sequoia](https://www.sequoiacap.com/)** and **[Benchmark](https://benchmark.com/)**, and achieved **unicorn $B+ valuation** status.
+Abhay is building [Frontier AI](https://www.anduril.com/article/anduril-partners-with-openai-to-advance-u-s-artificial-intelligence-leadership-and-protect-u-s/) at [**Anduril**](http://anduril.com/) and investing in startups, many of which have raised follow-on financing from funds like **[Founders Fund](https://foundersfund.com/)**, **[Sequoia](https://www.sequoiacap.com/)** and **[Benchmark](https://benchmark.com/)**, and achieved **unicorn $B+ valuations**.
 
 Previously, he joined Anduril as one of the first AI hires under **CEO** [Brian Schimpf](https://www.linkedin.com/in/bschimpf/), with whom he [invented](https://patents.google.com/patent/US20230089776A1/en) [Lattice for Mission Autonomy](https://www.anduril.com/mission-autonomy/). 
 
