@@ -33,5 +33,4 @@ In addition, Abhay is a seed investor in startups like [Saronic](https://www.sar
 <h2>Other</h2>
 <ul>
   <li><a href="{{ '/posts/' | relative_url }}">Technical posts</a></li>
-  <li><a href="{{ '/projects/' | relative_url }}">Projects</a></li>
 </ul>
