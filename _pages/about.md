@@ -16,11 +16,7 @@ Email: abhay.venkatesh[at]gmail[dot]com<br>
 
 <h2>About</h2>
 
-Abhay is an engineer and researcher who most recently started the frontier AI initiative at [Anduril](https://www.anduril.com/) to train and [deploy](https://www.anduril.com/news/anduril-partners-with-openai-to-advance-u-s-artificial-intelligence-leadership-and-protect-u-s) frontier AI models for national security. Previously, he joined Anduril as one of the first AI hires under the CEO, saw the company grow from fewer than 50 people to almost 10,000, [invented](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Inp7zBgAAAAJ&citation_for_view=Inp7zBgAAAAJ:UeHWp8X0CEIC) its [autonomy systems](https://www.anduril.com/lattice/mission-autonomy), and architected large parts of [Lattice's command-and-control platform](https://developer.anduril.com/guides/tasks/overview).
-
-Before that, he was an AI researcher focusing on [machine learning](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Inp7zBgAAAAJ&citation_for_view=Inp7zBgAAAAJ:qjMakFHDy7sC) and was going to do his PhD at the [Carnegie Mellon School of Computer Science](https://www.cs.cmu.edu/) in the [Catalyst](https://catalyst.cs.cmu.edu/) machine learning and systems group. He received a BS in Computer Science and Mathematics with distinction and departmental honors from the [University of Wisconsin-Madison](https://www.wisc.edu/).
-
-He is also an investor in companies like [OpenAI](https://openai.com/), [Saronic](https://www.saronic.com/), [Mercor](https://www.mercor.com/), [Factory](https://factory.ai/), [Cartesia](https://cartesia.ai/), and [American Terawatt](https://www.americanterawatt.com/), and has scouted for firms like [Sequoia](https://sequoiacap.com/), [Greylock](https://greylock.com/), and [Index](https://www.indexventures.com/).
+Abhay is an engineer and researcher. He was early at [Anduril](https://www.anduril.com/), where he co-invented [Lattice for Mission Autonomy](https://www.anduril.com/lattice/mission-autonomy) and later helped start its frontier AI initiative. Before that he did machine learning research. He also angel invests.
 
 <h2>Papers</h2>
 <ul>
@@ -76,14 +72,6 @@ Abhay Venkatesh, Brian W. Schimpf, Elston Tochip, Jared Newman, Joshua John Benn
   <li><a target="_blank" href="https://patents.google.com/patent/US12293670B2/en">Generating a flight plan of a semi-autonomous drone</a>, US Patent 12,293,670 (2025)</li>
   <li><a target="_blank" href="https://patents.google.com/patent/US12242986B2/en">Planning an operation for a set of assets</a>, US Patent 12,242,986 (2025)</li>
   <li><a target="_blank" href="https://patents.google.com/patent/US12208892B2/en">Generating an environment for an operation using a set of assets</a>, US Patent 12,208,892 (2025)</li>
-</ul>
-
-<h2>Awards</h2>
-<ul>
-  <li>Cornell, Maryland, and Max Planck Pre-Doctoral Research Fellowship, 2018</li>
-  <li>Hilldale Undergraduate Research Fellowship, University of Wisconsin-Madison, 2018</li>
-  <li>Ranked #5 worldwide on the Microsoft COCO object-detection leaderboard</li>
-  <li><a target="_blank" href="https://edisonawards.com/winner/ghost-4/">Bronze Edison Award</a>, for Anduril's Ghost 4, 2021</li>
 </ul>
 
 <h2>Writing</h2>
