@@ -11,6 +11,11 @@ description: "Don't make something people want, make something the system needs.
 
 July 28, 2026. Originally published as an <a target="_blank" href="https://x.com/AbhayVenkatesh1/status/2082252761929044140">article on X</a>, where discussion continues. A follow-up, <a target="_blank" href="https://www.sovereigntygaps.com/">Requests for Startups</a>, lists gaps worth closing.
 
+<figure>
+  <img src="{{ '/assets/imgs/sovereignty-gaps/lorenzetti-bad-government.jpg' | relative_url }}" alt="Ambrogio Lorenzetti, Allegory of Bad Government, fresco in the Palazzo Pubblico, Siena" width="100%">
+  <figcaption>Ambrogio Lorenzetti, "Allegory of Bad Government" (c. 1338–1339), Palazzo Pubblico, Siena. Public domain, via Wikimedia Commons.</figcaption>
+</figure>
+
 <blockquote>Don't make something people want, make something the system needs<a href="#fn1" id="ref1">[1]</a></blockquote>
 
 <p>It is customary to describe startups as bottoms-up phenomena. The concept itself "start-up" seems to suggest that you start (from the bottom), and go up. We're all familiar with the "startup myth" (it is funny that they all seem to start in the exact same way). An eccentric founder in a garage. They have a brilliant idea—the light bulb moment—and by sheer force of insight or persistence, the idea propagates outward until it reshapes the world. Unfortunately, this story is appealing not because it is true, but because it flatters our modern, post-enlightenment<a href="#fn2" id="ref2">[2]</a> self conceptions: that merit is self-certifying<a href="#fn3" id="ref3">[3]</a>.</p>
