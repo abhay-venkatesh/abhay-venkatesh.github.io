@@ -5,7 +5,7 @@ title: About
 ---
 
 <h1>Abhay Venkatesh</h1>
-<img src="{{ '/assets/imgs/avatar.png' | relative_url }}" alt="headshot-photo" height="160">
+<img src="{{ '/assets/imgs/headshot.jpg' | relative_url }}" alt="headshot-photo" height="160">
 
 <h2>Contact</h2>
 San Francisco, CA<br>
