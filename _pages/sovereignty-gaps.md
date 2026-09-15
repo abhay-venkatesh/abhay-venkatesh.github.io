@@ -91,7 +91,10 @@ July 28, 2026. Originally published as an <a target="_blank" href="https://x.com
 
 <h2>Finding Sovereignty Gaps</h2>
 
-<p><em>The original article illustrates this section with Adam Tooze's schematic of the polycrisis, reproduced from <a target="_blank" href="https://devpolicy.org/the-polycrisis-and-global-development-finance-options-and-dilemmas-20221114/">"The 'polycrisis' and global development finance: options and dilemmas"</a>, Development Policy Centre. It is not reproduced here because it is not freely licensed.</em></p>
+<figure>
+  <img src="{{ '/assets/imgs/sovereignty-gaps/polycrisis-domino-effects.jpg' | relative_url }}" alt="Causal network diagram of the global polycrisis, showing stresses, triggers, and crises cascading from pandemic to inflation, financial crisis, war, famine, and civil violence" width="100%">
+  <figcaption>"Domino effects in the global polycrisis", Figure 8 from Michael Lawrence, Thomas Homer-Dixon, Scott Janzwood, Johan Rockström, Ortwin Renn, Jonathan F. Donges, "Global polycrisis: the causal mechanisms of crisis entanglement", <em>Global Sustainability</em> 7 (2024), <a target="_blank" href="https://doi.org/10.1017/sus.2024.1">doi:10.1017/sus.2024.1</a>. Figure design by Jacob Buurma. Licensed <a target="_blank" href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>. The original article used Adam Tooze's schematic of the polycrisis, reproduced from <a target="_blank" href="https://devpolicy.org/the-polycrisis-and-global-development-finance-options-and-dilemmas-20221114/">"The 'polycrisis' and global development finance: options and dilemmas"</a>, Development Policy Centre.</figcaption>
+</figure>
 
 <p>One way to find sovereignty gaps is to think in terms of "crises". You could think in terms of the housing crisis, climate crisis, pension crisis, debt crisis, or fertility crisis. Or perhaps yet another set of crises will emerge as part of the biggest technological changes. In our time, that is AI.</p>
 

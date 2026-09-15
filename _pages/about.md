@@ -20,7 +20,7 @@ Abhay is an engineer and researcher who most recently started the frontier AI in
 
 Before that, he was an AI researcher focusing on [machine learning](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Inp7zBgAAAAJ&citation_for_view=Inp7zBgAAAAJ:qjMakFHDy7sC) and was going to do his PhD at the [Carnegie Mellon School of Computer Science](https://www.cs.cmu.edu/) in the [Catalyst](https://catalyst.cs.cmu.edu/) machine learning and systems group. He received a BS in Computer Science and Mathematics with distinction and departmental honors from the [University of Wisconsin-Madison](https://www.wisc.edu/), and dropped out of [Harvard University](https://www.harvard.edu/).
 
-He is also an investor in companies like [OpenAI](https://openai.com/), [Anthropic](https://www.anthropic.com/), [Saronic](https://www.saronic.com/), [Mercor](https://www.mercor.com/), [Factory](https://factory.ai/), [Cartesia](https://cartesia.ai/), and [American Terawatt](https://www.americanterawatt.com/), and has scouted for firms like [Sequoia](https://sequoiacap.com/), [Greylock](https://greylock.com/), and [Index](https://www.indexventures.com/).
+He is also an investor in companies like [OpenAI](https://openai.com/), [Saronic](https://www.saronic.com/), [Mercor](https://www.mercor.com/), [Factory](https://factory.ai/), [Cartesia](https://cartesia.ai/), and [American Terawatt](https://www.americanterawatt.com/), and has scouted for firms like [Sequoia](https://sequoiacap.com/), [Greylock](https://greylock.com/), and [Index](https://www.indexventures.com/).
 
 <h2>Papers</h2>
 <ul>
