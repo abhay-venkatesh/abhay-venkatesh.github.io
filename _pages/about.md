@@ -101,6 +101,7 @@ Abhay founded:
   <li><a target="_blank" href="https://www.institutesf.org/">Institute</a>, a community for investors</li>
   <li><a target="_blank" href="https://www.revelationsf.com/">Revelation</a>, a group for discussing technology and philosophy</li>
   <li><a target="_blank" href="https://docs.google.com/document/d/1EXJ_hwhSmEqdftGcaF5AfSBXn1BcaaPqhy0lctBdaB8/edit">Defense Angels</a>, the ex-Anduril angel syndicate</li>
+  <li><a target="_blank" href="https://www.instagram.com/aiclubuw/">AI at UW</a>, the AI club at the University of Wisconsin-Madison, founded in 2017 and still active</li>
 </ul>
 
 <h2>Talks and podcasts</h2>
