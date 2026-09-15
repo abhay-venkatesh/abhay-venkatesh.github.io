@@ -97,6 +97,8 @@ Abhay Venkatesh, Brian W. Schimpf, Elston Tochip, Jared Newman, Joshua John Benn
 <h2>Talks and podcasts</h2>
 <ul>
   <li><a target="_blank" href="https://www.youtube.com/watch?v=44iztpsfbFg">Slow's Anti-Thesis on AI and Why</a>, with Will Quist, Slow Ventures, 2025</li>
+  <li><a target="_blank" href="https://podcasts.apple.com/us/podcast/ep-99-abhay-venkatesh/id1576707434?i=1000637475166">Ep. 99</a>, Homeroom Podcast, 2023</li>
+  <li><a target="_blank" href="https://podcasts.apple.com/us/podcast/abhay-venkatesh-the-world-is-not-infinite-resolution/id1704716149?i=1000636565919">The world is not infinite resolution</a>, Keshav, 2023</li>
   <li><a target="_blank" href="https://open.spotify.com/episode/4oKt1V5WEGlp1Q930OtK1a">Robotics, AI and Philosophy</a>, Narratives with Will Jarvis, 2021</li>
   <li><a target="_blank" href="https://www.softwareatscale.dev/p/software-at-scale-33-drone-engineering">Drone Engineering</a>, Software at Scale with Utsav Shah, 2021</li>
   <li><a target="_blank" href="https://www.perrytiu.com/podcast/abhay-venkatesh/">Building Software Infrastructure</a>, Podcast Ruined by a Software Engineer with Perry Tiu, 2021</li>
