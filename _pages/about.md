@@ -16,7 +16,7 @@ Email: abhay.venkatesh[at]gmail[dot]com<br>
 
 <h2>About</h2>
 
-Abhay is an engineer and researcher. He was early at [Anduril](https://www.anduril.com/), where he co-invented [Lattice for Mission Autonomy](https://www.anduril.com/lattice/mission-autonomy) and later helped start its frontier AI initiative. Before that he did machine learning research. He angel invests, including early in [Saronic](https://www.saronic.com/) and [Mercor](https://www.mercor.com/), and has scouted for [Sequoia](https://sequoiacap.com/), [Greylock](https://greylock.com/), and [Index](https://www.indexventures.com/).
+Abhay was an early ML engineer at [Anduril](https://www.anduril.com/). He angel invests, including early in [Saronic](https://www.saronic.com/) and [Mercor](https://www.mercor.com/), and has scouted for [Sequoia](https://sequoiacap.com/), [Greylock](https://greylock.com/), and [Index](https://www.indexventures.com/).
 
 <h2>Papers</h2>
 <ul>
