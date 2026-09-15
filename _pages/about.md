@@ -16,7 +16,7 @@ Email: abhay.venkatesh[at]gmail[dot]com<br>
 
 <h2>About</h2>
 
-Abhay was an early ML engineer at [Anduril](https://www.anduril.com/). He angel invests, including early in [Saronic](https://www.saronic.com/) and [Mercor](https://www.mercor.com/), and has scouted for [Sequoia](https://sequoiacap.com/), [Greylock](https://greylock.com/), and [Index](https://www.indexventures.com/).
+Abhay is an AI engineer. He was an early ML engineer at [Anduril](https://www.anduril.com/), working on autonomy and later on frontier models for national security. Before that he did machine learning research. He also angel invests.
 
 <h2>Papers</h2>
 <ul>
