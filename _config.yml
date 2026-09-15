@@ -2,17 +2,15 @@ title: Abhay Venkatesh
 description: Profile
 author: "Abhay Venkatesh"
 
-theme: minima
-
-header_pages:
-  - _pages/about.md
+markdown: kramdown
 
 include:
     - _pages
     - .well-known
 
-exclude: 
+exclude:
     - .gitignore
     - Gemfile
     - Gemfile.lock
     - LICENSE
+    - README.md
