@@ -20,7 +20,7 @@ Abhay is an engineer and researcher. He most recently started the frontier AI in
 
 Before that, he was an AI researcher focusing on [machine learning](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Inp7zBgAAAAJ&citation_for_view=Inp7zBgAAAAJ:qjMakFHDy7sC) research, and was going to do AI research at the [Carnegie Mellon School of Computer Science](https://www.cs.cmu.edu/) under the [Catalyst](https://catalyst.cs.cmu.edu/) machine learning and systems group. He has also worked on AI at places like [Meta](https://ai.meta.com/) and [Stanford](https://www.stanford.edu/research/). He received a BS in Computer Science and Mathematics with distinction and departmental honors from the [University of Wisconsin-Madison](https://www.wisc.edu/), and dropped out of [Harvard University](https://www.harvard.edu/).
 
-In addition, Abhay is a seed investor in startups like [Saronic](https://www.saronic.com/), [Mercor](https://www.mercor.com/), [Factory](https://factory.ai/), and more, and has scouted for firms like [Greylock](https://greylock.com/), [Index](https://www.indexventures.com/), and [Sequoia](https://sequoiacap.com/). Abhay also hosts [reading groups on philosophy](https://www.revelationsf.com/).
+In addition, Abhay is a seed investor in startups like [Saronic](https://www.saronic.com/), [Mercor](https://www.mercor.com/), [Factory](https://factory.ai/), and more, and has scouted for firms like [Greylock](https://greylock.com/), [Index](https://www.indexventures.com/), and [Sequoia](https://sequoiacap.com/). Abhay also founded [Babel](https://www.babelsf.com/), an AI community in San Francisco; [Institute](https://www.institutesf.org/), a community for investors; [Revelation](https://www.revelationsf.com/), a group for discussing technology and philosophy; and [Defense Angels](https://docs.google.com/document/d/1EXJ_hwhSmEqdftGcaF5AfSBXn1BcaaPqhy0lctBdaB8/edit), the ex-Anduril angel syndicate.
 
 <h2>Papers</h2>
 <ul>
@@ -42,6 +42,16 @@ In addition, Abhay is a seed investor in startups like [Saronic](https://www.sar
       Sathya N. Ravi, Abhay Venkatesh, Glenn M. Fung, Vikas Singh<br>
       <strong>AAAI Conference on Artificial Intelligence (AAAI) 2020</strong><br>
       <a target="_blank" href="https://doi.org/10.1609/aaai.v34i04.5999">paper</a></p>
+  </li>
+  <li>
+    <p><strong>Generating Accurate Pseudo-labels via Hermite Polynomials for SSL Confidently</strong><br>
+      Vishnu Suresh Lokhande, Sathya N. Ravi, Songwong Tasneeyapant, Abhay Venkatesh, Vikas Singh<br>
+      <strong>Midwest Machine Learning Symposium (MMLS) 2019, Best Student Paper</strong></p>
+  </li>
+  <li>
+    <p><strong>Nondecomposable Data Dependent Regularizers Offer Significant Performance Gains</strong><br>
+      Sathya N. Ravi, Abhay Venkatesh, Glenn M. Fung, Vikas Singh<br>
+      <strong>Conference on the Mathematical Theory of Deep Neural Networks (DeepMath) 2019</strong></p>
   </li>
   <li>
     <p><strong>The Case for Unifying Data Loading in Machine Learning Clusters</strong><br>
@@ -68,12 +78,29 @@ Abhay Venkatesh, Brian W. Schimpf, Elston Tochip, Jared Newman, Joshua John Benn
   <li><a target="_blank" href="https://patents.google.com/patent/US12208892B2/en">Generating an environment for an operation using a set of assets</a>, US Patent 12,208,892 (2025)</li>
 </ul>
 
+<h2>Awards</h2>
+<ul>
+  <li>Cornell, Maryland, and Max Planck Pre-Doctoral Research Fellowship, 2018</li>
+  <li>Hilldale Undergraduate Research Fellowship, University of Wisconsin-Madison, 2018</li>
+  <li>Ranked #5 worldwide on the Microsoft COCO object-detection leaderboard</li>
+  <li>Bronze Edison Award, for Anduril's Ghost 4, 2021</li>
+</ul>
+
 <h2>Writing</h2>
 <ul>
   <li><a target="_blank" href="https://x.com/AbhayVenkatesh1/status/2088711408590672210?s=20">Requests for Startups</a></li>
   <li><a target="_blank" href="https://x.com/AbhayVenkatesh1/status/2082252761929044140?s=20">Sovereignty Gaps</a></li>
   <li><a target="_blank" href="https://x.com/AbhayVenkatesh1/status/2060547068255748394?s=20">The AI Economy</a></li>
   <li><a target="_blank" href="https://x.com/AbhayVenkatesh1/status/1779250603191111983?s=20">Startup Principles</a></li>
+</ul>
+
+<h2>Talks and podcasts</h2>
+<ul>
+  <li><a target="_blank" href="https://www.youtube.com/watch?v=44iztpsfbFg">Slow's Anti-Thesis on AI and Why</a>, with Will Quist, Slow Ventures, 2025</li>
+  <li><a target="_blank" href="https://open.spotify.com/episode/4oKt1V5WEGlp1Q930OtK1a">Robotics, AI and Philosophy</a>, Narratives with Will Jarvis, 2021</li>
+  <li><a target="_blank" href="https://www.softwareatscale.dev/p/software-at-scale-33-drone-engineering">Drone Engineering</a>, Software at Scale with Utsav Shah, 2021</li>
+  <li><a target="_blank" href="https://www.perrytiu.com/podcast/abhay-venkatesh/">Building Software Infrastructure</a>, Podcast Ruined by a Software Engineer with Perry Tiu, 2021</li>
+  <li><a target="_blank" href="https://podcasts.apple.com/us/podcast/building-a-robotics-software-platform-with/id427166321?i=1000532861266">Building a Robotics Software Platform</a>, Programming Throwdown with Jason Gauci and Patrick Wheeler, 2021</li>
 </ul>
 
 <h2>Other</h2>
