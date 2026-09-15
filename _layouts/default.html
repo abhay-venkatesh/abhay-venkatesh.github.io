@@ -4,6 +4,25 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{% if page.title and page.url != "/" %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+    {%- assign t = page.title | default: site.title -%}
+    {%- if page.url == "/" -%}{%- assign t = site.title -%}{%- endif -%}
+    {%- assign d = page.description | default: site.description -%}
+    <meta name="description" content="{{ d | escape }}">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="{{ site.title }}">
+    <meta property="og:title" content="{{ t | escape }}">
+    <meta property="og:description" content="{{ d | escape }}">
+    <meta property="og:url" content="{{ page.url | absolute_url }}">
+    <meta property="og:image" content="{{ '/assets/imgs/headshot.jpg' | absolute_url }}">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@AbhayVenkatesh1">
+    <meta name="twitter:title" content="{{ t | escape }}">
+    <meta name="twitter:description" content="{{ d | escape }}">
+    <meta name="twitter:image" content="{{ '/assets/imgs/headshot.jpg' | absolute_url }}">
+    <link rel="icon" href="{{ '/favicon.ico' | relative_url }}" sizes="32x32">
+    <link rel="icon" type="image/png" href="{{ '/favicon-32.png' | relative_url }}" sizes="32x32">
+    <link rel="apple-touch-icon" href="{{ '/apple-touch-icon.png' | relative_url }}">
+    <link rel="canonical" href="{{ page.url | absolute_url }}">
   </head>
   <body>
 {{ content }}
