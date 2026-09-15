@@ -89,7 +89,7 @@ Abhay Venkatesh, Brian W. Schimpf, Elston Tochip, Jared Newman, Joshua John Benn
 <h2>Writing</h2>
 <ul>
   <li><a target="_blank" href="https://www.sovereigntygaps.com/">Requests for Startups</a>, 2026 (<a target="_blank" href="https://x.com/AbhayVenkatesh1/status/2088711408590672210">X</a>)</li>
-  <li><a target="_blank" href="https://x.com/AbhayVenkatesh1/status/2082252761929044140">Sovereignty Gaps</a>, 2026</li>
+  <li><a href="{{ '/sovereignty-gaps/' | relative_url }}">Sovereignty Gaps</a>, 2026 (<a target="_blank" href="https://x.com/AbhayVenkatesh1/status/2082252761929044140">X</a>)</li>
   <li><a target="_blank" href="https://docs.google.com/document/d/17f4ujkG8JY8DS6oKtNryQB1p0P_8HxiBdjprzaUbmns/edit?usp=sharing">The AI Economy</a>, 2026 (<a target="_blank" href="https://x.com/AbhayVenkatesh1/status/2060547068255748394">X</a>)</li>
   <li><a target="_blank" href="https://docs.google.com/document/d/1QFR3scxuGSY848qA7JDYEHI2uVB7f5nzIj_jIH7ihZQ/edit?usp=sharing">Startup Principles</a>, 2024 (<a target="_blank" href="https://x.com/AbhayVenkatesh1/status/1779250603191111983">X</a>)</li>
 </ul>
