@@ -53,7 +53,7 @@ In addition, Abhay is a seed investor in startups like [Saronic](https://www.sar
     <p><strong>Learning View Invariant Semantic Segmentation for UAV Video Sequences</strong><br>
       Abhay Venkatesh, Glenn Fung, Vikas Singh<br>
       <strong>SIAM International Conference on Data Mining (SDM) 2018</strong><br>
-      <a target="_blank" href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Inp7zBgAAAAJ&citation_for_view=Inp7zBgAAAAJ:u-x6o8ySG0sC">paper</a></p>
+      <a target="_blank" href="{{ '/assets/papers/venkatesh-sdm18-view-invariant-segmentation.pdf' | relative_url }}">paper</a></p>
   </li>
 </ul>
 
