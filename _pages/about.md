@@ -12,7 +12,6 @@ San Francisco, CA<br>
 Email: abhay.venkatesh[at]gmail[dot]com<br>
 <a target="_blank" href="https://www.linkedin.com/in/abhayvenkatesh/">LinkedIn</a><br>
 <a target="_blank" href="https://twitter.com/AbhayVenkatesh1">X</a><br>
-<a target="_blank" href="https://github.com/abhay-venkatesh">Github</a><br>
 <a target="_blank" href="https://scholar.google.com/citations?user=Inp7zBgAAAAJ&hl=en">Google scholar</a><br>
 
 <h2>About</h2>
@@ -33,6 +32,6 @@ In addition, Abhay is a seed investor in startups like [Saronic](https://www.sar
 
 <h2>Other</h2>
 <ul>
-  <li><a href="{{ '/posts' | relative_url }}">Technical posts</a></li>
-  <li><a href="{{ '/projects' | relative_url }}">Projects</a></li>
+  <li><a href="{{ '/posts/' | relative_url }}">Technical posts</a></li>
+  <li><a href="{{ '/projects/' | relative_url }}">Projects</a></li>
 </ul>
