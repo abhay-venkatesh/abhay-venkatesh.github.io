@@ -29,6 +29,10 @@ Related programs: [Thunderforge](https://scale.com/blog/thunderforge-ai-for-amer
 
 Abhay worked directly with CEO Brian Schimpf to co-invent and patent foundational systems for [Lattice for Mission Autonomy](https://www.anduril.com/news/anduril-unveils-lattice-for-mission-autonomy), which enables teams of autonomous systems to carry out complex missions under human supervision. Lattice for Mission Autonomy has since been flight-tested on [Fury (YFQ-44A)](https://www.anduril.com/fury/), Anduril's aircraft for the U.S. Air Force's Collaborative Combat Aircraft program.
 
+<h3>Lattice C2 and APIs</h3>
+
+Abhay is a key architect of [Lattice Command & Control (C2)](https://www.anduril.com/lattice/command-and-control) and a top code contributor to Anduril's APIs. He architected the [tasking APIs](https://developer.anduril.com/guides/tasks/overview), which let operators and software create, route, and track tasks across assets and teams of assets.
+
 <h2>Writing</h2>
 <ul>
   <li><a target="_blank" href="https://www.sovereigntygaps.com/">Requests for Startups</a>, 2026 (<a target="_blank" href="https://x.com/AbhayVenkatesh1/status/2088711408590672210">X</a>)</li>
