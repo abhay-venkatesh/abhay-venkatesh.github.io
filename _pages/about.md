@@ -17,6 +17,18 @@ Email: abhay.venkatesh[at]gmail[dot]com<br>
 
 Abhay is an AI engineer. He was an early ML engineer at [Anduril](https://www.anduril.com/), working on autonomy and later on frontier models for national security. Before that he did machine learning research.
 
+<h2>Selected engineering work</h2>
+
+<h3>Frontier AI at Anduril</h3>
+
+Abhay co-founded Anduril's Frontier AI team, recruited the founding team, and built AI infrastructure supporting work across the company, including training infrastructure used to post-train models for national security applications.
+
+Related programs: [Thunderforge](https://scale.com/blog/thunderforge-ai-for-american-defense), [Anduril's OpenAI partnership](https://www.anduril.com/news/anduril-partners-with-openai-to-advance-u-s-artificial-intelligence-leadership-and-protect-u-s), and [CDAO's Edge Data Mesh for generative AI](https://www.anduril.com/news/cdao-awards-anduril-production-agreement-to-deliver-edge-data-mesh).
+
+<h3>Mission Autonomy</h3>
+
+Abhay worked directly with CEO Brian Schimpf to co-invent and patent foundational systems for [Lattice for Mission Autonomy](https://www.anduril.com/news/anduril-unveils-lattice-for-mission-autonomy), which enables teams of autonomous systems to carry out complex missions under human supervision. Lattice for Mission Autonomy has since been flight-tested on [Fury (YFQ-44A)](https://www.anduril.com/fury/), Anduril's aircraft for the U.S. Air Force's Collaborative Combat Aircraft program.
+
 <h2>Writing</h2>
 <ul>
   <li><a target="_blank" href="https://www.sovereigntygaps.com/">Requests for Startups</a>, 2026 (<a target="_blank" href="https://x.com/AbhayVenkatesh1/status/2088711408590672210">X</a>)</li>
