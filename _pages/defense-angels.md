@@ -11,6 +11,8 @@ Defense Angels is the ex-Anduril angel syndicate investing in deep tech, enterpr
 
 **[Join the syndicate on AngelList](https://venture.angellist.com/v/defense/syndicate)**
 
+[Read the original overview on Google Docs](https://docs.google.com/document/d/1EXJ_hwhSmEqdftGcaF5AfSBXn1BcaaPqhy0lctBdaB8/edit).
+
 ## Selected investments
 
 - OpenAI
