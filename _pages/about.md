@@ -42,7 +42,7 @@ Abhay is a key architect of [Lattice Command & Control (C2)](https://www.anduril
   <li><a href="{{ '/posts/' | relative_url }}">Technical posts</a></li>
 </ul>
 
-<h2>Papers</h2>
+<h2>Selected papers</h2>
 <ul>
   <li>
     <p><strong>RubricRefine: Improving Tool-Use Agent Reliability with Training-Free Pre-Execution Refinement</strong><br>
@@ -63,29 +63,9 @@ Abhay is a key architect of [Lattice Command & Control (C2)](https://www.anduril
       <strong>AAAI Conference on Artificial Intelligence (AAAI) 2020</strong><br>
       <a target="_blank" href="https://doi.org/10.1609/aaai.v34i04.5999">paper</a></p>
   </li>
-  <li>
-    <p><strong>Generating Accurate Pseudo-labels via Hermite Polynomials for SSL Confidently</strong><br>
-      Vishnu Suresh Lokhande, Sathya N. Ravi, Songwong Tasneeyapant, Abhay Venkatesh, Vikas Singh<br>
-      <strong>Midwest Machine Learning Symposium (MMLS) 2019, Best Student Paper</strong></p>
-  </li>
-  <li>
-    <p><strong>Nondecomposable Data Dependent Regularizers Offer Significant Performance Gains</strong><br>
-      Sathya N. Ravi, Abhay Venkatesh, Glenn M. Fung, Vikas Singh<br>
-      <strong>Conference on the Mathematical Theory of Deep Neural Networks (DeepMath) 2019</strong></p>
-  </li>
-  <li>
-    <p><strong>The Case for Unifying Data Loading in Machine Learning Clusters</strong><br>
-      Aarati Kakaraparthy, Abhay Venkatesh, Amar Phanishayee, Shivaram Venkataraman<br>
-      <strong>USENIX Workshop on Hot Topics in Cloud Computing (HotCloud) 2019</strong><br>
-      <a target="_blank" href="https://www.usenix.org/conference/hotcloud19/presentation/kakaraparthy">paper</a></p>
-  </li>
-  <li>
-    <p><strong>Learning View Invariant Semantic Segmentation for UAV Video Sequences</strong><br>
-      Abhay Venkatesh, Glenn Fung, Vikas Singh<br>
-      <strong>SDM 2018 Workshop on Artificial Intelligence in Insurance</strong><br>
-      <a target="_blank" href="{{ '/assets/papers/venkatesh-sdm18-view-invariant-segmentation.pdf' | relative_url }}">paper</a></p>
-  </li>
 </ul>
+
+[Full publication list on Google Scholar](https://scholar.google.com/citations?user=Inp7zBgAAAAJ&hl=en).
 
 <h2>Investing</h2>
 
