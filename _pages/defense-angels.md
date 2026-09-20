@@ -7,6 +7,8 @@ description: "Defense Angels is the ex-Anduril angel syndicate investing in deep
 
 [{{ site.title }}]({{ '/' | relative_url }})
 
+<img src="{{ '/assets/imgs/defense-angels-logo.png' | relative_url }}" alt="Defense Angels sword logo" width="166" height="160" style="display:block;margin:1em 0;">
+
 Defense Angels is the ex-Anduril angel syndicate investing in deep tech, enterprise, and AI companies.
 
 **[Join the syndicate on AngelList](https://venture.angellist.com/v/defense/syndicate)**
