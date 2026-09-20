@@ -7,22 +7,24 @@ title: About
 <h1>Abhay Venkatesh</h1>
 <img src="{{ '/assets/imgs/headshot.jpg' | relative_url }}" alt="Abhay Venkatesh" height="160">
 
-<h2>Contact</h2>
-San Francisco, CA<br>
+<p>San Francisco, CA<br>
 Email: abhay.venkatesh[at]gmail[dot]com<br>
-<a target="_blank" href="https://www.linkedin.com/in/abhayvenkatesh/">LinkedIn</a><br>
-<a target="_blank" href="https://twitter.com/AbhayVenkatesh1">X</a><br>
-<a target="_blank" href="https://scholar.google.com/citations?user=Inp7zBgAAAAJ&hl=en">Google scholar</a><br>
+<a target="_blank" href="https://www.linkedin.com/in/abhayvenkatesh/">LinkedIn</a> ·
+<a target="_blank" href="https://twitter.com/AbhayVenkatesh1">X</a> ·
+<a target="_blank" href="https://scholar.google.com/citations?user=Inp7zBgAAAAJ&hl=en">Google Scholar</a></p>
 
 <h2>About</h2>
 
 Abhay is an AI engineer. He was an early ML engineer at [Anduril](https://www.anduril.com/), working on autonomy and later on frontier models for national security. Before that he did machine learning research.
 
-<h2>Investing</h2>
-
-Abhay invests in AI and frontier technology. Since 2022, he has invested across 63 companies, including Mercor, Factory AI, Saronic, OpenAI, and Anthropic. He has participated in scout programs at Greylock, Sequoia, Index Ventures, and Bain Capital Ventures.
-
-He also founded [Defense Angels]({{ '/defense-angels/' | relative_url }}), the ex-Anduril angel syndicate.
+<h2>Writing</h2>
+<ul>
+  <li><a target="_blank" href="https://www.sovereigntygaps.com/">Requests for Startups</a>, 2026 (<a target="_blank" href="https://x.com/AbhayVenkatesh1/status/2088711408590672210">X</a>)</li>
+  <li><a href="{{ '/sovereignty-gaps/' | relative_url }}">Sovereignty Gaps</a>, 2026 (<a target="_blank" href="https://x.com/AbhayVenkatesh1/status/2082252761929044140">X</a>)</li>
+  <li><a target="_blank" href="https://docs.google.com/document/d/17f4ujkG8JY8DS6oKtNryQB1p0P_8HxiBdjprzaUbmns/edit?usp=sharing">The AI Economy</a>, 2026 (<a target="_blank" href="https://x.com/AbhayVenkatesh1/status/2060547068255748394">X</a>)</li>
+  <li><a target="_blank" href="https://docs.google.com/document/d/1QFR3scxuGSY848qA7JDYEHI2uVB7f5nzIj_jIH7ihZQ/edit?usp=sharing">Startup Principles</a>, 2024 (<a target="_blank" href="https://x.com/AbhayVenkatesh1/status/1779250603191111983">X</a>)</li>
+  <li><a href="{{ '/posts/' | relative_url }}">Technical posts</a></li>
+</ul>
 
 <h2>Papers</h2>
 <ul>
@@ -69,24 +71,11 @@ He also founded [Defense Angels]({{ '/defense-angels/' | relative_url }}), the e
   </li>
 </ul>
 
-<h2>Patents</h2>
-Abhay Venkatesh, Brian W. Schimpf, Elston Tochip, Jared Newman, Joshua John Bennett, Nikhil Reddy, Samuel R. Elie
-<ul>
-  <li><a target="_blank" href="https://patents.google.com/patent/US12602043B2/en">Asset failure and replacement management of a set of assets</a>, US Patent 12,602,043 (2026)</li>
-  <li><a target="_blank" href="https://patents.google.com/patent/US12595053B2/en">Dynamic asset addition management of a set of assets</a>, US Patent 12,595,053 (2026)</li>
-  <li><a target="_blank" href="https://patents.google.com/patent/US12366854B2/en">Grouping a set of assets to perform an operation</a>, US Patent 12,366,854 (2025)</li>
-  <li><a target="_blank" href="https://patents.google.com/patent/US12293670B2/en">Generating a flight plan of a semi-autonomous drone</a>, US Patent 12,293,670 (2025)</li>
-  <li><a target="_blank" href="https://patents.google.com/patent/US12242986B2/en">Planning an operation for a set of assets</a>, US Patent 12,242,986 (2025)</li>
-  <li><a target="_blank" href="https://patents.google.com/patent/US12208892B2/en">Generating an environment for an operation using a set of assets</a>, US Patent 12,208,892 (2025)</li>
-</ul>
+<h2>Investing</h2>
 
-<h2>Writing</h2>
-<ul>
-  <li><a target="_blank" href="https://www.sovereigntygaps.com/">Requests for Startups</a>, 2026 (<a target="_blank" href="https://x.com/AbhayVenkatesh1/status/2088711408590672210">X</a>)</li>
-  <li><a href="{{ '/sovereignty-gaps/' | relative_url }}">Sovereignty Gaps</a>, 2026 (<a target="_blank" href="https://x.com/AbhayVenkatesh1/status/2082252761929044140">X</a>)</li>
-  <li><a target="_blank" href="https://docs.google.com/document/d/17f4ujkG8JY8DS6oKtNryQB1p0P_8HxiBdjprzaUbmns/edit?usp=sharing">The AI Economy</a>, 2026 (<a target="_blank" href="https://x.com/AbhayVenkatesh1/status/2060547068255748394">X</a>)</li>
-  <li><a target="_blank" href="https://docs.google.com/document/d/1QFR3scxuGSY848qA7JDYEHI2uVB7f5nzIj_jIH7ihZQ/edit?usp=sharing">Startup Principles</a>, 2024 (<a target="_blank" href="https://x.com/AbhayVenkatesh1/status/1779250603191111983">X</a>)</li>
-</ul>
+Abhay invests in AI and frontier technology. Since 2022, he has invested across 63 companies, including Mercor, Factory AI, Saronic, OpenAI, and Anthropic. He has participated in scout programs at Greylock, Sequoia, Index Ventures, and Bain Capital Ventures.
+
+He also founded [Defense Angels]({{ '/defense-angels/' | relative_url }}), the ex-Anduril angel syndicate.
 
 <h2>Communities</h2>
 Abhay founded:
@@ -108,7 +97,13 @@ Abhay founded:
   <li><a target="_blank" href="https://podcasts.apple.com/us/podcast/building-a-robotics-software-platform-with/id427166321?i=1000532861266">Building a Robotics Software Platform</a>, Programming Throwdown with Jason Gauci and Patrick Wheeler, 2021</li>
 </ul>
 
-<h2>Other</h2>
+<h2>Patents</h2>
+Abhay Venkatesh, Brian W. Schimpf, Elston Tochip, Jared Newman, Joshua John Bennett, Nikhil Reddy, Samuel R. Elie
 <ul>
-  <li><a href="{{ '/posts/' | relative_url }}">Technical posts</a></li>
+  <li><a target="_blank" href="https://patents.google.com/patent/US12602043B2/en">Asset failure and replacement management of a set of assets</a>, US Patent 12,602,043 (2026)</li>
+  <li><a target="_blank" href="https://patents.google.com/patent/US12595053B2/en">Dynamic asset addition management of a set of assets</a>, US Patent 12,595,053 (2026)</li>
+  <li><a target="_blank" href="https://patents.google.com/patent/US12366854B2/en">Grouping a set of assets to perform an operation</a>, US Patent 12,366,854 (2025)</li>
+  <li><a target="_blank" href="https://patents.google.com/patent/US12293670B2/en">Generating a flight plan of a semi-autonomous drone</a>, US Patent 12,293,670 (2025)</li>
+  <li><a target="_blank" href="https://patents.google.com/patent/US12242986B2/en">Planning an operation for a set of assets</a>, US Patent 12,242,986 (2025)</li>
+  <li><a target="_blank" href="https://patents.google.com/patent/US12208892B2/en">Generating an environment for an operation using a set of assets</a>, US Patent 12,208,892 (2025)</li>
 </ul>
