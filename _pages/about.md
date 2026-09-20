@@ -16,7 +16,13 @@ Email: abhay.venkatesh[at]gmail[dot]com<br>
 
 <h2>About</h2>
 
-Abhay is an AI engineer. He was an early ML engineer at [Anduril](https://www.anduril.com/), working on autonomy and later on frontier models for national security. Before that he did machine learning research. He also angel invests.
+Abhay is an AI engineer. He was an early ML engineer at [Anduril](https://www.anduril.com/), working on autonomy and later on frontier models for national security. Before that he did machine learning research.
+
+<h2>Investing</h2>
+
+Abhay invests in AI and frontier technology. Since 2022, he has invested across 63 companies, including Mercor, Factory AI, Saronic, OpenAI, and Anthropic. He has participated in scout programs at Greylock, Sequoia, Index Ventures, and Bain Capital Ventures.
+
+He also founded [Defense Angels]({{ '/defense-angels/' | relative_url }}), the ex-Anduril angel syndicate.
 
 <h2>Papers</h2>
 <ul>
