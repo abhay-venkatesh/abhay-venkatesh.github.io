@@ -46,6 +46,7 @@ Abhay is a key architect of [Lattice Command & Control (C2)](https://www.anduril
   <li><a target="_blank" href="https://www.sovereigntygaps.com/">Requests for Startups</a>, 2026 (<a target="_blank" href="https://x.com/AbhayVenkatesh1/status/2088711408590672210">X</a>)</li>
   <li><a href="{{ '/sovereignty-gaps/' | relative_url }}">Sovereignty Gaps</a>, 2026 (<a target="_blank" href="https://x.com/AbhayVenkatesh1/status/2082252761929044140">X</a>)</li>
   <li><a target="_blank" href="https://docs.google.com/document/d/17f4ujkG8JY8DS6oKtNryQB1p0P_8HxiBdjprzaUbmns/edit?usp=sharing">The AI Economy</a>, 2026 (<a target="_blank" href="https://x.com/AbhayVenkatesh1/status/2060547068255748394">X</a>)</li>
+  <li><a target="_blank" href="https://docs.google.com/document/d/1pA4rxm3PGtYEoiSIO2uxJo6t8yWBap7_OsuHgjeZ43Y/edit">The Amplification of Software</a>, 2026</li>
   <li><a target="_blank" href="https://docs.google.com/document/d/1QFR3scxuGSY848qA7JDYEHI2uVB7f5nzIj_jIH7ihZQ/edit?usp=sharing">Startup Principles</a>, 2024 (<a target="_blank" href="https://x.com/AbhayVenkatesh1/status/1779250603191111983">X</a>)</li>
   <li><a href="{{ '/posts/' | relative_url }}">Technical posts</a></li>
 </ul>
