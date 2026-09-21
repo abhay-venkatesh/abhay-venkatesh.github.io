@@ -21,27 +21,27 @@ Email: abhay.venkatesh[at]gmail[dot]com<br>
   <a href="#communities">Communities</a>
 </nav>
 
-<h2 id="about"><a class="section-link" href="#about" title="Link to About">About<span class="section-marker" aria-hidden="true"> #</span></a></h2>
+<h2 id="about"><a class="section-link" href="#about" title="Link to About">About</a></h2>
 
 Abhay is an AI engineer. He was an early ML engineer at [Anduril](https://www.anduril.com/), working on autonomy and later on frontier models for national security. Before that he did machine learning research.
 
-<h2 id="engineering"><a class="section-link" href="#engineering" title="Link to Selected engineering work">Selected engineering work<span class="section-marker" aria-hidden="true"> #</span></a></h2>
+<h2 id="engineering"><a class="section-link" href="#engineering" title="Link to Selected engineering work">Selected engineering work</a></h2>
 
-<h3 id="frontier-ai-at-anduril"><a class="section-link" href="#frontier-ai-at-anduril" title="Link to Frontier AI at Anduril">Frontier AI at Anduril<span class="section-marker" aria-hidden="true"> #</span></a></h3>
+<h3 id="frontier-ai-at-anduril"><a class="section-link" href="#frontier-ai-at-anduril" title="Link to Frontier AI at Anduril">Frontier AI at Anduril</a></h3>
 
 Abhay co-founded Anduril's Frontier AI team, recruited the founding team, and built AI infrastructure supporting work across the company, including training infrastructure used to post-train models for national security applications.
 
 Related programs: [Thunderforge](https://scale.com/blog/thunderforge-ai-for-american-defense), [Anduril's OpenAI partnership](https://www.anduril.com/news/anduril-partners-with-openai-to-advance-u-s-artificial-intelligence-leadership-and-protect-u-s), and [CDAO's Edge Data Mesh for generative AI](https://www.anduril.com/news/cdao-awards-anduril-production-agreement-to-deliver-edge-data-mesh).
 
-<h3 id="mission-autonomy"><a class="section-link" href="#mission-autonomy" title="Link to Mission Autonomy">Mission Autonomy<span class="section-marker" aria-hidden="true"> #</span></a></h3>
+<h3 id="mission-autonomy"><a class="section-link" href="#mission-autonomy" title="Link to Mission Autonomy">Mission Autonomy</a></h3>
 
 Abhay worked directly with CEO Brian Schimpf to co-invent and patent foundational systems for [Lattice for Mission Autonomy](https://www.anduril.com/news/anduril-unveils-lattice-for-mission-autonomy), which enables teams of autonomous systems to carry out complex missions under human supervision. Lattice for Mission Autonomy has since been flight-tested on [Fury (YFQ-44A)](https://www.anduril.com/fury/), Anduril's aircraft for the U.S. Air Force's Collaborative Combat Aircraft program.
 
-<h3 id="lattice-c2-and-apis"><a class="section-link" href="#lattice-c2-and-apis" title="Link to Lattice C2 and APIs">Lattice C2 and APIs<span class="section-marker" aria-hidden="true"> #</span></a></h3>
+<h3 id="lattice-c2-and-apis"><a class="section-link" href="#lattice-c2-and-apis" title="Link to Lattice C2 and APIs">Lattice C2 and APIs</a></h3>
 
 Abhay is a key architect of [Lattice Command & Control (C2)](https://www.anduril.com/lattice/command-and-control) and a top code contributor to Anduril's APIs. He architected the [tasking APIs](https://developer.anduril.com/guides/tasks/overview), which let operators and software create, route, and track tasks across assets and teams of assets.
 
-<h2 id="writing"><a class="section-link" href="#writing" title="Link to Writing">Writing<span class="section-marker" aria-hidden="true"> #</span></a></h2>
+<h2 id="writing"><a class="section-link" href="#writing" title="Link to Writing">Writing</a></h2>
 <ul>
   <li><a target="_blank" href="https://www.sovereigntygaps.com/">Requests for Startups</a>, 2026 (<a target="_blank" href="https://x.com/AbhayVenkatesh1/status/2088711408590672210">X</a>)</li>
   <li><a href="{{ '/sovereignty-gaps/' | relative_url }}">Sovereignty Gaps</a>, 2026 (<a target="_blank" href="https://x.com/AbhayVenkatesh1/status/2082252761929044140">X</a>)</li>
@@ -50,7 +50,7 @@ Abhay is a key architect of [Lattice Command & Control (C2)](https://www.anduril
   <li><a href="{{ '/posts/' | relative_url }}">Technical posts</a></li>
 </ul>
 
-<h2 id="papers"><a class="section-link" href="#papers" title="Link to Selected papers">Selected papers<span class="section-marker" aria-hidden="true"> #</span></a></h2>
+<h2 id="papers"><a class="section-link" href="#papers" title="Link to Selected papers">Selected papers</a></h2>
 <ul>
   <li>
     <p><strong>RubricRefine: Improving Tool-Use Agent Reliability with Training-Free Pre-Execution Refinement</strong><br>
@@ -75,13 +75,13 @@ Abhay is a key architect of [Lattice Command & Control (C2)](https://www.anduril
 
 [Full publication list on Google Scholar](https://scholar.google.com/citations?user=Inp7zBgAAAAJ&hl=en).
 
-<h2 id="investing"><a class="section-link" href="#investing" title="Link to Investing">Investing<span class="section-marker" aria-hidden="true"> #</span></a></h2>
+<h2 id="investing"><a class="section-link" href="#investing" title="Link to Investing">Investing</a></h2>
 
 Abhay invests in AI and frontier technology. Since 2022, he has invested across 63 companies, including Mercor, Factory AI, Saronic, OpenAI, and Anthropic. He has participated in scout programs at Greylock, Sequoia, Index Ventures, and Bain Capital Ventures.
 
 He also founded [Defense Angels]({{ '/defense-angels/' | relative_url }}), the ex-Anduril angel syndicate.
 
-<h2 id="communities"><a class="section-link" href="#communities" title="Link to Communities">Communities<span class="section-marker" aria-hidden="true"> #</span></a></h2>
+<h2 id="communities"><a class="section-link" href="#communities" title="Link to Communities">Communities</a></h2>
 Abhay founded:
 <ul>
   <li><a target="_blank" href="https://www.babelsf.com/">Babel</a>, an AI community in San Francisco</li>
@@ -91,7 +91,7 @@ Abhay founded:
   <li><a href="{{ '/defense-angels/' | relative_url }}">Defense Angels</a>, the ex-Anduril angel syndicate</li>
 </ul>
 
-<h2 id="talks-and-podcasts"><a class="section-link" href="#talks-and-podcasts" title="Link to Talks and podcasts">Talks and podcasts<span class="section-marker" aria-hidden="true"> #</span></a></h2>
+<h2 id="talks-and-podcasts"><a class="section-link" href="#talks-and-podcasts" title="Link to Talks and podcasts">Talks and podcasts</a></h2>
 <ul>
   <li><a target="_blank" href="https://www.youtube.com/watch?v=44iztpsfbFg">Slow's Anti-Thesis on AI and Why</a>, with Will Quist, Slow Ventures, 2025</li>
   <li><a target="_blank" href="https://podcasts.apple.com/us/podcast/ep-99-abhay-venkatesh/id1576707434?i=1000637475166">Ep. 99</a>, Homeroom Podcast, 2023</li>
@@ -102,7 +102,7 @@ Abhay founded:
   <li><a target="_blank" href="https://podcasts.apple.com/us/podcast/building-a-robotics-software-platform-with/id427166321?i=1000532861266">Building a Robotics Software Platform</a>, Programming Throwdown with Jason Gauci and Patrick Wheeler, 2021</li>
 </ul>
 
-<h2 id="patents"><a class="section-link" href="#patents" title="Link to Patents">Patents<span class="section-marker" aria-hidden="true"> #</span></a></h2>
+<h2 id="patents"><a class="section-link" href="#patents" title="Link to Patents">Patents</a></h2>
 Abhay Venkatesh, Brian W. Schimpf, Elston Tochip, Jared Newman, Joshua John Bennett, Nikhil Reddy, Samuel R. Elie
 <ul>
   <li><a target="_blank" href="https://patents.google.com/patent/US12602043B2/en">Asset failure and replacement management of a set of assets</a>, US Patent 12,602,043 (2026)</li>
