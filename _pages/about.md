@@ -25,7 +25,7 @@ Email: abhay.venkatesh[at]gmail[dot]com<br>
 
 Abhay is an AI engineer and researcher. He was an early ML engineer at [Anduril](https://www.anduril.com/), working on autonomy and later on frontier models for national security. Before that he did machine learning research.
 
-<h2 id="engineering"><a class="section-link" href="#engineering" title="Link to Selected engineering work">Selected engineering work</a></h2>
+<h2 id="engineering"><a class="section-link" href="#engineering" title="Link to Engineering">Engineering</a></h2>
 
 <h3 id="frontier-ai-at-anduril"><a class="section-link" href="#frontier-ai-at-anduril" title="Link to Frontier AI at Anduril">Frontier AI at Anduril</a></h3>
 
