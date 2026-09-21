@@ -13,11 +13,19 @@ Email: abhay.venkatesh[at]gmail[dot]com<br>
 <a target="_blank" href="https://twitter.com/AbhayVenkatesh1">X</a> ·
 <a target="_blank" href="https://scholar.google.com/citations?user=Inp7zBgAAAAJ&hl=en">Google Scholar</a></p>
 
+<nav aria-label="Page sections">
+  <a href="#engineering">Engineering</a> ·
+  <a href="#writing">Writing</a> ·
+  <a href="#papers">Papers</a> ·
+  <a href="#investing">Investing</a> ·
+  <a href="#communities">Communities</a>
+</nav>
+
 <h2>About</h2>
 
 Abhay is an AI engineer. He was an early ML engineer at [Anduril](https://www.anduril.com/), working on autonomy and later on frontier models for national security. Before that he did machine learning research.
 
-<h2>Selected engineering work</h2>
+<h2 id="engineering">Selected engineering work</h2>
 
 <h3>Frontier AI at Anduril</h3>
 
@@ -33,7 +41,7 @@ Abhay worked directly with CEO Brian Schimpf to co-invent and patent foundationa
 
 Abhay is a key architect of [Lattice Command & Control (C2)](https://www.anduril.com/lattice/command-and-control) and a top code contributor to Anduril's APIs. He architected the [tasking APIs](https://developer.anduril.com/guides/tasks/overview), which let operators and software create, route, and track tasks across assets and teams of assets.
 
-<h2>Writing</h2>
+<h2 id="writing">Writing</h2>
 <ul>
   <li><a target="_blank" href="https://www.sovereigntygaps.com/">Requests for Startups</a>, 2026 (<a target="_blank" href="https://x.com/AbhayVenkatesh1/status/2088711408590672210">X</a>)</li>
   <li><a href="{{ '/sovereignty-gaps/' | relative_url }}">Sovereignty Gaps</a>, 2026 (<a target="_blank" href="https://x.com/AbhayVenkatesh1/status/2082252761929044140">X</a>)</li>
@@ -42,7 +50,7 @@ Abhay is a key architect of [Lattice Command & Control (C2)](https://www.anduril
   <li><a href="{{ '/posts/' | relative_url }}">Technical posts</a></li>
 </ul>
 
-<h2>Selected papers</h2>
+<h2 id="papers">Selected papers</h2>
 <ul>
   <li>
     <p><strong>RubricRefine: Improving Tool-Use Agent Reliability with Training-Free Pre-Execution Refinement</strong><br>
@@ -67,13 +75,13 @@ Abhay is a key architect of [Lattice Command & Control (C2)](https://www.anduril
 
 [Full publication list on Google Scholar](https://scholar.google.com/citations?user=Inp7zBgAAAAJ&hl=en).
 
-<h2>Investing</h2>
+<h2 id="investing">Investing</h2>
 
 Abhay invests in AI and frontier technology. Since 2022, he has invested across 63 companies, including Mercor, Factory AI, Saronic, OpenAI, and Anthropic. He has participated in scout programs at Greylock, Sequoia, Index Ventures, and Bain Capital Ventures.
 
 He also founded [Defense Angels]({{ '/defense-angels/' | relative_url }}), the ex-Anduril angel syndicate.
 
-<h2>Communities</h2>
+<h2 id="communities">Communities</h2>
 Abhay founded:
 <ul>
   <li><a target="_blank" href="https://www.babelsf.com/">Babel</a>, an AI community in San Francisco</li>
