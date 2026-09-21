@@ -23,7 +23,7 @@ Email: abhay.venkatesh[at]gmail[dot]com<br>
 
 <h2 id="about"><a class="section-link" href="#about" title="Link to About">About</a></h2>
 
-Abhay is an AI engineer. He was an early ML engineer at [Anduril](https://www.anduril.com/), working on autonomy and later on frontier models for national security. Before that he did machine learning research.
+Abhay is an AI engineer and researcher. He was an early ML engineer at [Anduril](https://www.anduril.com/), working on autonomy and later on frontier models for national security. Before that he did machine learning research.
 
 <h2 id="engineering"><a class="section-link" href="#engineering" title="Link to Selected engineering work">Selected engineering work</a></h2>
 
@@ -77,7 +77,7 @@ Abhay is a key architect of [Lattice Command & Control (C2)](https://www.anduril
 
 <h2 id="investing"><a class="section-link" href="#investing" title="Link to Investing">Investing</a></h2>
 
-Alongside his engineering work, Abhay angel invests in AI and frontier technology. His investments include Mercor, Factory AI, Saronic, OpenAI, and Anthropic. He also founded [Defense Angels]({{ '/defense-angels/' | relative_url }}), the ex-Anduril angel syndicate.
+Alongside his engineering and research, Abhay angel invests in AI and frontier technology. His investments include Mercor, Factory AI, Saronic, OpenAI, and Anthropic. He also founded [Defense Angels]({{ '/defense-angels/' | relative_url }}), the ex-Anduril angel syndicate.
 
 <h2 id="communities"><a class="section-link" href="#communities" title="Link to Communities">Communities</a></h2>
 Abhay founded:
