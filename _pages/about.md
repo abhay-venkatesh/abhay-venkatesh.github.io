@@ -77,7 +77,7 @@ He also founded [Defense Angels]({{ '/defense-angels/' | relative_url }}), the e
 Abhay founded:
 <ul>
   <li><a target="_blank" href="https://www.babelsf.com/">Babel</a>, an AI community in San Francisco</li>
-  <li><a target="_blank" href="https://www.institutesf.org/">Institute</a>, a community for investors</li>
+  <li><a target="_blank" href="https://www.institutesf.org/">Institute</a>, a community of founders, operators, and investors studying finance</li>
   <li><a target="_blank" href="https://www.revelationsf.com/">Revelation</a>, a group for discussing technology and philosophy</li>
   <li><a target="_blank" href="https://www.themangocircle.com/">The Mango Circle</a>, a mentorship community for South Asians in tech</li>
   <li><a href="{{ '/defense-angels/' | relative_url }}">Defense Angels</a>, the ex-Anduril angel syndicate</li>
