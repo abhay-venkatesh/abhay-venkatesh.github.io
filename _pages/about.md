@@ -77,9 +77,7 @@ Abhay is a key architect of [Lattice Command & Control (C2)](https://www.anduril
 
 <h2 id="investing"><a class="section-link" href="#investing" title="Link to Investing">Investing</a></h2>
 
-Abhay invests in AI and frontier technology. Since 2022, he has invested across 63 companies, including Mercor, Factory AI, Saronic, OpenAI, and Anthropic. He has participated in scout programs at Greylock, Sequoia, Index Ventures, and Bain Capital Ventures.
-
-He also founded [Defense Angels]({{ '/defense-angels/' | relative_url }}), the ex-Anduril angel syndicate.
+Alongside his engineering work, Abhay angel invests in AI and frontier technology. His investments include Mercor, Factory AI, Saronic, OpenAI, and Anthropic. He also founded [Defense Angels]({{ '/defense-angels/' | relative_url }}), the ex-Anduril angel syndicate.
 
 <h2 id="communities"><a class="section-link" href="#communities" title="Link to Communities">Communities</a></h2>
 Abhay founded:
