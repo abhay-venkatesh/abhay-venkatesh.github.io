@@ -77,7 +77,7 @@ Abhay is a key architect of [Lattice Command & Control (C2)](https://www.anduril
 
 <h2 id="investing"><a class="section-link" href="#investing" title="Link to Investing">Investing</a></h2>
 
-Alongside his engineering and research, Abhay angel invests in AI and frontier technology. His investments include Mercor, Factory AI, Saronic, OpenAI, and Anthropic.
+Alongside his engineering and research, Abhay angel invests in AI and frontier technology. His investments include Mercor, Factory AI, Saronic, OpenAI, and Anthropic. He has also scouted for Sequoia, Greylock, Index Ventures, and Bain Capital Ventures.
 
 <h2 id="communities"><a class="section-link" href="#communities" title="Link to Communities">Communities</a></h2>
 <ul>
