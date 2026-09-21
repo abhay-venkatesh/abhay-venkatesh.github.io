@@ -77,10 +77,9 @@ Abhay is a key architect of [Lattice Command & Control (C2)](https://www.anduril
 
 <h2 id="investing"><a class="section-link" href="#investing" title="Link to Investing">Investing</a></h2>
 
-Alongside his engineering and research, Abhay angel invests in AI and frontier technology. His investments include Mercor, Factory AI, Saronic, OpenAI, and Anthropic. He also founded [Defense Angels]({{ '/defense-angels/' | relative_url }}), the ex-Anduril angel syndicate.
+Alongside his engineering and research, Abhay angel invests in AI and frontier technology. His investments include Mercor, Factory AI, Saronic, OpenAI, and Anthropic.
 
 <h2 id="communities"><a class="section-link" href="#communities" title="Link to Communities">Communities</a></h2>
-Abhay founded:
 <ul>
   <li><a target="_blank" href="https://www.babelsf.com/">Babel</a>, an AI community in San Francisco</li>
   <li><a target="_blank" href="https://www.institutesf.org/">Institute</a>, a community of founders, operators, and investors studying finance</li>
