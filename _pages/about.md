@@ -35,7 +35,7 @@ Related programs: [Thunderforge](https://scale.com/blog/thunderforge-ai-for-amer
 
 <h3 id="mission-autonomy"><a class="section-link" href="#mission-autonomy" title="Link to Mission Autonomy">Mission Autonomy</a></h3>
 
-Abhay worked directly with CEO Brian Schimpf to co-invent and patent foundational systems for [Lattice for Mission Autonomy](https://www.anduril.com/news/anduril-unveils-lattice-for-mission-autonomy), which enables teams of autonomous systems to carry out complex missions under human supervision. Lattice for Mission Autonomy has since been flight-tested on [Fury (YFQ-44A)](https://www.anduril.com/fury/), Anduril's aircraft for the U.S. Air Force's Collaborative Combat Aircraft program.
+Abhay worked directly with CEO Brian Schimpf to co-invent and [patent](#patents) foundational systems for [Lattice for Mission Autonomy](https://www.anduril.com/news/anduril-unveils-lattice-for-mission-autonomy), which enables teams of autonomous systems to carry out complex missions under human supervision. Lattice for Mission Autonomy has since been flight-tested on [Fury (YFQ-44A)](https://www.anduril.com/fury/), Anduril's aircraft for the U.S. Air Force's Collaborative Combat Aircraft program.
 
 <h3 id="lattice-c2-and-apis"><a class="section-link" href="#lattice-c2-and-apis" title="Link to Lattice C2 and APIs">Lattice C2 and APIs</a></h3>
 
