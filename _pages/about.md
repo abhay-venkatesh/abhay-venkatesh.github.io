@@ -90,7 +90,7 @@ Abhay Venkatesh, Brian W. Schimpf, Elston Tochip, Jared Newman, Joshua John Benn
 
 <h2 id="investing"><a class="section-link" href="#investing" title="Link to Investing">Investing</a></h2>
 
-Alongside his engineering and research, Abhay angel invests in AI and frontier technology. His investments include Mercor, Factory AI, Saronic, OpenAI, and Anthropic. He has also scouted for Sequoia, Greylock, Index Ventures, and Bain Capital Ventures.
+Alongside his engineering and research, Abhay angel invests in AI and frontier technology. His investments include Mercor, Factory AI, Saronic, and OpenAI. He has also scouted for Sequoia, Greylock, Index Ventures, and Bain Capital Ventures.
 
 <h2 id="communities"><a class="section-link" href="#communities" title="Link to Communities">Communities</a></h2>
 <ul>
