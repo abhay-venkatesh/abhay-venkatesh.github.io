@@ -31,7 +31,7 @@ Abhay is an AI engineer and researcher. He was an early ML engineer at [Anduril]
 
 <h3 id="frontier-ai-at-anduril"><a class="section-link" href="#frontier-ai-at-anduril" title="Link to Frontier AI at Anduril">Frontier AI at Anduril</a></h3>
 
-Abhay co-founded Anduril's Frontier AI team, recruited the founding team, and built AI infrastructure supporting work across the company, including training infrastructure used to post-train models for national security applications.
+Abhay helped start Anduril's Frontier AI team and built AI infrastructure supporting work across the company, including training infrastructure used to post-train models for national security applications.
 
 Related programs: [Thunderforge](https://scale.com/blog/thunderforge-ai-for-american-defense), [Anduril's OpenAI partnership](https://www.anduril.com/news/anduril-partners-with-openai-to-advance-u-s-artificial-intelligence-leadership-and-protect-u-s), and [CDAO's Edge Data Mesh for generative AI](https://www.anduril.com/news/cdao-awards-anduril-production-agreement-to-deliver-edge-data-mesh).
 
@@ -41,7 +41,7 @@ Abhay worked directly with CEO Brian Schimpf to co-invent and [patent](#patents)
 
 <h3 id="lattice-c2-and-apis"><a class="section-link" href="#lattice-c2-and-apis" title="Link to Lattice C2 and APIs">Lattice C2 and APIs</a></h3>
 
-Abhay is a key architect of [Lattice Command & Control (C2)](https://www.anduril.com/lattice/command-and-control) and a top code contributor to Anduril's APIs. He architected the [tasking APIs](https://developer.anduril.com/guides/tasks/overview), which let operators and software create, route, and track tasks across assets and teams of assets.
+Abhay worked on [Lattice Command & Control (C2)](https://www.anduril.com/lattice/command-and-control) and designed the [tasking APIs](https://developer.anduril.com/guides/tasks/overview), which let operators and software create, route, and track tasks across assets and teams of assets.
 
 <h2 id="writing"><a class="section-link" href="#writing" title="Link to Writing">Writing</a></h2>
 <ul>
