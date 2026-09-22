@@ -17,8 +17,10 @@ Email: abhay.venkatesh[at]gmail[dot]com<br>
   <a href="#engineering">Engineering</a> ·
   <a href="#writing">Writing</a> ·
   <a href="#papers">Papers</a> ·
+  <a href="#patents">Patents</a> ·
   <a href="#investing">Investing</a> ·
-  <a href="#communities">Communities</a>
+  <a href="#communities">Communities</a> ·
+  <a href="#talks-and-podcasts">Talks &amp; Podcasts</a>
 </nav>
 
 <h2 id="about"><a class="section-link" href="#about" title="Link to About">About</a></h2>
@@ -76,6 +78,17 @@ Abhay is a key architect of [Lattice Command & Control (C2)](https://www.anduril
 
 [Full publication list on Google Scholar](https://scholar.google.com/citations?user=Inp7zBgAAAAJ&hl=en).
 
+<h2 id="patents"><a class="section-link" href="#patents" title="Link to Patents">Patents</a></h2>
+Abhay Venkatesh, Brian W. Schimpf, Elston Tochip, Jared Newman, Joshua John Bennett, Nikhil Reddy, Samuel R. Elie
+<ul>
+  <li><a target="_blank" href="https://patents.google.com/patent/US12602043B2/en">Asset failure and replacement management of a set of assets</a>, US Patent 12,602,043 (2026)</li>
+  <li><a target="_blank" href="https://patents.google.com/patent/US12595053B2/en">Dynamic asset addition management of a set of assets</a>, US Patent 12,595,053 (2026)</li>
+  <li><a target="_blank" href="https://patents.google.com/patent/US12366854B2/en">Grouping a set of assets to perform an operation</a>, US Patent 12,366,854 (2025)</li>
+  <li><a target="_blank" href="https://patents.google.com/patent/US12293670B2/en">Generating a flight plan of a semi-autonomous drone</a>, US Patent 12,293,670 (2025)</li>
+  <li><a target="_blank" href="https://patents.google.com/patent/US12242986B2/en">Planning an operation for a set of assets</a>, US Patent 12,242,986 (2025)</li>
+  <li><a target="_blank" href="https://patents.google.com/patent/US12208892B2/en">Generating an environment for an operation using a set of assets</a>, US Patent 12,208,892 (2025)</li>
+</ul>
+
 <h2 id="investing"><a class="section-link" href="#investing" title="Link to Investing">Investing</a></h2>
 
 Alongside his engineering and research, Abhay angel invests in AI and frontier technology. His investments include Mercor, Factory AI, Saronic, OpenAI, and Anthropic. He has also scouted for Sequoia, Greylock, Index Ventures, and Bain Capital Ventures.
@@ -98,15 +111,4 @@ Alongside his engineering and research, Abhay angel invests in AI and frontier t
   <li><a target="_blank" href="https://www.softwareatscale.dev/p/software-at-scale-33-drone-engineering">Drone Engineering</a>, Software at Scale with Utsav Shah, 2021</li>
   <li><a target="_blank" href="https://www.perrytiu.com/podcast/abhay-venkatesh/">Building Software Infrastructure</a>, Podcast Ruined by a Software Engineer with Perry Tiu, 2021</li>
   <li><a target="_blank" href="https://podcasts.apple.com/us/podcast/building-a-robotics-software-platform-with/id427166321?i=1000532861266">Building a Robotics Software Platform</a>, Programming Throwdown with Jason Gauci and Patrick Wheeler, 2021</li>
-</ul>
-
-<h2 id="patents"><a class="section-link" href="#patents" title="Link to Patents">Patents</a></h2>
-Abhay Venkatesh, Brian W. Schimpf, Elston Tochip, Jared Newman, Joshua John Bennett, Nikhil Reddy, Samuel R. Elie
-<ul>
-  <li><a target="_blank" href="https://patents.google.com/patent/US12602043B2/en">Asset failure and replacement management of a set of assets</a>, US Patent 12,602,043 (2026)</li>
-  <li><a target="_blank" href="https://patents.google.com/patent/US12595053B2/en">Dynamic asset addition management of a set of assets</a>, US Patent 12,595,053 (2026)</li>
-  <li><a target="_blank" href="https://patents.google.com/patent/US12366854B2/en">Grouping a set of assets to perform an operation</a>, US Patent 12,366,854 (2025)</li>
-  <li><a target="_blank" href="https://patents.google.com/patent/US12293670B2/en">Generating a flight plan of a semi-autonomous drone</a>, US Patent 12,293,670 (2025)</li>
-  <li><a target="_blank" href="https://patents.google.com/patent/US12242986B2/en">Planning an operation for a set of assets</a>, US Patent 12,242,986 (2025)</li>
-  <li><a target="_blank" href="https://patents.google.com/patent/US12208892B2/en">Generating an environment for an operation using a set of assets</a>, US Patent 12,208,892 (2025)</li>
 </ul>
